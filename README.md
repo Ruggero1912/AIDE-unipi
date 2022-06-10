@@ -14,15 +14,22 @@ You can add material by performing a pull request, opening an issue or by contac
 
 #### Year 1
 ⛏️ [Data Mining](https://t.me/UNIPI_data_mining)
+
 📚 [Large Scale Databases](https://t.me/UNIPI_large_scale_databases)
+
 ☁️ [Cloud Computing](https://t.me/UNIPI_cloud_computing)
+
 🎲 [Opt Methods and Game Theory](https://t.me/UNIPI_optimization_methods)
+
 🤑 [Business and Project Management](https://t.me/UNIPI_business_and_project_mngmt)
 
 #### Year 2
 👷‍♂️ [Process Mining](https://t.me/UNIPI_process_mining)
+
 🤖 [Multimedia Information Retrieval and Computer Vision](https://t.me/UNIPI_multimedia_inf_retr_and_cv)
+
 🧠 [Computational Intelligence and Deep Learning](https://t.me/UNIPI_comp_intell_and_deep_lrnin)
+
 🧞‍♂️ [Symbolic and Evolutionary Artificial Intelligence](https://t.me/joinchat/2-g7AnXa-WExNjZk)
 
 #### Group A
@@ -32,7 +39,7 @@ You can add material by performing a pull request, opening an issue or by contac
 ## Credits
 
 #### Mantainers
-- Giacomo Pacini
+- [Giacomo Pacini](https://github.com/Ruggero1912)
 
 #### Contributors
 - 
