@@ -13,6 +13,9 @@ You can add material by performing a pull request, opening an issue or by contac
 ### Telegram Groups
 
 #### Year 1
+
+[GENERAL](https://t.me/joinchat/A6S5hhOKF64s62zf2kJIxQ)
+
 ⛏️ [Data Mining](https://t.me/UNIPI_data_mining)
 
 📚 [Large Scale Databases](https://t.me/UNIPI_large_scale_databases)
@@ -24,6 +27,9 @@ You can add material by performing a pull request, opening an issue or by contac
 🤑 [Business and Project Management](https://t.me/UNIPI_business_and_project_mngmt)
 
 #### Year 2
+
+[GENERAL](https://t.me/joinchat/A6S5hhyC7W9T28egM9xg_w)
+
 👷‍♂️ [Process Mining](https://t.me/UNIPI_process_mining)
 
 🤖 [Multimedia Information Retrieval and Computer Vision](https://t.me/UNIPI_multimedia_inf_retr_and_cv)
@@ -35,6 +41,9 @@ You can add material by performing a pull request, opening an issue or by contac
 #### Group A
 📱 [Mobile and Social Sensing Systems](https://t.me/+KM4Wu6hEQIViYTY0)
 
+### Drive Folder
+
+In [this Google Drive](https://drive.google.com/drive/folders/1KXbnC2i5qp07MMgn_M4PpvG5CUI5IsAz) you can find some useful resources for AIDE published by the past years students. Many resources will be the same available here. If you find something useful feel free to open an issue or DM a mantainer.
 
 ## Credits
 
