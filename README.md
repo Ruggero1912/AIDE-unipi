@@ -51,7 +51,11 @@ In [this Google Drive](https://drive.google.com/drive/folders/1KXbnC2i5qp07MMgn_
 - [Giacomo Pacini](https://github.com/Ruggero1912)
 
 #### Contributors
-- 
+- Edoardo Nuovocancello
+- Giacomo Pacini
+- Matteo Pierucci
+- Pietro Tempesti
+
 
 If you want to be added to the contributors list or to be removed,
  write to the mantainers.
