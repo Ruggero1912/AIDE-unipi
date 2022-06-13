@@ -30,7 +30,9 @@ This is a list of the public projects made by some students in the past. For som
 
 ### Paper presentations examples
 
-1. **Links to paper presentations are coming soon**: if you want to share yours make a pull req or DM
+All the papers are public in the Teams channel of the course.
+
+**Links to paper presentations are coming soon**: if you want to share yours make a pull req or DM
 
 ### Oral questions
 
