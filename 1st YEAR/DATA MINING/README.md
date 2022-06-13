@@ -72,6 +72,12 @@ This is a list of the public projects made by some students in the past. For som
 >Made by Lorenzo Bianchi
 >
 >Written in Python
+- **AirBnB Price Estimator | Fazzari - Ramo**: [GitHub repo](https://github.com/edofazza/AirBnBPriceEstimator)
+>Presented on February 2021
+>
+>Made by Edoardo Fazzari, Mirko Ramo
+>
+>Written in Java
 
 #### **Add your project!** 
 if you want to share your project make a pull req or DM
