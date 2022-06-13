@@ -52,7 +52,7 @@ In [this Google Drive](https://drive.google.com/drive/folders/1KXbnC2i5qp07MMgn_
 - [Giacomo Pacini](https://github.com/Ruggero1912)
 
 #### Contributors
-- Tommaso Amarante (Mobile project MyPadel, Large Scale Project Rechype)
+- Tommaso Amarante (Mobile project MyPadel, Large Scale Project Rechype, Mobile notes)
 - Lorenzo Bianchi (IoT project SmartFruitFridge)
 - Iacopo Bicchierini (Mobile project MyPadel, IoT project SmartFruitFridge)
 - Valerio Giannini (Large Scale notes)
