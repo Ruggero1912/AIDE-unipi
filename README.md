@@ -55,9 +55,11 @@ In [this Google Drive](https://drive.google.com/drive/folders/1KXbnC2i5qp07MMgn_
 
 #### Contributors
 - Tommaso Amarante (Mobile project MyPadel, Large Scale Project Rechype, Mobile notes, Data Mining project QoS Data Analysis, MIRCV Project Plant-Leaves Search Engine)
+- Federica Baldi (Computational Intelligence and Deep Learning project Lymphoblasts Image Classification)
 - Tommaso Baldi (Data Mining project StockSentiment)
 - Lorenzo Bianchi (IoT project SmartFruitFridge, Data Mining Project Articles Categorizer, Cloud Computing Project 20-21, MIRCV Project Plant-Leaves Search Engine)
 - Iacopo Bicchierini (Mobile project MyPadel, IoT project SmartFruitFridge, Cloud Computing Project 20-21, MIRCV Project Plant-Leaves Search Engine)
+- Daniele Cioffo (Computational Intelligence and Deep Learning project Lymphoblasts Image Classification)
 - Federica Dini (Cloud Computing Project 20-21)
 - Edoardo Fazzari (Data Mining project AirBnB Price Estimator)
 - Valerio Giannini (Large Scale notes, Data Mining project FederatedDBScan, Cloud Computing Project 20-21)
