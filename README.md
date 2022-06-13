@@ -53,17 +53,22 @@ In [this Google Drive](https://drive.google.com/drive/folders/1KXbnC2i5qp07MMgn_
 
 #### Contributors
 - Tommaso Amarante (Mobile project MyPadel, Large Scale Project Rechype, Mobile notes, Data Mining project QoS Data Analysis)
-- Lorenzo Bianchi (IoT project SmartFruitFridge, Data Mining Project Articles Categorizer)
-- Iacopo Bicchierini (Mobile project MyPadel, IoT project SmartFruitFridge)
-- Valerio Giannini (Large Scale notes, Data Mining project FederatedDBScan)
+- Lorenzo Bianchi (IoT project SmartFruitFridge, Data Mining Project Articles Categorizer, Cloud Computing Project 20-21)
+- Iacopo Bicchierini (Mobile project MyPadel, IoT project SmartFruitFridge, Cloud Computing Project 20-21)
+- Federica Dini (Cloud Computing Project 20-21)
+- Valerio Giannini (Large Scale notes, Data Mining project FederatedDBScan, Cloud Computing Project 20-21)
 - Matteo Guidotti (Mobile project MyPadel)
+- Fabio Malloggi (Cloud Computing Project 20-21)
+- Farzaneh Moghani (Cloud Computing Project 20-21)
 - Edoardo Morucci (Mobile project MyPadel, Large Scale Project Rechype, Data Mining project QoS Data Analysis)
 - Edoardo Nuovocancello (Mobile questions)
 - Giacomo Pacini (Mobile questions, Large Scale questions)
+- Niccolò Panichi (Cloud Computing Project 20-21)
 - Francesco Pesciatini (Large Scale questions)
 - Matteo Pierucci (Mobile questions)
 - Niko Salamini (Large Scale Project Rechype)
-- Alessio Serra (Data Mining project FederatedDBScan)
+- Alessio Serra (Data Mining project FederatedDBScan, Cloud Computing Project 20-21)
+- Marco Simoni (Cloud Computing Project 20-21)
 - Pietro Tempesti (Mobile questions)
 
 
