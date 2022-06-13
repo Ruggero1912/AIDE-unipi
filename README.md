@@ -51,16 +51,17 @@ In [this Google Drive](https://drive.google.com/drive/folders/1KXbnC2i5qp07MMgn_
 - [Giacomo Pacini](https://github.com/Ruggero1912)
 
 #### Contributors
-- Tommaso Amarante
-- Iacopo Bicchierini
-- Matteo Guidotti
-- Edoardo Morucci
-- Edoardo Nuovocancello
-- Giacomo Pacini
-- Francesco Pesciatini
-- Matteo Pierucci
-- Niko Salamini
-- Pietro Tempesti
+- Tommaso Amarante (Mobile project MyPadel, Large Scale Project Rechype)
+- Iacopo Bicchierini (Mobile project MyPadel)
+- Valerio Giannini (Large Scale notes)
+- Matteo Guidotti (Mobile project MyPadel)
+- Edoardo Morucci (Mobile project MyPadel, Large Scale Project Rechype)
+- Edoardo Nuovocancello (Mobile questions)
+- Giacomo Pacini (Mobile questions, Large Scale questions)
+- Francesco Pesciatini (Large Scale questions)
+- Matteo Pierucci (Mobile questions)
+- Niko Salamini (Large Scale Project Rechype)
+- Pietro Tempesti (Mobile questions)
 
 
 If you want to be added to the contributors list or to be removed,

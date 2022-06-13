@@ -34,3 +34,10 @@ This is a list of the public projects made by some students in the past. For som
 ### Oral questions
 
 You can find a collection of oral questions in the directory [ORAL QUESTIONS](oral-questions), some of them may be in italian.
+
+
+### Students'notes
+
+Here you can find a collection of public notes written by the students:
+
+- [LargeScaleRecap](LargeScaleRecap_20-21_Valerio-Giannini.pdf): made in the academic year 20-21, 58 pages, in english, author: Valerio Giannini
