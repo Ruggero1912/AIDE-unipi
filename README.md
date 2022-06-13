@@ -52,17 +52,18 @@ In [this Google Drive](https://drive.google.com/drive/folders/1KXbnC2i5qp07MMgn_
 - [Giacomo Pacini](https://github.com/Ruggero1912)
 
 #### Contributors
-- Tommaso Amarante (Mobile project MyPadel, Large Scale Project Rechype, Mobile notes)
-- Lorenzo Bianchi (IoT project SmartFruitFridge)
+- Tommaso Amarante (Mobile project MyPadel, Large Scale Project Rechype, Mobile notes, Data Mining project QoS Data Analysis)
+- Lorenzo Bianchi (IoT project SmartFruitFridge, Data Mining Project Articles Categorizer)
 - Iacopo Bicchierini (Mobile project MyPadel, IoT project SmartFruitFridge)
-- Valerio Giannini (Large Scale notes)
+- Valerio Giannini (Large Scale notes, Data Mining project FederatedDBScan)
 - Matteo Guidotti (Mobile project MyPadel)
-- Edoardo Morucci (Mobile project MyPadel, Large Scale Project Rechype)
+- Edoardo Morucci (Mobile project MyPadel, Large Scale Project Rechype, Data Mining project QoS Data Analysis)
 - Edoardo Nuovocancello (Mobile questions)
 - Giacomo Pacini (Mobile questions, Large Scale questions)
 - Francesco Pesciatini (Large Scale questions)
 - Matteo Pierucci (Mobile questions)
 - Niko Salamini (Large Scale Project Rechype)
+- Alessio Serra (Data Mining project FederatedDBScan)
 - Pietro Tempesti (Mobile questions)
 
 
