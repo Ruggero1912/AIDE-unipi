@@ -8,7 +8,9 @@ Every contribution will be very appreciated and mentioned in the credits.
 
 You can add material by performing a pull request, opening an issue or by contacting one of the mantainers.
 
-*This is repo was inspired by the one available for the [Computer Engineering course at UniPi](https://github.com/Guray00/IngegneriaInformatica)*.
+If you want to contribute to this repo, in the [issues tab](https://github.com/Ruggero1912/AIDE-unipi/issues) you can find an (hopefully) updated list of missing things.
+
+*This repo was inspired by the one available for the [Computer Engineering course at UniPi](https://github.com/Guray00/IngegneriaInformatica)*.
 
 ### Telegram Groups
 

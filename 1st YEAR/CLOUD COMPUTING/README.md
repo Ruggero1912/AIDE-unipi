@@ -27,7 +27,7 @@ This is a list of the public projects made by some students in the past. For som
 >
 >Made by Lorenzo Bianchi, Iacopo Bicchierini, Federica Dini, Niccolò Panichi
 >
-- **Project AA 20-21 Page Rank | Serra - Malloggi - Moghani - Simoni - Giannini**: [GitHub repo](https://github.com/lorebianchi98/PageRank)
+- **Project AA 20-21 | Serra - Malloggi - Moghani - Simoni - Giannini**: [GitHub repo PageRank](https://github.com/lorebianchi98/PageRank) [GitHub repo Ceph File Manager](https://github.com/ValeGian/CephFileManager)
 >Presented on July 2021
 >
 >Made by Alessio Serra, Fabio Malloggi, Farzaneh Mogani, Marco Simoni, Valerio Giannini
