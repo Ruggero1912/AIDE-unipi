@@ -55,6 +55,7 @@ In [this Google Drive](https://drive.google.com/drive/folders/1KXbnC2i5qp07MMgn_
 
 #### Contributors
 - Tommaso Amarante (Mobile project MyPadel, Large Scale Project Rechype, Mobile notes, Data Mining project QoS Data Analysis, MIRCV Project Plant-Leaves Search Engine)
+- Tommaso Baldi (Data Mining project StockSentiment)
 - Lorenzo Bianchi (IoT project SmartFruitFridge, Data Mining Project Articles Categorizer, Cloud Computing Project 20-21, MIRCV Project Plant-Leaves Search Engine)
 - Iacopo Bicchierini (Mobile project MyPadel, IoT project SmartFruitFridge, Cloud Computing Project 20-21, MIRCV Project Plant-Leaves Search Engine)
 - Federica Dini (Cloud Computing Project 20-21)
@@ -70,6 +71,7 @@ In [this Google Drive](https://drive.google.com/drive/folders/1KXbnC2i5qp07MMgn_
 - Francesco Pesciatini (Large Scale questions)
 - Matteo Pierucci (Mobile questions)
 - Mirko Ramo (Data Mining project AirBnB Price Estimator)
+- Edoardo Ruffoli (Data Mining project StockSentiment)
 - Niko Salamini (Large Scale Project Rechype)
 - Alessio Serra (Data Mining project FederatedDBScan, Cloud Computing Project 20-21)
 - Marco Simoni (Cloud Computing Project 20-21)

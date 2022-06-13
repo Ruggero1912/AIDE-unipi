@@ -78,6 +78,12 @@ This is a list of the public projects made by some students in the past. For som
 >Made by Edoardo Fazzari, Mirko Ramo
 >
 >Written in Java
+- **StockSentiment | Ruffoli - Baldi**: [GitHub repo](https://github.com/edoardoruffoli/StockSentiment)
+>presented on January 2022
+> 
+>Made by Edoardo Ruffoli - Tommaso Baldi
+>
+>written in Python
 
 #### **Add your project!** 
 if you want to share your project make a pull req or DM
