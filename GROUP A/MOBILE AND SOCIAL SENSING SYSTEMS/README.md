@@ -17,9 +17,16 @@ Code: 885II
 ### Students' projects
 
 This is a list of the public projects made by some students in the past. For some of them only the documentation is available, for some others the code too:
-1. **Links to projects are Coming soon**: if you want to share your project make a pull req or DM
-2. **Foo Project**: [Foo Documentation]() - [Foo code]() - [Foo Play Store]()
-3. **Bar Project**: [Bar Documentation]()
+1. **MyPadel**: [GitHub repo](https://github.com/TommyTheHuman/MSS-MyPadel)
+>Authors: Tommaso Amarante, Edoardo Morucci, Iacopo Bicchierini, Matteo Guidotti
+>
+>Presented at First Appello June 2022
+>
+>In the repo you will find both the documentation and the code
+
+
+
+**Links to projects are Coming soon**: if you want to share your project make a pull req or DM
 
 ### Paper presentations examples
 
