@@ -23,9 +23,13 @@ STEPS:
 ### Students' projects
 
 This is a list of the public projects made by some students in the past. For some of them only the documentation is available, for some others the code too:
-1. **Links to projects are Coming soon**: if you want to share your project make a pull req or DM
-2. **Foo Project**: [Foo Documentation]() - [Foo repo]()
-3. **Bar Project**: [Bar Documentation]()
+1. **Rechype**: [GitHub repo](https://github.com/TommyTheHuman/Rechype)
+>Presented at June 2021
+>Made by Tommaso Amarante, Edoardo Morucci, Niko Salamini
+>Exploits MongoDB, Neo4j and KV db. Written in Java.
+
+**Links to projects are Coming soon**: if you want to share your project make a pull req or DM
+
 
 ### Oral questions
 
