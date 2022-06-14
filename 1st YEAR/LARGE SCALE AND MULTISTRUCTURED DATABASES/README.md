@@ -35,6 +35,12 @@ This is a list of the public projects made by some students in the past. For som
 >Made by Edoardo Ruffoli, Tommaso Baldi, Francesco Hudema
 >
 >Java app, exploits MongoDB and Neo4j
+- **LearnIt | Minniti - Pezzuti - Del Seppia**: [GitHub repo](https://github.com/federicominniti/LearnIt)
+>Presented on January 2022
+>
+>Made by Federico Minniti - Francesca Pezzuti - Matteo Del Seppia
+>
+>Java app, exploits MongoDB and Neo4j
 
 **More links to projects are coming**: if you want to share your project make a pull req or DM
 
