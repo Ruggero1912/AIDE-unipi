@@ -54,7 +54,7 @@ In [this Google Drive](https://drive.google.com/drive/folders/1KXbnC2i5qp07MMgn_
 - [Giacomo Pacini](https://github.com/Ruggero1912)
 
 #### Contributors
-- Tommaso Amarante (Mobile project MyPadel, Large Scale Project Rechype, Mobile notes, Data Mining project QoS Data Analysis, MIRCV Project Plant-Leaves Search Engine)
+- Tommaso Amarante (Mobile project MyPadel, Large Scale Project Rechype, Mobile notes, Data Mining project QoS Data Analysis, MIRCV Project Plant-Leaves Search Engine, Cloud Computing notes)
 - Federica Baldi (Computational Intelligence and Deep Learning project Lymphoblasts Image Classification)
 - Tommaso Baldi (Data Mining project StockSentiment)
 - Lorenzo Bianchi (IoT project SmartFruitFridge, Data Mining Project Articles Categorizer, Cloud Computing Project 20-21, MIRCV Project Plant-Leaves Search Engine)
@@ -66,7 +66,7 @@ In [this Google Drive](https://drive.google.com/drive/folders/1KXbnC2i5qp07MMgn_
 - Matteo Guidotti (Mobile project MyPadel)
 - Fabio Malloggi (Cloud Computing Project 20-21)
 - Farzaneh Moghani (Cloud Computing Project 20-21)
-- Edoardo Morucci (Mobile project MyPadel, Large Scale Project Rechype, Data Mining project QoS Data Analysis, MIRCV Project Plant-Leaves Search Engine)
+- Edoardo Morucci (Mobile project MyPadel, Large Scale Project Rechype, Data Mining project QoS Data Analysis, MIRCV Project Plant-Leaves Search Engine, Cloud Computing notes)
 - Edoardo Nuovocancello (Mobile questions)
 - Giacomo Pacini (Mobile questions, Large Scale questions)
 - Niccolò Panichi (Cloud Computing Project 20-21)

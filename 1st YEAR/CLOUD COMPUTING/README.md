@@ -46,4 +46,11 @@ You can find a collection of oral questions in the directory [ORAL QUESTIONS](or
 
 Here you can find a collection of public notes written by the students:
 
+- [Vallati 20-21 | Amarante - Morucci](Vallati_20-21_Lecture_Notes-TommasoAmarante-EdoardoMorucci.pdf):
+>made in the **academic year 20-21**<br>
+>**166** pages<br>
+>**language**: english<br>
+>**authors**: Tommaso Amarante, Edoardo Morucci<br>
+>Resumes all the lessons held by prof. Vallati
+
 #### Share your notes via pull req, opening issue or DM a mantainer
