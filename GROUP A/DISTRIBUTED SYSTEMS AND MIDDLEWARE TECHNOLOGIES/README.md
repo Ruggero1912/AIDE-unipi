@@ -25,7 +25,7 @@ This is a list of the public projects made by some students in the past. For som
 >
 >In the repo you will find both the documentation and the code
 >
-- **Auction Handler**: [GitHub repo](https://github.com/gerti98/DistributedSystemsProject)
+- **Auction Handler | Olgerti Xhanej - Francesco Iemma - Tommaso Burlon**: [GitHub repo](https://github.com/gerti98/DistributedSystemsProject)
 >distributed web app where users can sell their goods by creating online auctions
 >
 >Authors: Olgerti Xhanej, Francesco Iemma, Tommaso Burlon
@@ -33,6 +33,15 @@ This is a list of the public projects made by some students in the past. For som
 >Presented in February 2022
 >
 >both doc and code
+- **UniSup | Mirco Ramo, Edoardo Fazzari, Sina Gh**: [GitHub repo](https://github.com/edofazza/uniSup)
+>istantaneuos chat application that allows user to exchange short text messages among them
+>
+>Authors: Mirco Ramo, Edoardo Fazzari, Sina Gholami
+>
+>Presented in January 2021
+>
+>both doc and code
+
 
 
 ### Oral questions
