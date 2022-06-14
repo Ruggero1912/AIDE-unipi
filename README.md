@@ -62,7 +62,7 @@ In [this Google Drive](https://drive.google.com/drive/folders/1KXbnC2i5qp07MMgn_
 - Daniele Cioffo (Computational Intelligence and Deep Learning project Lymphoblasts Image Classification)
 - Matteo Del Seppia (Distributed Systems project Battleship, Data Mining project VoiceID Notes, Large Scale project LearnIt)
 - Federica Dini (Cloud Computing Project 20-21)
-- Edoardo Fazzari (Data Mining project AirBnB Price Estimator)
+- Edoardo Fazzari (Data Mining project AirBnB Price Estimator, Large Scale project PokemonGo)
 - Valerio Giannini (Large Scale notes, Data Mining project FederatedDBScan, Cloud Computing Project 20-21)
 - Matteo Guidotti (Mobile project MyPadel)
 - Francesco Hudema (Large Scale Project PaperRater)
@@ -76,12 +76,13 @@ In [this Google Drive](https://drive.google.com/drive/folders/1KXbnC2i5qp07MMgn_
 - Francesco Pesciatini (Large Scale questions)
 - Francesca Pezzuti (Large Scale project LearnIt)
 - Matteo Pierucci (Mobile questions)
-- Mirko Ramo (Data Mining project AirBnB Price Estimator)
+- Mirko Ramo (Data Mining project AirBnB Price Estimator, Large Scale project PokemonGo)
 - Edoardo Ruffoli (Data Mining project StockSentiment, Large Scale Project PaperRater)
 - Niko Salamini (Large Scale Project Rechype)
 - Alessio Serra (Data Mining project FederatedDBScan, Cloud Computing Project 20-21)
 - Marco Simoni (Cloud Computing Project 20-21)
 - Pietro Tempesti (Mobile questions)
+- Olgerti Xhanej (Large Scale project PokemonGo)
 
 
 If you want to be added to the contributors list or to be removed,
