@@ -51,4 +51,25 @@ You can find a collection of oral questions in the directory [ORAL QUESTIONS](or
 
 Here you can find a collection of public notes written by the students:
 
+- [Amato 20-21 | Amarante - Morucci](Amato_20-21_Lecture_notes_TommasoAmarante-EdoardoMorucci.pdf):
+>made in the **academic year 20-21**<br>
+>**72** pages<br>
+>**language**: italian<br>
+>**authors**: Tommaso Amarante, Edoardo Morucci<br>
+>Resumes all the lessons held by prof. Amato
+
+- [Gennaro 20-21 | Amarante - Morucci](Gennaro_20-21_Lecture_notes_TommasoAmarante-EdoardoMorucci.pdf):
+>made in the **academic year 20-21**<br>
+>**53** pages<br>
+>**language**: italian<br>
+>**authors**: Tommaso Amarante, Edoardo Morucci<br>
+>Resumes all the lessons held by prof. Gennaro
+
+- [Falchi 20-21 | Amarante - Morucci](Falchi_20-21_Lecture_notes_TommasoAmarante-EdoardoMorucci.pdf):
+>made in the **academic year 20-21**<br>
+>**72** pages<br>
+>**language**: italian<br>
+>**authors**: Tommaso Amarante, Edoardo Morucci<br>
+>Resumes all the lessons held by prof. Falchi starting from slide packet 9
+
 #### Share your notes via pull req, opening issue or DM a mantainer
