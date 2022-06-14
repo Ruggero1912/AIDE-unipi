@@ -24,6 +24,12 @@ This is a list of the public projects made by some students in the past. For som
 >Made by Federica Baldi, Daniele Cioffo
 >
 >Written in Python (using Jupyter Notebook)
+- **Artist Identification | Fazzari - Ramo**: [GitHub repo](https://github.com/edofazza/ArtistIdentificationCNN)
+>Presented on January 2022
+>
+>Made by Edoardo Fazzari - Mirco Ramo
+>
+>written in Python (using Jupyter Notebook)
 #### **Add your project!** 
 if you want to share your project make a pull req or DM
 
