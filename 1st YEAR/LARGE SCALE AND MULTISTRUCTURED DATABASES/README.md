@@ -23,12 +23,20 @@ STEPS:
 ### Students' projects
 
 This is a list of the public projects made by some students in the past. For some of them only the documentation is available, for some others the code too:
-1. **Rechype**: [GitHub repo](https://github.com/TommyTheHuman/Rechype)
->Presented at June 2021
+- **Rechype**: [GitHub repo](https://github.com/TommyTheHuman/Rechype)
+>Presented in June 2021
+>
 >Made by Tommaso Amarante, Edoardo Morucci, Niko Salamini
+>
 >Exploits MongoDB, Neo4j and KV db. Written in Java.
+- **Paper Rater | Ruffoli - Baldi - Hudema**: [GitHub repo](https://github.com/edoardoruffoli/PaperRater)
+>Presented in February 2022
+>
+>Made by Edoardo Ruffoli, Tommaso Baldi, Francesco Hudema
+>
+>Java app, exploits MongoDB and Neo4j
 
-**Links to projects are Coming soon**: if you want to share your project make a pull req or DM
+**More links to projects are coming**: if you want to share your project make a pull req or DM
 
 
 ### Oral questions
