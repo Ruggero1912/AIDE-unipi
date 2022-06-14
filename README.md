@@ -66,7 +66,9 @@ In [this Google Drive](https://drive.google.com/drive/folders/1KXbnC2i5qp07MMgn_
 - Valerio Giannini (Large Scale notes, Data Mining project FederatedDBScan, Cloud Computing Project 20-21)
 - Matteo Guidotti (Mobile project MyPadel)
 - Francesco Hudema (Large Scale Project PaperRater)
+- Franesco Iemma (Mobile project ChatApp with Emotional State Recognition)
 - Fabio Malloggi (Cloud Computing Project 20-21)
+- Lorenzo Massagli (Mobile project ChatApp with Emotional State Recognition)
 - Federico Minniti (Distributed Systems project Battleship, Data Mining project VoiceID Notes, Large Scale project LearnIt)
 - Farzaneh Moghani (Cloud Computing Project 20-21)
 - Edoardo Morucci (Mobile project MyPadel, Large Scale Project Rechype, Data Mining project QoS Data Analysis, MIRCV Project Plant-Leaves Search Engine, Cloud Computing notes)
@@ -78,11 +80,11 @@ In [this Google Drive](https://drive.google.com/drive/folders/1KXbnC2i5qp07MMgn_
 - Matteo Pierucci (Mobile questions)
 - Mirko Ramo (Data Mining project AirBnB Price Estimator, Large Scale project PokemonGo)
 - Edoardo Ruffoli (Data Mining project StockSentiment, Large Scale Project PaperRater)
-- Niko Salamini (Large Scale Project Rechype)
+- Niko Salamini (Large Scale Project Rechype, Mobile project ChatApp with Emotional State Recognition)
 - Alessio Serra (Data Mining project FederatedDBScan, Cloud Computing Project 20-21)
 - Marco Simoni (Cloud Computing Project 20-21)
 - Pietro Tempesti (Mobile questions)
-- Olgerti Xhanej (Large Scale project PokemonGo)
+- Olgerti Xhanej (Large Scale project PokemonGo, Mobile project ChatApp with Emotional State Recognition)
 
 
 If you want to be added to the contributors list or to be removed,

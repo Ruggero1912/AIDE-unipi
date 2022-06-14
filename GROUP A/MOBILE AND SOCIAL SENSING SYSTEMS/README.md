@@ -17,13 +17,20 @@ Code: 885II
 ### Students' projects
 
 This is a list of the public projects made by some students in the past. For some of them only the documentation is available, for some others the code too:
-1. **MyPadel**: [GitHub repo](https://github.com/TommyTheHuman/MSS-MyPadel)
+- **MyPadel**: [GitHub repo](https://github.com/TommyTheHuman/MSS-MyPadel)
 >Authors: Tommaso Amarante, Edoardo Morucci, Iacopo Bicchierini, Matteo Guidotti
 >
 >Presented at First Appello June 2022
 >
 >In the repo you will find both the documentation and the code
-
+- **ChatApp**: [GitHub repo](https://github.com/gerti98/MobileProject)
+>ChatApp with Emotional State Recognition
+>
+>Authors: Francesco Iemma, Olgerti Xhanej, Niko Salamini, Lorenzo Massagli
+>
+>Presented at First Appello 2022
+>
+>There you can find presentation, doc and code
 
 
 **Links to projects are Coming soon**: if you want to share your project make a pull req or DM
