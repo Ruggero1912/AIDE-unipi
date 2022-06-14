@@ -33,7 +33,7 @@ This is a list of the public projects made by some students in the past. For som
 >Presented in February 2022
 >
 >both doc and code
-- **UniSup | Mirco Ramo, Edoardo Fazzari, Sina Gh**: [GitHub repo](https://github.com/edofazza/uniSup)
+- **UniSup | Mirco Ramo, Edoardo Fazzari, Sina Gholami**: [GitHub repo](https://github.com/edofazza/uniSup)
 >istantaneuos chat application that allows user to exchange short text messages among them
 >
 >Authors: Mirco Ramo, Edoardo Fazzari, Sina Gholami
@@ -41,7 +41,14 @@ This is a list of the public projects made by some students in the past. For som
 >Presented in January 2021
 >
 >both doc and code
-
+- **GameOn | Baldi - Cioffo**: [GitHub repo](https://github.com/danielecioffo/GameOn)
+>GameOn is a collaborative platform for real-time gaming.
+>
+>Authors: Federica Baldi - Daniele Cioffo
+>
+>presented in January 2021
+>
+>both doc and code
 
 
 ### Oral questions
