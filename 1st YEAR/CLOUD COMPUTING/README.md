@@ -33,7 +33,7 @@ This is a list of the public projects made by some students in the past. For som
 >Made by Alessio Serra, Fabio Malloggi, Farzaneh Mogani, Marco Simoni, Valerio Giannini
 
 
-- **Project AA 20-21 | Amarante - Calabrese - Marabotto - Morucci - Nello**: [GitHub repo PageRank]([https://github.com/lorebianchi98/PageRank](https://github.com/TommyTheHuman/CC-Projects) 
+- **Project AA 20-21 | Amarante - Calabrese - Marabotto - Morucci - Nello**: [GitHub repo](https://github.com/TommyTheHuman/CC-Projects) 
 >Presented on June 2021
 >
 >Made by Tommaso Amarante, Pietro Calabrese, Francesco Marabotto, Edoardo Morucci, Enrico Nello
