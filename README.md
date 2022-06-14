@@ -55,12 +55,12 @@ In [this Google Drive](https://drive.google.com/drive/folders/1KXbnC2i5qp07MMgn_
 
 #### Contributors
 - Tommaso Amarante (Mobile project MyPadel, Large Scale Project Rechype, Mobile notes, Data Mining project QoS Data Analysis, MIRCV Project Plant-Leaves Search Engine, Cloud Computing notes)
-- Federica Baldi (Computational Intelligence and Deep Learning project Lymphoblasts Image Classification, MIRCV Project Bird Images Search Engine, IoT project SmartSauna)
+- Federica Baldi (Computational Intelligence and Deep Learning project Lymphoblasts Image Classification, MIRCV Project Bird Images Search Engine, IoT project SmartSauna, Large Scale project SoundHabit)
 - Tommaso Baldi (Data Mining project StockSentiment, Large Scale Project PaperRater, Distributed Systems project Battleship)
 - Lorenzo Bianchi (IoT project SmartFruitFridge, Data Mining Project Articles Categorizer, Cloud Computing Project 20-21, MIRCV Project Plant-Leaves Search Engine)
 - Iacopo Bicchierini (Mobile project MyPadel, IoT project SmartFruitFridge, Cloud Computing Project 20-21, MIRCV Project Plant-Leaves Search Engine)
 - Tommaso Burlon (Distributed Systems project Auction Handler)
-- Daniele Cioffo (Computational Intelligence and Deep Learning project Lymphoblasts Image Classification, MIRCV Project Bird Images Search Engine, IoT project SmartSauna)
+- Daniele Cioffo (Computational Intelligence and Deep Learning project Lymphoblasts Image Classification, MIRCV Project Bird Images Search Engine, IoT project SmartSauna, Large Scale project SoundHabit)
 - Matteo Del Seppia (Distributed Systems project Battleship, Data Mining project VoiceID Notes, Large Scale project LearnIt)
 - Federica Dini (Cloud Computing Project 20-21)
 - Edoardo Fazzari (Data Mining project AirBnB Price Estimator, Large Scale project PokemonGo, Distributed Systems Project UniSup, Computation Intelligence and Deep Learning project Artist Identification, MIRCV Project Bird Images Search Engine)

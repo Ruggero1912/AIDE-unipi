@@ -90,6 +90,12 @@ This is a list of the public projects made by some students in the past. For som
 >Made by Federico Minniti - Matteo Del Seppia
 >
 >written in Java and Python (features extraction)
+- **SoundHabit | Baldi - Cioffo**: [GitHub repo](https://github.com/danielecioffo/SoundHabit)
+>presented on February 2021
+>
+>Made by Federica Baldi - Daniele Cioffo
+>
+>written in Java
 
 #### **Add your project!** 
 if you want to share your project make a pull req or DM
