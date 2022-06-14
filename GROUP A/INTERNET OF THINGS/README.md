@@ -16,7 +16,7 @@ Code: 882II
 ### Students' projects
 
 This is a list of the public projects made by some students in the past. For some of them only the documentation is available, for some others the code too:
-1. **SmartFruitFridge**: [GitHub repo](https://github.com/Bicchie/SmartFruitFridge)
+- **SmartFruitFridge**: [GitHub repo](https://github.com/Bicchie/SmartFruitFridge)
 >Authors: Iacopo Bicchierini, Lorenzo Bianchi
 >
 >Presented at September 2021
@@ -25,6 +25,14 @@ This is a list of the public projects made by some students in the past. For som
 >
 >In the repo you will find both the documentation and the code
 >
+- **SmartSauna | Baldi - Cioffo**: [GitHub repo](https://github.com/danielecioffo/SmartSauna)
+>Authors: Federica Baldi - Daniele Cioffo
+>
+>Presented on September 2021
+>
+>Collector written in Java
+>
+>both code and docs
 
 ### Oral questions
 
