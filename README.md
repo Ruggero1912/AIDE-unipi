@@ -59,6 +59,7 @@ In [this Google Drive](https://drive.google.com/drive/folders/1KXbnC2i5qp07MMgn_
 - Tommaso Baldi (Data Mining project StockSentiment, Large Scale Project PaperRater, Distributed Systems project Battleship)
 - Lorenzo Bianchi (IoT project SmartFruitFridge, Data Mining Project Articles Categorizer, Cloud Computing Project 20-21, MIRCV Project Plant-Leaves Search Engine)
 - Iacopo Bicchierini (Mobile project MyPadel, IoT project SmartFruitFridge, Cloud Computing Project 20-21, MIRCV Project Plant-Leaves Search Engine)
+- Tommaso Burlon (Distributed Systems project Auction Handler)
 - Daniele Cioffo (Computational Intelligence and Deep Learning project Lymphoblasts Image Classification)
 - Matteo Del Seppia (Distributed Systems project Battleship, Data Mining project VoiceID Notes, Large Scale project LearnIt)
 - Federica Dini (Cloud Computing Project 20-21)
@@ -66,7 +67,7 @@ In [this Google Drive](https://drive.google.com/drive/folders/1KXbnC2i5qp07MMgn_
 - Valerio Giannini (Large Scale notes, Data Mining project FederatedDBScan, Cloud Computing Project 20-21)
 - Matteo Guidotti (Mobile project MyPadel)
 - Francesco Hudema (Large Scale Project PaperRater)
-- Franesco Iemma (Mobile project ChatApp with Emotional State Recognition)
+- Franesco Iemma (Mobile project ChatApp with Emotional State Recognition, Distributed Systems project Auction Handler)
 - Fabio Malloggi (Cloud Computing Project 20-21)
 - Lorenzo Massagli (Mobile project ChatApp with Emotional State Recognition)
 - Federico Minniti (Distributed Systems project Battleship, Data Mining project VoiceID Notes, Large Scale project LearnIt)
@@ -84,7 +85,7 @@ In [this Google Drive](https://drive.google.com/drive/folders/1KXbnC2i5qp07MMgn_
 - Alessio Serra (Data Mining project FederatedDBScan, Cloud Computing Project 20-21)
 - Marco Simoni (Cloud Computing Project 20-21)
 - Pietro Tempesti (Mobile questions)
-- Olgerti Xhanej (Large Scale project PokemonGo, Mobile project ChatApp with Emotional State Recognition)
+- Olgerti Xhanej (Large Scale project PokemonGo, Mobile project ChatApp with Emotional State Recognition, Distributed Systems project Auction Handler)
 
 
 If you want to be added to the contributors list or to be removed,

@@ -18,13 +18,22 @@ Code: 879II
 ### Students' projects
 
 This is a list of the public projects made by some students in the past. For some of them only the documentation is available, for some others the code too:
-1. **Battleship**: [GitHub repo](https://github.com/federicominniti/Battleship)
+- **Battleship**: [GitHub repo](https://github.com/federicominniti/Battleship)
 >Authors: Federico Minniti, Tommaso Baldi, Matteo Del Seppia
 >
 >Presented in February 2022
 >
 >In the repo you will find both the documentation and the code
 >
+- **Auction Handler**: [GitHub repo](https://github.com/gerti98/DistributedSystemsProject)
+>distributed web app where users can sell their goods by creating online auctions
+>
+>Authors: Olgerti Xhanej, Francesco Iemma, Tommaso Burlon
+>
+>Presented in February 2022
+>
+>both doc and code
+
 
 ### Oral questions
 
