@@ -25,10 +25,18 @@ STEPS:
 
 This is a list of the public projects made by some students in the past. For some of them only the documentation is available, for some others the code too:
 - **Plant-Leaves Search Engine AA 21-22 | Amarante - Morucci - Bianchi - Bicchierini**: [GitHub repo](https://github.com/TommyTheHuman/MIRCV-Plant-Leaves-Search-Engine)
->Presented on January 2022
+>Presented in January 2022
 >
 >Made by Tommaso Amarante - Edoardo Morucci - Lorenzo Bianchi - Iacopo Bicchierini
 >
+- **Bird Images Search Engine AA 21-22 | Baldi - Cioffo - Fazzari - Ramo**: [GitHub repo](https://github.com/danielecioffo/Bird-Images-Search-Engine)
+>The purpose of this project is to create a search engine that can recognize the species of a bird from an image uploaded by the user, proposing also similar pictures.
+>
+>Presented in February 2022
+>
+>Made by Federica Baldi - Daniele Cioffo - Edoardo Fazzari - Mirco Ramo
+>
+>both doc and code (Jupyter Notebook)
 
 #### **Add your project!** 
 if you want to share your project make a pull req or DM
