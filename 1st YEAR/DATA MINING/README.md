@@ -84,6 +84,12 @@ This is a list of the public projects made by some students in the past. For som
 >Made by Edoardo Ruffoli - Tommaso Baldi
 >
 >written in Python
+- **VoiceID Notes | Minniti - Del Seppia**: [GitHub repo](https://github.com/federicominniti/VoiceIDNotes)
+>presented on January 2022
+>
+>Made by Federico Minniti - Matteo Del Seppia
+>
+>written in Java and Python (features extraction)
 
 #### **Add your project!** 
 if you want to share your project make a pull req or DM
