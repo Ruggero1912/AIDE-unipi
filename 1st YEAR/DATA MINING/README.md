@@ -104,6 +104,14 @@ This is a list of the public projects made by some students in the past. For som
 >written in Python (single file)
 >
 >contains the code, the dataset and the power point presentation
+- **Pandemic Insights | Morteza - Piacentini**: [GitHub repo](https://github.com/morarez/Pandemic-Insights)
+>Presented in ~ February 2021
+>
+>Made by Giacomo Piacentini - Arezoumandan Morteza
+>
+>written in python
+>
+>code only + detailed README
 
 #### **Add your project!** 
 if you want to share your project make a pull req or DM
