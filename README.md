@@ -4,11 +4,16 @@ Students' material for the course in Artificial Intelligence and Data Engineerin
 Use this repo to search for **slides**, **students' notes** and information about the course's exams 
 (**exams methods**, oral **questions**, **past exams**, link to past **students projects** ...).
 
-Every contribution will be very appreciated and mentioned in the credits.
+>All the material you can find here has to be considered as unofficial. All the content is made by the students for the students. The material is checked only by the students. Please signal errors or problems (issue panel).<br/>
+All what you will find there is provided as **non-profit**.
+
+### 🌟 If you find a project **useful** or **well made**, please leave a star in its repo! 🌟
 
 You can add material by performing a pull request, opening an issue or by contacting one of the mantainers.
 
 If you want to contribute to this repo, in the [issues tab](https://github.com/Ruggero1912/AIDE-unipi/issues) you can find an (hopefully) updated list of missing things.
+
+Every contribution will be very appreciated and mentioned in the credits.
 
 *This repo was inspired by the one available for the [Computer Engineering course at UniPi](https://github.com/Guray00/IngegneriaInformatica)*.
 
