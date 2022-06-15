@@ -128,6 +128,16 @@ This is a list of the public projects made by some students in the past. For som
 >written in Python
 >
 >both doc and code
+- **MoneyGuard | Del Turco - Salah**: [GitHub repo](https://github.com/ahmed531998/MoneyGuard)
+>Tool to detect fraudulent transactions.
+>
+>Presented in January 2021
+>
+>Made by Francesco Del Turco - Ahmed Salah Tawfik Ibrahim
+>
+>written in Python
+>
+>doc, code, presentation, dataset, how to deploy
 
 #### **Add your project!** 
 if you want to share your project make a pull req or DM
