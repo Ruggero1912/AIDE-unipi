@@ -38,6 +38,11 @@ This is a list of the public projects made by some students in the past. For som
 >
 >Made by Tommaso Amarante, Pietro Calabrese, Francesco Marabotto, Edoardo Morucci, Enrico Nello
 
+- **Project AA 20-21 | Salah - Morteza - Del Turco**: [GitHub repo](https://github.com/FranDT/CloudComputingProjects)
+>Presented in July 2021
+>
+>Made by Francesco Del Turco - Ahmed Salah Tawfik Ibrahim - Arezoumandan Morteza
+
 #### **Add your project!** 
 if you want to share your project make a pull req or DM
 
