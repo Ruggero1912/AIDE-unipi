@@ -113,9 +113,17 @@ This is a list of the public projects made by some students in the past. For som
 >
 >code only + detailed README
 - **TweetStance | Dallatomasina**: [GitHub repo](https://github.com/EricaDallatomasina/DMML-project)
->Presented on June 2021
+>Presented in June 2021
 >
 >Made by Erica Dallatomasina
+>
+>written in Python
+>
+>both doc and code
+- **House Price Predictor | Leena**: [GitHub repo](https://github.com/leenaaizdee/DMMLProject)
+>Presented in July 2021
+>
+>Made by Aizdi Leena
 >
 >written in Python
 >

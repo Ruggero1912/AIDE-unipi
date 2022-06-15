@@ -75,7 +75,7 @@ In [this Google Drive](https://drive.google.com/drive/folders/1KXbnC2i5qp07MMgn_
 - Matteo Guidotti (Mobile project MyPadel)
 - Francesco Hudema (Large Scale Project PaperRater)
 - Franesco Iemma (Mobile project ChatApp with Emotional State Recognition, Distributed Systems project Auction Handler, Large Scale project JustRecipe)
-- Aizdi Leena (Large Scale project Job Advisor)
+- Aizdi Leena (Large Scale project Job Advisor, Data Mining project House Price Predictor)
 - Fabio Malloggi (Cloud Computing Project 20-21)
 - Francesco Marabotto (Cloud Computing project 20-21)
 - Lorenzo Massagli (Mobile project ChatApp with Emotional State Recognition)
