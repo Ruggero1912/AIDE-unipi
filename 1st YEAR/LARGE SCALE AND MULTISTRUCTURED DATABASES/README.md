@@ -52,6 +52,12 @@ This is a list of the public projects made by some students in the past. For som
 >
 >Made by Daniele Cioffo - Francesco Iemma - Francesco Campilongo
 >
+- **Job Advisor | Dallatomasina - Morteza - Leena** [GitHub repo](https://github.com/morarez/Job-Advisor)
+>Presented in February 2022
+>
+>Made by Arezoumandan Morteza - Erica Dallatomasina - Aizdi Leena
+>
+>Java app, Mongo and Neo4J
 
 **More links to projects are coming**: if you want to share your project make a pull req or DM
 
