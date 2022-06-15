@@ -37,6 +37,14 @@ This is a list of the public projects made by some students in the past. For som
 >Made by Federica Baldi - Daniele Cioffo - Edoardo Fazzari - Mirco Ramo
 >
 >both doc and code (Jupyter Notebook)
+- **Dog Breeds Search Engine AA 21-22 | De Dominicis - Piacentini - Terranova**: [GitHub repo](https://github.com/rosselladedo/DOG_BREEDS_SEARCH_ENGINE)
+>Search engine that recognise dog breeds image instered by the user, from a set of 120 different dog breeds.
+>
+>Presented on (?) June 2022
+>
+>Made by Rossella De Dominicis - Giacomo Piacentini - Gaetano Nicolò Terranova
+>
+>both code and code (Jupyter Notebook)
 
 #### **Add your project!** 
 if you want to share your project make a pull req or DM
