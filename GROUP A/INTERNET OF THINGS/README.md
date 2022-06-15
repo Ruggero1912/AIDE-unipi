@@ -49,6 +49,14 @@ This is a list of the public projects made by some students in the past. For som
 >Collector written in Python
 >
 >code only + readme file that explains how to deploy and start the project
+- **Hospital Monitoring System | Dini - Salah**: [GitHub repo](https://github.com/ahmed531998/IoT)
+>Authors: Federica Dini - Ahmed Salah Tawfik Ibrahim
+>
+>presented on June 2021
+>
+>collector written in Java
+>
+>code, presentation, readme that explains how to deploy
 
 ### Oral questions
 
