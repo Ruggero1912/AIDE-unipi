@@ -112,6 +112,14 @@ This is a list of the public projects made by some students in the past. For som
 >written in python
 >
 >code only + detailed README
+- **TweetStance | Dallatomasina**: [GitHub repo](https://github.com/EricaDallatomasina/DMML-project)
+>Presented on June 2021
+>
+>Made by Erica Dallatomasina
+>
+>written in Python
+>
+>both doc and code
 
 #### **Add your project!** 
 if you want to share your project make a pull req or DM

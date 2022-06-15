@@ -63,7 +63,7 @@ In [this Google Drive](https://drive.google.com/drive/folders/1KXbnC2i5qp07MMgn_
 - Pietro Calabrese (Cloud Computing project 20-21)
 - Francesco Campilongo (Large Scale project JustRecipe, Distributed Systems Project GameOn, Data Mining project SpamDetector, IoT Project Temperature Regulation System)
 - Daniele Cioffo (Computational Intelligence and Deep Learning project Lymphoblasts Image Classification, MIRCV Project Bird Images Search Engine, IoT project SmartSauna, Large Scale project SoundHabit, Distributed Systems Project GameOn, Large Scale project JustRecipe)
-- Erica Dallatomasina (Large Scale project Job Advisor)
+- Erica Dallatomasina (Large Scale project Job Advisor, Data Mining project TweetStance)
 - Rossella De Dominicis (Process Mining Project Sea Container Inspection, MIRCV Project Dog Breeds Search Engine)
 - Matteo Del Seppia (Distributed Systems project Battleship, Data Mining project VoiceID Notes, Large Scale project LearnIt)
 - Francesco Del Turco (IoT Project Temperature Regulation System)
