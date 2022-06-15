@@ -47,6 +47,11 @@ This is a list of the public projects made by some students in the past. For som
 >Made by Edoardo Fazzari - Mirco Ramo - Olgerti Xhanej
 >
 >Java app, some python scripts, latex doc, MongoDB and Neo4j
+- **JustRecipe | Cioffo - Campilongo - Iemma**: [GitHub repo](https://github.com/danielecioffo/JustRecipe)
+>Presented on January 2021
+>
+>Made by Daniele Cioffo - Francesco Iemma - Francesco Campilongo
+>
 
 **More links to projects are coming**: if you want to share your project make a pull req or DM
 

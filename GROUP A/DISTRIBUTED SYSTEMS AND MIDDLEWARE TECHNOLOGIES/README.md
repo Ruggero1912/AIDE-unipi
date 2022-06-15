@@ -41,10 +41,10 @@ This is a list of the public projects made by some students in the past. For som
 >Presented in January 2021
 >
 >both doc and code
-- **GameOn | Baldi - Cioffo**: [GitHub repo](https://github.com/danielecioffo/GameOn)
+- **GameOn | Baldi - Cioffo - Campilongo**: [GitHub repo](https://github.com/danielecioffo/GameOn)
 >GameOn is a collaborative platform for real-time gaming.
 >
->Authors: Federica Baldi - Daniele Cioffo
+>Authors: Federica Baldi - Daniele Cioffo - Francesco Campilongo
 >
 >presented in January 2021
 >
