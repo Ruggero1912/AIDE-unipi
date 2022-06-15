@@ -23,6 +23,13 @@ STEPS:
 
 This is a list of the public projects made by some students in the past. For some of them only the documentation is available, for some others the code too:
 
+- **Sea Container Inspection | De Dominicis - Gavagna - Piacentini - Terranova**: [GitHub repo](https://github.com/rosselladedo/Sea-Container-Inspection)
+>Authors: Rossella De Dominicis - Veronica Gavagna - Giacomo Piacentini - Gaetano Nicolò Terranova
+>
+>presented on ~ February 2022
+>
+>code + documentation
+
 #### **Add your project!** 
 if you want to share your project make a pull req or DM
 

@@ -63,10 +63,12 @@ In [this Google Drive](https://drive.google.com/drive/folders/1KXbnC2i5qp07MMgn_
 - Pietro Calabrese (Cloud Computing project 20-21)
 - Francesco Campilongo (Large Scale project JustRecipe, Distributed Systems Project GameOn, Data Mining project SpamDetector, IoT Project Temperature Regulation System)
 - Daniele Cioffo (Computational Intelligence and Deep Learning project Lymphoblasts Image Classification, MIRCV Project Bird Images Search Engine, IoT project SmartSauna, Large Scale project SoundHabit, Distributed Systems Project GameOn, Large Scale project JustRecipe)
+- Rossella De Dominicis (Process Mining Project Sea Container Inspection)
 - Matteo Del Seppia (Distributed Systems project Battleship, Data Mining project VoiceID Notes, Large Scale project LearnIt)
 - Francesco Del Turco (IoT Project Temperature Regulation System)
 - Federica Dini (Cloud Computing Project 20-21)
 - Edoardo Fazzari (Data Mining project AirBnB Price Estimator, Large Scale project PokemonGo, Distributed Systems Project UniSup, Computation Intelligence and Deep Learning project Artist Identification, MIRCV Project Bird Images Search Engine)
+- Veronica Gavagna (Process Mining Project Sea Container Inspection)
 - Sina Gholami (Distributed Systems Project UniSup)
 - Valerio Giannini (Large Scale notes, Data Mining project FederatedDBScan, Cloud Computing Project 20-21)
 - Matteo Guidotti (Mobile project MyPadel)
@@ -85,6 +87,7 @@ In [this Google Drive](https://drive.google.com/drive/folders/1KXbnC2i5qp07MMgn_
 - Niccolò Panichi (Cloud Computing Project 20-21)
 - Francesco Pesciatini (Large Scale questions)
 - Francesca Pezzuti (Large Scale project LearnIt)
+- Giacomo Piacentini (Process Mining Project Sea Container Inspection)
 - Matteo Pierucci (Mobile questions)
 - Mirko Ramo (Data Mining project AirBnB Price Estimator, Large Scale project PokeMongo, Distributed Systems Project UniSup, Computation Intelligence and Deep Learning project Artist Identification, MIRCV Project Bird Images Search Engine)
 - Edoardo Ruffoli (Data Mining project StockSentiment, Large Scale Project PaperRater)
@@ -92,6 +95,7 @@ In [this Google Drive](https://drive.google.com/drive/folders/1KXbnC2i5qp07MMgn_
 - Alessio Serra (Data Mining project FederatedDBScan, Cloud Computing Project 20-21)
 - Marco Simoni (Cloud Computing Project 20-21)
 - Pietro Tempesti (Mobile questions)
+- Gaetano Nicolò Terranova (Process Mining Project Sea Container Inspection)
 - Olgerti Xhanej (Large Scale project PokemonGo, Mobile project ChatApp with Emotional State Recognition, Distributed Systems project Auction Handler)
 
 
