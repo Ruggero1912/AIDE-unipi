@@ -77,6 +77,7 @@ In [this Google Drive](https://drive.google.com/drive/folders/1KXbnC2i5qp07MMgn_
 - Lorenzo Massagli (Mobile project ChatApp with Emotional State Recognition)
 - Federico Minniti (Distributed Systems project Battleship, Data Mining project VoiceID Notes, Large Scale project LearnIt)
 - Farzaneh Moghani (Cloud Computing Project 20-21)
+- Arezoumandan Morteza (IoT project Air Pollution Monitoring)
 - Edoardo Morucci (Mobile project MyPadel, Large Scale Project Rechype, Data Mining project QoS Data Analysis, MIRCV Project Plant-Leaves Search Engine, Cloud Computing notes, MIRCV notes, Cloud Computing project 20-21)
 - Enrico Nello (Cloud Computing project 20-21)
 - Edoardo Nuovocancello (Mobile questions)

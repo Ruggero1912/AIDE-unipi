@@ -41,6 +41,14 @@ This is a list of the public projects made by some students in the past. For som
 >Collector written in Java
 >
 >both code and docs 
+- **Air Pollution Monitoring | Morteza - (?others?)**: [GitHub repo](https://github.com/morarez/Air-Pollution-Monitoring)
+>Authors: Arezoumandan Morteza - (?others?)
+>
+>presented on February 2022
+>
+>Collector written in Python
+>
+>code only + readme file that explains how to deploy and start the project
 
 ### Oral questions
 
