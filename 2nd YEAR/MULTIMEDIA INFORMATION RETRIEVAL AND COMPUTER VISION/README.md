@@ -51,22 +51,22 @@ You can find a collection of oral questions in the directory [ORAL QUESTIONS](or
 
 Here you can find a collection of public notes written by the students:
 
-- [Amato 20-21 | Amarante - Morucci](Amato_20-21_Lecture_notes_TommasoAmarante-EdoardoMorucci.pdf):
->made in the **academic year 20-21**<br>
+- [Amato 21-22 | Amarante - Morucci](Amato_21-22_Lecture_notes_TommasoAmarante-EdoardoMorucci.pdf):
+>made in the **academic year 21-22**<br>
 >**72** pages<br>
 >**language**: italian<br>
 >**authors**: Tommaso Amarante, Edoardo Morucci<br>
 >Resumes all the lessons held by prof. Amato
 
-- [Gennaro 20-21 | Amarante - Morucci](Gennaro_20-21_Lecture_notes_TommasoAmarante-EdoardoMorucci.pdf):
->made in the **academic year 20-21**<br>
+- [Gennaro 21-22 | Amarante - Morucci](Gennaro_21-22_Lecture_notes_TommasoAmarante-EdoardoMorucci.pdf):
+>made in the **academic year 21-22**<br>
 >**53** pages<br>
 >**language**: italian<br>
 >**authors**: Tommaso Amarante, Edoardo Morucci<br>
 >Resumes all the lessons held by prof. Gennaro
 
-- [Falchi 20-21 | Amarante - Morucci](Falchi_20-21_Lecture_notes_TommasoAmarante-EdoardoMorucci.pdf):
->made in the **academic year 20-21**<br>
+- [Falchi 21-22 | Amarante - Morucci](Falchi_21-22_Lecture_notes_TommasoAmarante-EdoardoMorucci.pdf):
+>made in the **academic year 21-22**<br>
 >**72** pages<br>
 >**language**: italian<br>
 >**authors**: Tommaso Amarante, Edoardo Morucci<br>
