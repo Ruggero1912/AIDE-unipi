@@ -96,6 +96,14 @@ This is a list of the public projects made by some students in the past. For som
 >Made by Federica Baldi - Daniele Cioffo
 >
 >written in Java
+- **SpamDetector | Campilongo**: [GitHub repo](https://github.com/FraCamp/SpamDetector)
+>presented in January 2022
+>
+>Made by Francesco Campilongo
+>
+>written in Python (single file)
+>
+>contains the code, the dataset and the power point presentation
 
 #### **Add your project!** 
 if you want to share your project make a pull req or DM
