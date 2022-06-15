@@ -138,6 +138,16 @@ This is a list of the public projects made by some students in the past. For som
 >written in Python
 >
 >doc, code, presentation, dataset, how to deploy
+- **CryptoPredictor | Nello - Pierucci**; [GitHub repo](https://github.com/pieruccim/CryptoPredictor)
+>Classification model that predicts whether a crypto currency is going to increase or decrease or stable its value in the next market moment
+>
+>Made by Enrico Nello - Matteo Pierucci
+>
+>Presented on April 2022
+>
+>written in Python, implements a web app front end (developed using dash)
+>
+>doc, code, dataset
 
 #### **Add your project!** 
 if you want to share your project make a pull req or DM
