@@ -33,6 +33,14 @@ This is a list of the public projects made by some students in the past. For som
 >Collector written in Java
 >
 >both code and docs
+- **Temperature regulation System | Del Turco - Campilongo**: [GitHub repo](https://github.com/FranDT/ProjectIoT)
+>Authors: Francesco Del Turco - Francesco Campilongo
+>
+>presented in September 2021
+>
+>Collector written in Java
+>
+>both code and docs 
 
 ### Oral questions
 
