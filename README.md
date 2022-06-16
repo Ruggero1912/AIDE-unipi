@@ -21,7 +21,7 @@ Every contribution will be very appreciated and mentioned in the credits.
 
 #### Year 1
 
-[GENERAL](https://t.me/joinchat/A6S5hhOKF64s62zf2kJIxQ)
+📢 [GENERAL](https://t.me/joinchat/A6S5hhOKF64s62zf2kJIxQ)
 
 ⛏️ [Data Mining](https://t.me/UNIPI_data_mining)
 
@@ -35,7 +35,7 @@ Every contribution will be very appreciated and mentioned in the credits.
 
 #### Year 2
 
-[GENERAL](https://t.me/joinchat/A6S5hhyC7W9T28egM9xg_w)
+📢 [GENERAL](https://t.me/joinchat/A6S5hhyC7W9T28egM9xg_w)
 
 👷‍♂️ [Process Mining](https://t.me/UNIPI_process_mining)
 
@@ -59,52 +59,121 @@ In [this Google Drive](https://drive.google.com/drive/folders/1KXbnC2i5qp07MMgn_
 - [Giacomo Pacini](https://github.com/Ruggero1912)
 
 #### Contributors
-- Tommaso Amarante (Mobile project MyPadel, Large Scale Project Rechype, Mobile notes, Data Mining project QoS Data Analysis, MIRCV Project Plant-Leaves Search Engine, Cloud Computing notes, MIRCV notes, Cloud Computing project 20-21)
-- Federica Baldi (Computational Intelligence and Deep Learning project Lymphoblasts Image Classification, MIRCV Project Bird Images Search Engine, IoT project SmartSauna, Data Mining project SoundHabit, Distributed Systems Project GameOn)
+- Tommaso Amarante 
+>- Mobile project MyPadel
+>- Large Scale Project Rechype
+>- Mobile notes
+>- Data Mining project QoS Data Analysis
+>-  MIRCV Project Plant-Leaves Search Engine
+>- Cloud Computing notes
+>- MIRCV notes
+>- Cloud Computing project 20-21
+- Federica Baldi
+>- Computational Intelligence and Deep Learning project Lymphoblasts Image Classification
+>- MIRCV Project Bird Images Search Engine
+>- IoT project SmartSauna
+>- Data Mining project SoundHabit
+>- Distributed Systems Project GameOn
 - Tommaso Baldi (Data Mining project StockSentiment, Large Scale Project PaperRater, Distributed Systems project Battleship)
-- Lorenzo Bianchi (IoT project SmartFruitFridge, Data Mining Project Articles Categorizer, Cloud Computing Project 20-21, MIRCV Project Plant-Leaves Search Engine)
-- Iacopo Bicchierini (Mobile project MyPadel, IoT project SmartFruitFridge, Cloud Computing Project 20-21, MIRCV Project Plant-Leaves Search Engine)
+- Lorenzo Bianchi
+>- IoT project SmartFruitFridge
+>- Data Mining Project Articles Categorizer
+>- Cloud Computing Project 20-21
+>- MIRCV Project Plant-Leaves Search Engine
+- Iacopo Bicchierini
+>- Mobile project MyPadel
+>- IoT project SmartFruitFridge
+>- Cloud Computing Project 20-21
+>- MIRCV Project Plant-Leaves Search Engine
 - Tommaso Burlon (Distributed Systems project Auction Handler)
 - Pietro Calabrese (Cloud Computing project 20-21)
 - Francesco Campilongo (Large Scale project JustRecipe, Distributed Systems Project GameOn, Data Mining project SpamDetector, IoT Project Temperature Regulation System)
-- Daniele Cioffo (Computational Intelligence and Deep Learning project Lymphoblasts Image Classification, MIRCV Project Bird Images Search Engine, IoT project SmartSauna, Data Mining project SoundHabit, Distributed Systems Project GameOn, Large Scale project JustRecipe)
+- Daniele Cioffo
+>- Computational Intelligence and Deep Learning project Lymphoblasts Image Classification
+>- MIRCV Project Bird Images Search Engine
+>- IoT project SmartSauna
+>- Data Mining project SoundHabit 
+>- Distributed Systems Project GameOn
+>- Large Scale project JustRecipe
 - Erica Dallatomasina (Large Scale project Job Advisor, Data Mining project TweetStance)
 - Rossella De Dominicis (Process Mining Project Sea Container Inspection, MIRCV Project Dog Breeds Search Engine)
-- Matteo Del Seppia (Distributed Systems project Battleship, Data Mining project VoiceID Notes, Large Scale project LearnIt)
-- Francesco Del Turco (IoT Project Temperature Regulation System, Data Mining project MoneyGuard, Cloud Computing project AA 20-21)
+- Matteo Del Seppia
+>- Distributed Systems project Battleship
+>- Data Mining project VoiceID Notes
+>- Large Scale project LearnIt
+- Francesco Del Turco
+>- IoT Project Temperature Regulation System
+>- Data Mining project MoneyGuard
+>- Cloud Computing project AA 20-21
 - Federica Dini (Cloud Computing Project 20-21, IoT project Hospital Monitoring System)
-- Edoardo Fazzari (Data Mining project AirBnB Price Estimator, Large Scale project PokemonGo, Distributed Systems Project UniSup, Computation Intelligence and Deep Learning project Artist Identification, MIRCV Project Bird Images Search Engine)
-- Veronica Gavagna (Process Mining Project Sea Container Inspection)
+- Edoardo Fazzari
+>- Data Mining project AirBnB Price Estimator
+>- Large Scale project PokeMongo
+>- Distributed Systems Project UniSup
+>- Computation Intelligence and Deep Learning project Artist Identification
+>- MIRCV Project Bird Images Search Engine
+- Veronica Gavagna
+>- Process Mining Project Sea Container Inspection
 - Sina Gholami (Distributed Systems Project UniSup)
-- Valerio Giannini (Large Scale notes, Data Mining project FederatedDBScan, Cloud Computing Project 20-21)
+- Valerio Giannini
+>- Large Scale notes
+>- Data Mining project FederatedDBScan
+>- Cloud Computing Project 20-21
 - Matteo Guidotti (Mobile project MyPadel)
 - Francesco Hudema (Large Scale Project PaperRater)
 - Franesco Iemma (Mobile project ChatApp with Emotional State Recognition, Distributed Systems project Auction Handler, Large Scale project JustRecipe)
-- Aizdi Leena (Large Scale project Job Advisor, Data Mining project House Price Predictor)
+- Aizdi Leena
+>- Large Scale project Job Advisor
+>- Data Mining project House Price Predictor
 - Fabio Malloggi (Cloud Computing Project 20-21)
 - Francesco Marabotto (Cloud Computing project 20-21)
 - Lorenzo Massagli (Mobile project ChatApp with Emotional State Recognition)
 - Federico Minniti (Distributed Systems project Battleship, Data Mining project VoiceID Notes, Large Scale project LearnIt)
 - Farzaneh Moghani (Cloud Computing Project 20-21)
 - Arezoumandan Morteza (IoT project Air Pollution Monitoring, Data Mining project Pandemic Insights, Large Scale project Job Advisor, Cloud Computing project AA 20-21)
-- Edoardo Morucci (Mobile project MyPadel, Large Scale Project Rechype, Data Mining project QoS Data Analysis, MIRCV Project Plant-Leaves Search Engine, Cloud Computing notes, MIRCV notes, Cloud Computing project 20-21)
-- Enrico Nello (Cloud Computing project 20-21, Data Mining project CryptoPredictor)
+- Edoardo Morucci
+>- Mobile project MyPadel
+>- Large Scale Project Rechype
+>- Data Mining project QoS Data Analysis
+>- MIRCV Project Plant-Leaves Search Engine
+>- Cloud Computing notes
+>- MIRCV notes
+>- Cloud Computing project 20-21
+- Enrico Nello
+>- Cloud Computing project 20-21
+>- Data Mining project CryptoPredictor
 - Edoardo Nuovocancello (Mobile questions)
-- Giacomo Pacini (Mobile questions, Large Scale questions)
+- Giacomo Pacini
+>- Mobile questions
+>- Large Scale questions
 - Niccolò Panichi (Cloud Computing Project 20-21)
 - Francesco Pesciatini (Large Scale questions)
 - Francesca Pezzuti (Large Scale project LearnIt)
 - Giacomo Piacentini (Process Mining Project Sea Container Inspection, MIRCV Project Dog Breeds Search Engine, Data Mining project Pandemic Insights)
-- Matteo Pierucci (Mobile questions, Data Mining project CryptoPredictor)
-- Mirko Ramo (Data Mining project AirBnB Price Estimator, Large Scale project PokeMongo, Distributed Systems Project UniSup, Computation Intelligence and Deep Learning project Artist Identification, MIRCV Project Bird Images Search Engine)
-- Edoardo Ruffoli (Data Mining project StockSentiment, Large Scale Project PaperRater)
+- Matteo Pierucci
+>- Mobile questions
+>- Data Mining project CryptoPredictor
+- Mirko Ramo
+>- Data Mining project AirBnB Price Estimator
+>- Large Scale project PokeMongo
+>- Distributed Systems Project UniSup
+>- Computation Intelligence and Deep Learning project Artist Identification
+>- MIRCV Project Bird Images Search Engine
+- Edoardo Ruffoli
+>- Data Mining project StockSentiment
+>- Large Scale Project PaperRater
 - Ahmed Salah Tawfik Ibrahim (Data Mining project MoneyGuard, IoT project Hospital Monitoring System, Cloud Computing project AA 20-21)
 - Niko Salamini (Large Scale Project Rechype, Mobile project ChatApp with Emotional State Recognition)
-- Alessio Serra (Data Mining project FederatedDBScan, Cloud Computing Project 20-21)
+- Alessio Serra
+>- Data Mining project FederatedDBScan
+>- Cloud Computing Project 20-21
 - Marco Simoni (Cloud Computing Project 20-21)
 - Pietro Tempesti (Mobile questions)
 - Gaetano Nicolò Terranova (Process Mining Project Sea Container Inspection, MIRCV Project Dog Breeds Search Engine)
-- Olgerti Xhanej (Large Scale project PokemonGo, Mobile project ChatApp with Emotional State Recognition, Distributed Systems project Auction Handler)
+- Olgerti Xhanej
+>- Large Scale project PokeMongo
+>- Mobile project ChatApp with Emotional State Recognition
+>- Distributed Systems project Auction Handler
 
 
 If you want to be added to the contributors list or to be removed,

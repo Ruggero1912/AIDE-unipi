@@ -41,7 +41,7 @@ This is a list of the public projects made by some students in the past. For som
 >Made by Federico Minniti - Francesca Pezzuti - Matteo Del Seppia
 >
 >Java app, exploits MongoDB and Neo4j
-- **PokemonGo | Fazzari - Ramo - Xhanej**: [GitHub repo](https://github.com/edofazza/pokeMongo)
+- **PokeMongo | Fazzari - Ramo - Xhanej**: [GitHub repo](https://github.com/edofazza/pokeMongo)
 >Presented on February 2021
 >
 >Made by Edoardo Fazzari - Mirco Ramo - Olgerti Xhanej
