@@ -60,14 +60,14 @@ In [this Google Drive](https://drive.google.com/drive/folders/1KXbnC2i5qp07MMgn_
 
 #### Contributors
 - Tommaso Amarante (Mobile project MyPadel, Large Scale Project Rechype, Mobile notes, Data Mining project QoS Data Analysis, MIRCV Project Plant-Leaves Search Engine, Cloud Computing notes, MIRCV notes, Cloud Computing project 20-21)
-- Federica Baldi (Computational Intelligence and Deep Learning project Lymphoblasts Image Classification, MIRCV Project Bird Images Search Engine, IoT project SmartSauna, Large Scale project SoundHabit, Distributed Systems Project GameOn)
+- Federica Baldi (Computational Intelligence and Deep Learning project Lymphoblasts Image Classification, MIRCV Project Bird Images Search Engine, IoT project SmartSauna, Data Mining project SoundHabit, Distributed Systems Project GameOn)
 - Tommaso Baldi (Data Mining project StockSentiment, Large Scale Project PaperRater, Distributed Systems project Battleship)
 - Lorenzo Bianchi (IoT project SmartFruitFridge, Data Mining Project Articles Categorizer, Cloud Computing Project 20-21, MIRCV Project Plant-Leaves Search Engine)
 - Iacopo Bicchierini (Mobile project MyPadel, IoT project SmartFruitFridge, Cloud Computing Project 20-21, MIRCV Project Plant-Leaves Search Engine)
 - Tommaso Burlon (Distributed Systems project Auction Handler)
 - Pietro Calabrese (Cloud Computing project 20-21)
 - Francesco Campilongo (Large Scale project JustRecipe, Distributed Systems Project GameOn, Data Mining project SpamDetector, IoT Project Temperature Regulation System)
-- Daniele Cioffo (Computational Intelligence and Deep Learning project Lymphoblasts Image Classification, MIRCV Project Bird Images Search Engine, IoT project SmartSauna, Large Scale project SoundHabit, Distributed Systems Project GameOn, Large Scale project JustRecipe)
+- Daniele Cioffo (Computational Intelligence and Deep Learning project Lymphoblasts Image Classification, MIRCV Project Bird Images Search Engine, IoT project SmartSauna, Data Mining project SoundHabit, Distributed Systems Project GameOn, Large Scale project JustRecipe)
 - Erica Dallatomasina (Large Scale project Job Advisor, Data Mining project TweetStance)
 - Rossella De Dominicis (Process Mining Project Sea Container Inspection, MIRCV Project Dog Breeds Search Engine)
 - Matteo Del Seppia (Distributed Systems project Battleship, Data Mining project VoiceID Notes, Large Scale project LearnIt)
