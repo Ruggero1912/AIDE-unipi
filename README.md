@@ -162,7 +162,10 @@ In [this Google Drive](https://drive.google.com/drive/folders/1KXbnC2i5qp07MMgn_
 - Edoardo Ruffoli
 >- Data Mining project StockSentiment
 >- Large Scale Project PaperRater
-- Ahmed Salah Tawfik Ibrahim (Data Mining project MoneyGuard, IoT project Hospital Monitoring System, Cloud Computing project AA 20-21)
+- Ahmed Salah Tawfik Ibrahim
+>- Data Mining project MoneyGuard
+>- IoT project Hospital Monitoring System
+>- Cloud Computing project AA 20-21
 - Niko Salamini (Large Scale Project Rechype, Mobile project ChatApp with Emotional State Recognition)
 - Alessio Serra
 >- Data Mining project FederatedDBScan
