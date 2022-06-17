@@ -105,7 +105,9 @@ In [this Google Drive](https://drive.google.com/drive/folders/1KXbnC2i5qp07MMgn_
 >- IoT Project Temperature Regulation System
 >- Data Mining project MoneyGuard
 >- Cloud Computing project AA 20-21
-- Federica Dini (Cloud Computing Project 20-21, IoT project Hospital Monitoring System)
+- Federica Dini
+>- Cloud Computing Project 20-21
+>- IoT project Hospital Monitoring System
 - Edoardo Fazzari
 >- Data Mining project AirBnB Price Estimator
 >- Large Scale project PokeMongo
@@ -119,7 +121,8 @@ In [this Google Drive](https://drive.google.com/drive/folders/1KXbnC2i5qp07MMgn_
 >- Large Scale notes
 >- Data Mining project FederatedDBScan
 >- Cloud Computing Project 20-21
-- Matteo Guidotti (Mobile project MyPadel)
+- Matteo Guidotti
+>- Mobile project MyPadel
 - Francesco Hudema (Large Scale Project PaperRater)
 - Franesco Iemma (Mobile project ChatApp with Emotional State Recognition, Distributed Systems project Auction Handler, Large Scale project JustRecipe)
 - Aizdi Leena
@@ -142,7 +145,8 @@ In [this Google Drive](https://drive.google.com/drive/folders/1KXbnC2i5qp07MMgn_
 - Enrico Nello
 >- Cloud Computing project 20-21
 >- Data Mining project CryptoPredictor
-- Edoardo Nuovocancello (Mobile questions)
+- Edoardo Nuovocancello
+>- Mobile questions
 - Giacomo Pacini
 >- Mobile questions
 >- Large Scale questions
@@ -171,13 +175,19 @@ In [this Google Drive](https://drive.google.com/drive/folders/1KXbnC2i5qp07MMgn_
 >- Data Mining project FederatedDBScan
 >- Cloud Computing Project 20-21
 - Marco Simoni (Cloud Computing Project 20-21)
-- Pietro Tempesti (Mobile questions)
+- Pietro Tempesti
+>- Mobile questions
 - Gaetano Nicolò Terranova (Process Mining Project Sea Container Inspection, MIRCV Project Dog Breeds Search Engine)
 - Olgerti Xhanej
 >- Large Scale project PokeMongo
 >- Mobile project ChatApp with Emotional State Recognition
 >- Distributed Systems project Auction Handler
 
+#### Contributions list directives
+
+Acknowledged contributors are the ones whose contributions list is quoted.<br/>
+If your contribution or the one of someone you know is not acknowledged, please DM a mantainer to confirm or reject your presence (we did not manage to contact you). <br/>
+Project links usually need contribution confirmation if it is a new contributor, while oral questions reported on a group usually do not require a confirmation.
 
 If you want to be added to the contributors list or to be removed,
  write to the mantainers.
