@@ -1,4 +1,4 @@
-# AIDE-unipi
+# AIDE @ unipi
 Students' material for the course in Artificial Intelligence and Data Engineering at University of Pisa. 
 
 Use this repo to search for **slides**, **students' notes** and information about the course's exams 
@@ -14,6 +14,10 @@ You can add material by performing a pull request, opening an issue or by contac
 If you want to contribute to this repo, in the [issues tab](https://github.com/Ruggero1912/AIDE-unipi/issues) you can find an (hopefully) updated list of missing things.
 
 Every contribution will be very appreciated and mentioned in the credits.
+
+You can read more about how to make a contribution in [CONTRIBUTING.md](CONTRIBUTING.md)
+
+More mantainers needed for this repo: if you would like to become a mantainer of this repo, please DM one of the mantainer.
 
 *This repo was inspired by the one available for the [Computer Engineering course at UniPi](https://github.com/Guray00/IngegneriaInformatica)*.
 

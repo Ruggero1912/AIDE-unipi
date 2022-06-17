@@ -23,9 +23,18 @@ If you want to share the notes that you took for an exam, open a pull request wh
 1. upload the notes (possibly in .pdf format) with a name like (ProfessorName-AAyear-YourName.pdf) inside the folder of the subject the notes are for.
 2. add a link to the notes in the readme of the subject following the syntax of the other notes' links (indicate author, number of pages, language, AA, and any other detail that you think could be useful about your notes).
 3. like for any other contribution, also add your name to the contributors list (that you can find in the repo readme.md) if still not present, 
-and add also the notes' subject and name of your notes following the syntax of the others contributions.
+and add also the notes' subject and name of your notes following the syntax of the others contributions in the list of your contributions.
 
 Please add only notes that you personally made and / or that you were allowed to share.
+
+#### Adding oral questions
+
+To add known oral questions, please create or update the file oral-questions.md inside the folder of the subject following the syntax of the others oral-questions file. 
+
+(possibly) specify the Appello in which the questions were made, add every detail you remember about the question and / or a good answer to the question (if you can, not required).
+
+like for any other contribution, also add your name to the contributors list (that you can find in the repo readme.md) if still not present, 
+and add also the questions' subject (i. e. mobile questions 1st appello june 2022) in the list of your contributions
 
 
 # Thank you!
