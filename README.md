@@ -128,7 +128,8 @@ In [this Google Drive](https://drive.google.com/drive/folders/1KXbnC2i5qp07MMgn_
 - Aizdi Leena
 >- Large Scale project Job Advisor
 >- Data Mining project House Price Predictor
-- Fabio Malloggi (Cloud Computing Project 20-21)
+- Fabio Malloggi
+>- Cloud Computing Project 20-21
 - Francesco Marabotto (Cloud Computing project 20-21)
 - Lorenzo Massagli (Mobile project ChatApp with Emotional State Recognition)
 - Federico Minniti (Distributed Systems project Battleship, Data Mining project VoiceID Notes, Large Scale project LearnIt)
@@ -170,7 +171,9 @@ In [this Google Drive](https://drive.google.com/drive/folders/1KXbnC2i5qp07MMgn_
 >- Data Mining project MoneyGuard
 >- IoT project Hospital Monitoring System
 >- Cloud Computing project AA 20-21
-- Niko Salamini (Large Scale Project Rechype, Mobile project ChatApp with Emotional State Recognition)
+- Niko Salamini
+>- Large Scale Project Rechype
+>- Mobile project ChatApp with Emotional State Recognition
 - Alessio Serra
 >- Data Mining project FederatedDBScan
 >- Cloud Computing Project 20-21
