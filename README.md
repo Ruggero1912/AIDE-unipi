@@ -132,6 +132,7 @@ In [this Google Drive](https://drive.google.com/drive/folders/1KXbnC2i5qp07MMgn_
 - Aizdi Leena
 >- Large Scale project Job Advisor
 >- Data Mining project House Price Predictor
+>- BPMGT oral questions
 - Fabio Malloggi
 >- Cloud Computing Project 20-21
 - Francesco Marabotto (Cloud Computing project 20-21)
