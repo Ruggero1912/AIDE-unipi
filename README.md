@@ -139,7 +139,11 @@ In [this Google Drive](https://drive.google.com/drive/folders/1KXbnC2i5qp07MMgn_
 - Lorenzo Massagli (Mobile project ChatApp with Emotional State Recognition)
 - Federico Minniti (Distributed Systems project Battleship, Data Mining project VoiceID Notes, Large Scale project LearnIt)
 - Farzaneh Moghani (Cloud Computing Project 20-21)
-- Arezoumandan Morteza (IoT project Air Pollution Monitoring, Data Mining project Pandemic Insights, Large Scale project Job Advisor, Cloud Computing project AA 20-21)
+- Arezoumandan Morteza
+>- IoT project Air Pollution Monitoring
+>- Data Mining project Pandemic Insights
+>- Large Scale project Job Advisor
+>- Cloud Computing project AA 20-21
 - Edoardo Morucci
 >- Mobile project MyPadel
 >- Large Scale Project Rechype
@@ -157,7 +161,8 @@ In [this Google Drive](https://drive.google.com/drive/folders/1KXbnC2i5qp07MMgn_
 >- Mobile questions
 >- Large Scale questions
 - Niccolò Panichi (Cloud Computing Project 20-21)
-- Francesco Pesciatini (Large Scale questions)
+- Francesco Pesciatini 
+>- Large Scale questions
 - Francesca Pezzuti (Large Scale project LearnIt)
 - Giacomo Piacentini
 >- Process Mining Project Sea Container Inspection
