@@ -71,4 +71,11 @@ You can find a collection of oral questions in the directory [ORAL QUESTIONS](or
 
 Here you can find a collection of public notes written by the students:
 
+- [LargeScale](LargeScale_21-22_Anna-Fabbri.pdf): 
+>made in the academic year 21-22, 77 pages, in english, 
+>
+>covers the part of prof Ducange
+>
+>author: Anna Fabbri
+
 - [LargeScaleRecap](LargeScaleRecap_20-21_Valerio-Giannini.pdf): made in the academic year 20-21, 58 pages, in english, author: Valerio Giannini

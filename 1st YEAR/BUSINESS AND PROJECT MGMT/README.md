@@ -41,3 +41,10 @@ In the folder [WRITTEN TESTS](WRITTEN%20TESTS) you can find a collection of past
 
 Here you can find a collection of public notes written by the students:
 
+- [Business_20-21](BUSINESS_20-21_Anna-Fabbri.pdf): 
+>made in the academic year 20-21, 124 pages, in english, 
+>
+>**does not cover the FINANCE part**
+>
+>author: Anna Fabbri
+
