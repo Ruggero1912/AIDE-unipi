@@ -1,3 +1,10 @@
+From a message on the Telegram group of Business July 2022:
+>A me oggi ha chiesto 
+>- lessons learned
+>- critical path
+>- psychographic segmentation
+>- cosa metto nell'owners' funds
+
 #### Domande orale (anno 2021 e precedenti, alcune potrebbero essere della professoressa Belinghieri)
 
 -	Stage gate process

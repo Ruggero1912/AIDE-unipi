@@ -202,6 +202,7 @@ In [this Google Drive](https://drive.google.com/drive/folders/1KXbnC2i5qp07MMgn_
 - Marco Simoni (Cloud Computing Project 20-21)
 - Pietro Tempesti
 >- Mobile questions
+>- business questions
 - Gaetano Nicolò Terranova (Process Mining Project Sea Container Inspection, MIRCV Project Dog Breeds Search Engine)
 - Olgerti Xhanej
 >- Large Scale project PokeMongo
