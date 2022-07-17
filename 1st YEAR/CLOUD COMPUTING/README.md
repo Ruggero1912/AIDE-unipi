@@ -22,6 +22,11 @@ STEPS:
 ### Students' projects
 
 This is a list of the public projects made by some students in the past. For some of them only the documentation is available, for some others the code too:
+- **Project AA 21-22 Bloom Filter | Bellia - Ralli - Bianchettin - Fischietti**[GitHub repo](https://github.com/MacroBet/cloud_computing_project):
+>Presented on July 2022
+>
+>Made by Marco Bellia - Marco Ralli - Stefano Bianchettin - Giulio Fischietti
+
 - **Project AA 20-21 Page Rank | Bianchi - Bicchierini - Dini - Panichi**: [GitHub repo](https://github.com/lorebianchi98/PageRank)
 >Presented on July 2021
 >

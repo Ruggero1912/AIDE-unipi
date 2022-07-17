@@ -79,6 +79,10 @@ In [this Google Drive](https://drive.google.com/drive/folders/1KXbnC2i5qp07MMgn_
 >- Data Mining project SoundHabit
 >- Distributed Systems Project GameOn
 - Tommaso Baldi (Data Mining project StockSentiment, Large Scale Project PaperRater, Distributed Systems project Battleship)
+- Marco Bellia - [GitHub](https://github.com/MacroBet)
+>- Cloud Computing project 21-22 Bloom Filter
+- Stefano Bianchettin
+>- Cloud Computing project 21-22 Bloom Filter
 - Lorenzo Bianchi
 >- IoT project SmartFruitFridge
 >- Data Mining Project Articles Categorizer
@@ -120,6 +124,7 @@ In [this Google Drive](https://drive.google.com/drive/folders/1KXbnC2i5qp07MMgn_
 >- MIRCV Project Bird Images Search Engine
 - Giulio Fiaschetti - [GitHub](https://github.com/GiulioFischietti)
 >- Data Mining project US Election 2020 tweets analysis
+>- Cloud Computing project 21-22 Bloom Filter
 - Veronica Gavagna
 >- Process Mining Project Sea Container Inspection
 - Sina Gholami (Distributed Systems Project UniSup)
@@ -173,6 +178,8 @@ In [this Google Drive](https://drive.google.com/drive/folders/1KXbnC2i5qp07MMgn_
 - Matteo Pierucci
 >- Mobile questions
 >- Data Mining project CryptoPredictor
+- Marco Ralli - [GitHub](https://github.com/MarcoRalli)
+>- Cloud Computing project 21-22 Bloom Filter
 - Mirko Ramo
 >- Data Mining project AirBnB Price Estimator
 >- Large Scale project PokeMongo
