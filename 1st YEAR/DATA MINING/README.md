@@ -143,9 +143,19 @@ This is a list of the public projects made by some students in the past. For som
 >
 >Made by Enrico Nello - Matteo Pierucci
 >
->Presented on April 2022
+>Presented in April 2022
 >
 >written in Python, implements a web app front end (developed using dash)
+>
+>doc, code, dataset
+- **Mining and Analysis of Twitter users' stance in regards to 2020 US presidential candidates: a retrospective analysis | Fischietti** [GitHub repo](https://github.com/GiulioFischietti/Data-Mining-and-Machine-learning-project)
+>Analyzes the change in the consensus of each candidates after events.
+>
+>presented in April 2022
+>
+>made by Giulio Fischietti
+>
+>written in python
 >
 >doc, code, dataset
 
