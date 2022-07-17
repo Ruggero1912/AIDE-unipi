@@ -21,6 +21,18 @@ From a message in the Telegram group of Cloud Computing, July 2022:
 >Tonellotto:
 >- Explain distributed sorting
 
+>Per chi fosse interessato, domande Vallati:
+>- Definizione di cloud platform + spiegazione servizi OpenStack
+>- Come funziona ceph?
+>- Sai dirmi alcuni comandi che abbiamo visto di Docker? 
+>
+>Domande Tonellotto:
+>- Parlami degli RDD, qual è la sua caratteristica principale? (Immutabilità)
+>- Quando viene creata la lineage di un RDD? (Alla prima trasformazione)
+>- Parlami del Task Interaction Graph
+>
+>Ha fatto anche una quarta domanda Tonellotto (1 per persona) ma non me la ricordo
+
 You can find it in this [folder](oral-questions)
 
 - [2020 DOMANDE CLOUD - final.pdf](oral-questions/2020%20DOMANDE%20CLOUD%20-%20final.pdf)
