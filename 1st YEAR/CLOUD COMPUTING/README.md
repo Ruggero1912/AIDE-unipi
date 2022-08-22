@@ -19,6 +19,10 @@ STEPS:
 1. **Project presentation**
 2. **Oral exam**
 
+### Official material links
+
+- [prof. Tonellotto GitHub repo for the cloud course](https://github.com/tonellotto/cloud-computing)
+
 ### Students' projects
 
 This is a list of the public projects made by some students in the past. For some of them only the documentation is available, for some others the code too:
