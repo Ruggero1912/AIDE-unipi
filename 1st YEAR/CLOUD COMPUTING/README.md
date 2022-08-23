@@ -31,6 +31,17 @@ This is a list of the public projects made by some students in the past. For som
 >
 >Made by Marco Bellia - Marco Ralli - Stefano Bianchettin - Giulio Fischietti
 
+- **Project AA 21-22 Bloom Filter | Vigna **[GitHub repo](https://github.com/AlterVigna/BloomFiltersInMapReduce)
+>Presented on July 2022
+>
+>Made by Davide Vigna
+
+- **Project AA 21-22 Bloom Filter | Tempesti - Dugo - Marino - Tessa **[GitHub repo](https://github.com/PieTempesti98/bloomfilter_spark)
+>Presented on June 2022
+>
+>Made by Pietro Tempesti, Stefano Dugo, Gabriele Marino, Benedetta Tessa
+
+
 - **Project AA 20-21 Page Rank | Bianchi - Bicchierini - Dini - Panichi**: [GitHub repo](https://github.com/lorebianchi98/PageRank)
 >Presented on July 2021
 >
