@@ -72,6 +72,7 @@ In [this Google Drive](https://drive.google.com/drive/folders/1KXbnC2i5qp07MMgn_
 >- Cloud Computing notes
 >- MIRCV notes
 >- Cloud Computing project 20-21
+>- Business and Project Mgmt project videogames market search
 - Federica Baldi
 >- Computational Intelligence and Deep Learning project Lymphoblasts Image Classification
 >- MIRCV Project Bird Images Search Engine
@@ -170,6 +171,7 @@ In [this Google Drive](https://drive.google.com/drive/folders/1KXbnC2i5qp07MMgn_
 - Giacomo Pacini
 >- Mobile questions
 >- Large Scale questions
+>- Business and Project Mgmt project videogames market search
 - Niccolò Panichi (Cloud Computing Project 20-21)
 - Francesco Pesciatini 
 >- Large Scale questions

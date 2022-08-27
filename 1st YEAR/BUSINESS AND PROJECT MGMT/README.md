@@ -24,6 +24,15 @@ The project should be about some NLP technique applied for a business aim.
 
 This is a list of the public projects made by some students in the past. For some of them only the documentation is available, for some others the code too:
 
+- **Videogames market search | Amarante - Pacini**: [GitHub repo](https://github.com/Ruggero1912/bpm-videogames-market-search)
+>Presented in July 2022
+>
+>Made by Tommaso Amarante, Giacomo Pacini
+>
+>includes documentation, code, presentation and dataset
+>
+>exploits dictionary-based keyword extraction to find the most important concepts on which a software house should focus in order to develop a videogame appreciated by the public
+
 **More links to projects are coming**: if you want to share your project make a pull req or DM
 
 
