@@ -117,6 +117,8 @@ In [this Google Drive](https://drive.google.com/drive/folders/1KXbnC2i5qp07MMgn_
 - Federica Dini
 >- Cloud Computing Project 20-21
 >- IoT project Hospital Monitoring System
+- Stefano Dugo
+>- cloud computing project AA 21-22
 - Anna Fabbri - [GitHub](https://github.com/annafabbri)
 >- Large Scale notes AA 21-22
 >- Business and Project Mgmt notes AA 20-21
@@ -147,6 +149,8 @@ In [this Google Drive](https://drive.google.com/drive/folders/1KXbnC2i5qp07MMgn_
 - Fabio Malloggi
 >- Cloud Computing Project 20-21
 - Francesco Marabotto (Cloud Computing project 20-21)
+- Gabriele Marino
+>- Cloud Computing project AA 21-22
 - Lorenzo Massagli (Mobile project ChatApp with Emotional State Recognition)
 - Federico Minniti (Distributed Systems project Battleship, Data Mining project VoiceID Notes, Large Scale project LearnIt)
 - Farzaneh Moghani (Cloud Computing Project 20-21)
@@ -205,10 +209,15 @@ In [this Google Drive](https://drive.google.com/drive/folders/1KXbnC2i5qp07MMgn_
 >- Data Mining project FederatedDBScan
 >- Cloud Computing Project 20-21
 - Marco Simoni (Cloud Computing Project 20-21)
-- Pietro Tempesti
+- Pietro Tempesti - [GitHub](https://github.com/PieTempesti98)
 >- Mobile questions
 >- business questions
+>- cloud computing project AA 21-22
 - Gaetano Nicolò Terranova (Process Mining Project Sea Container Inspection, MIRCV Project Dog Breeds Search Engine)
+- Benedetta Tessa
+>- Cloud Computing project AA 21-22
+- Davide Vigna - [GitHub](https://github.com/AlterVigna)
+>- Cloud Computing project AA 21-22
 - Olgerti Xhanej
 >- Large Scale project PokeMongo
 >- Mobile project ChatApp with Emotional State Recognition
