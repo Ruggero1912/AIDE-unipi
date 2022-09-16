@@ -82,6 +82,7 @@ In [this Google Drive](https://drive.google.com/drive/folders/1KXbnC2i5qp07MMgn_
 - Tommaso Baldi (Data Mining project StockSentiment, Large Scale Project PaperRater, Distributed Systems project Battleship)
 - Marco Bellia - [GitHub](https://github.com/MacroBet)
 >- Cloud Computing project 21-22 Bloom Filter
+>- IoT project iot_hydro_food
 - Stefano Bianchettin
 >- Cloud Computing project 21-22 Bloom Filter
 - Lorenzo Bianchi
@@ -189,6 +190,7 @@ In [this Google Drive](https://drive.google.com/drive/folders/1KXbnC2i5qp07MMgn_
 >- Data Mining project CryptoPredictor
 - Marco Ralli - [GitHub](https://github.com/MarcoRalli)
 >- Cloud Computing project 21-22 Bloom Filter
+>- IoT project iot_hydro_food
 - Mirko Ramo
 >- Data Mining project AirBnB Price Estimator
 >- Large Scale project PokeMongo

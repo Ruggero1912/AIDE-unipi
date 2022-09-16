@@ -16,6 +16,17 @@ Code: 882II
 ### Students' projects
 
 This is a list of the public projects made by some students in the past. For some of them only the documentation is available, for some others the code too:
+- **iot_hydro_food**: [GitHub repo](https://github.com/MacroBet/iot_hydro_food)
+>Authors: Marco Bellia, Marco Ralli
+>
+>Presented in September 2022
+>
+>achieved **maximum mark**
+>
+> Implements a Python collector, a CoAP and an MQTT network of nodes.
+>
+>In the repo you will find both the documentation and the code
+>
 - **SmartFruitFridge**: [GitHub repo](https://github.com/Bicchie/SmartFruitFridge)
 >Authors: Iacopo Bicchierini, Lorenzo Bianchi
 >
