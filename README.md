@@ -139,6 +139,8 @@ In [this Google Drive](https://drive.google.com/drive/folders/1KXbnC2i5qp07MMgn_
 >- Large Scale notes
 >- Data Mining project FederatedDBScan
 >- Cloud Computing Project 20-21
+- Francesco Grillea
+>- OMGT notes
 - Matteo Guidotti
 >- Mobile project MyPadel
 - Francesco Hudema (Large Scale Project PaperRater)

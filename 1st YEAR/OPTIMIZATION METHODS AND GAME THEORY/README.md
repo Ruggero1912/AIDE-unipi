@@ -26,3 +26,11 @@ You can find a collection of oral questions in the directory [ORAL QUESTIONS](or
 
 Here you can find a collection of public notes written by the students:
 
+- [OMGT 21-22 - Francesco Grillea](OMGT_21-22_Francesco-Grillea.pdf): 
+>made in the academic year 21-22, 82 pages, in english
+>
+>last update: 10/09/2022
+>
+>author: Francesco Grillea
+
+#### Share your notes via pull req, opening issue or DM a mantainer
