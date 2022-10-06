@@ -51,3 +51,5 @@ You can find a collection of oral questions in the directory [ORAL QUESTIONS](or
 Here you can find a collection of public notes written by the students:
 
 - [Avvenuti 21-22](Avvenuti%2021-22%20Lecture%20Notes_TommasoAmarante.pdf): made in the academic year 21-22, 38 pages, in english, author: Tommaso Amarante. Resumes all the lessons held by prof. Marco avvenuti
+
+- [Lectures Transcriptions 21-22](21-22_LecturesTranscriptions_Anna-Fabbri.pdf): made in the academic year 21-22, 116 pages, in english, author: Anna Fabbri. Transcriptions of quite all the lessons yeld in AY 21-22.

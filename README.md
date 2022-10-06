@@ -123,6 +123,7 @@ In [this Google Drive](https://drive.google.com/drive/folders/1KXbnC2i5qp07MMgn_
 - Anna Fabbri - [GitHub](https://github.com/annafabbri)
 >- Large Scale notes AA 21-22
 >- Business and Project Mgmt notes AA 20-21
+>- Mobile and social sensing systems notes AA 21-22
 - Edoardo Fazzari
 >- Data Mining project AirBnB Price Estimator
 >- Large Scale project PokeMongo
