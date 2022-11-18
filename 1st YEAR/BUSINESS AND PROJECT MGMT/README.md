@@ -33,6 +33,19 @@ This is a list of the public projects made by some students in the past. For som
 >
 >exploits dictionary-based keyword extraction to find the most important concepts on which a software house should focus in order to develop a videogame appreciated by the public
 
+
+- **Automatic defect detection | Tranfa**: [GitHub repo](https://github.com/carmine1990/bpm-defect-detection)
+>Presented in November 2022
+>
+>Made by Carmine Tranfa
+>
+>includes documentation, code, presentation and dataset
+>
+>topic modeling analysis to define which are the topic related to "automatic defect detection" in scientific papers
+>
+>score A+
+
+
 **More links to projects are coming**: if you want to share your project make a pull req or DM
 
 
