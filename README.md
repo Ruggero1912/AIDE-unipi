@@ -221,6 +221,8 @@ In [this Google Drive](https://drive.google.com/drive/folders/1KXbnC2i5qp07MMgn_
 - Gaetano Nicolò Terranova (Process Mining Project Sea Container Inspection, MIRCV Project Dog Breeds Search Engine)
 - Benedetta Tessa
 >- Cloud Computing project AA 21-22
+- Carmine Tranfa
+>- BPMGT Project
 - Davide Vigna - [GitHub](https://github.com/AlterVigna)
 >- Cloud Computing project AA 21-22
 - Olgerti Xhanej
