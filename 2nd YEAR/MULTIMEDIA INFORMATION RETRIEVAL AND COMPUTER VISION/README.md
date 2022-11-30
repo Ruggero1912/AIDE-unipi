@@ -1,14 +1,16 @@
 # Multimedia Information Retrieval and Computer Vision
 
-Professors: Giuseppe Amato, Fabrizio Falchi, Claudio Gennaro
+Professor: Nicola Tonellotto
 
 CFU: 9
 
 Code: 886II
 
-[UniPi page](https://esami.unipi.it/esami2/programma.php?pg=ects&c=48403)
+[(OLD) UniPi page](https://esami.unipi.it/esami2/programma.php?pg=ects&c=48403)
 
-[Course website](https://sites.google.com/site/unipimircv/multimedia-information-retrieval-and-computer-vision)
+[(OLD) Course website](https://sites.google.com/site/unipimircv/multimedia-information-retrieval-and-computer-vision)
+
+[2022 - 2023 Lessons Register](https://unimap.unipi.it/registri/dettregistriNEW.php?re=7087995::::&ri=50325)
 
 ### Exam structure
 
