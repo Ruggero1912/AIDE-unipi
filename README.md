@@ -105,6 +105,8 @@ In [this Google Drive](https://drive.google.com/drive/folders/1KXbnC2i5qp07MMgn_
 >- Data Mining project SoundHabit 
 >- Distributed Systems Project GameOn
 >- Large Scale project JustRecipe
+- Domenico D'Orsi - [GitHub](https://github.com/dominicofthebears)
+>- data mining project PDFMalwareDetector
 - Erica Dallatomasina (Large Scale project Job Advisor, Data Mining project TweetStance)
 - Rossella De Dominicis (Process Mining Project Sea Container Inspection, MIRCV Project Dog Breeds Search Engine)
 - Matteo Del Seppia

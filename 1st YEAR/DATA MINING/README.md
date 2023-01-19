@@ -54,6 +54,14 @@ STEPS:
 ### Students' projects
 
 This is a list of the public projects made by some students in the past. For some of them only the documentation is available, for some others the code too:
+- **PDF Malware Detector**: [GitHub repo](https://github.com/dominicofthebears/PDFMalwareDetector)
+>Presented on January 2023
+>
+>Made by Domenico D'Orsi
+>
+>written in Python
+>
+>code, docs, ppt
 - **Federated DB Scan**: [GitHub repo](https://github.com/ValeGian/FederatedDBSCAN)
 >Presented on February 2021
 >

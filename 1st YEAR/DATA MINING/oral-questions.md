@@ -1,6 +1,38 @@
 ### Data Mining and Machine Learning oral questions
 
-Telegram message from the Cloud Computing group, July 2022:
+Telegram message from the Data Mining group, January 2023:
+>Constrained clustering
+>Internal mean squared error (k-means)
+>BCubed measures
+>Silhouette score
+>_
+>LRD/LOF
+>ABOF
+>_
+>Data Stream
+>Concept drift
+>Decay
+>Hoeffding
+>BIRCH
+>_
+>DBSCAN
+>Heuristic for Eps
+>Point types
+>Problem of DBSCAN
+>Silhouette
+>_
+>Frequent Sequential Pattern
+>AprioriAll/Some/Dynamic
+>FreeSpan
+>_
+>Ensemble for classification
+>AdaBOOOOOOST
+>RandomForest
+>Imbalance data
+>SMOTE
+>_
+
+Telegram message from the Data Mining group, July 2022:
 >Buongiorno stamani ho fatto l’orale di data mining magari le domande che mi ha fatto possono essere d’aiuto a qualcuno : 
 >- Smoothing, 
 >- PCA, 
@@ -9,7 +41,7 @@ Telegram message from the Cloud Computing group, July 2022:
 >
 >tutto abbastanza nel dettaglio
 
-Telegram message from the Cloud Computing group, June 2022:
+Telegram message from the Data Mining group, June 2022:
 >A me ha chiesto DENCLUE con tutti i dettagli e poi metodi per misurare la qualità di un clustering (silhouette e poi Bcubed precision e recall)
 
 From a Telegram message of January 2021, AIDE General Group Year 1:
