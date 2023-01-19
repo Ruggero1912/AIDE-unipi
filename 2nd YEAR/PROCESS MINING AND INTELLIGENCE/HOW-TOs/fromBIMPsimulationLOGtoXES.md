@@ -19,3 +19,21 @@ To create the process log from a BIMP simulation you have to:
 
 Open the file in Disco, export it as csv selecting the option "add endpoints".
 
+	1. Fai simulazione del bpmn del normative model (normalmente è quello AS IS) con durate a 1 sec, costi a 1 sec e risorse a 10 unità (quest'ultimo da verificare)
+	2. Esporta il log della simulazione come mxml
+	3. Apri il log della simulazione su disco
+	4. Esporta il log della simulazione in csv da disco con la spunta per aggiungere gli endpoints
+	5. 
+	6. Importa in ProM il file csv
+	7. 
+	8. Apri in prom il file csv e fai play, clicca quindi sulla voce 
+
+	9. 
+	10. Dovrebbe venire una schermata così che mostra il csv caricato:
+	11. 
+	12. Ti chiederà quali attributi standard XES mappare, imposta così (aggiunto CASE ID a case column, seleziona complete timestamp a completion time, il formato del timestamp lo dovrebbe capire da sé):
+	13. 
+	14. Questo l'ho lasciato com'era:
+	15. 
+	16. Clicca finish e dovrebbe dare in uscita il file Xlog, che può essere salvato su disco
+![image](https://user-images.githubusercontent.com/63967908/213411504-2aafa262-bb2e-4c12-ab6b-1d79ab96b19e.png)
