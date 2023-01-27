@@ -8,6 +8,8 @@ Code: 876II
 
 [UniPi page](https://esami.unipi.it/esami2/programma.php?pg=ects&c=48212)
 
+[Registro delle lezioni](https://unimap.unipi.it/registri/dettregistriNEW.php?re=3325519::::&ri=013155)
+
 ### Exam structure
 
 In order to make the oral exam, you have to implement and present a project work made in group (group members: 3).
