@@ -78,10 +78,18 @@ You can find a collection of oral questions in the directory [ORAL QUESTIONS](or
 
 Here you can find a collection of public notes written by the students:
 
+- [All 21-22 | Pacini](Vallati_20-21_Lecture_Notes-TommasoAmarante-EdoardoMorucci.pdf):
+>made for the **academic year 21-22**<br>
+>released 2023-02-09<br>
+>**89** pages<br>
+>**language**: english<br>
+>**author**: Giacomo Pacini<br>
+>Resumes the theorical part of the course, some resumes on Lab parts (for oral exam preparation)<br>
+>Avaiable in .docx format too
 - [Vallati 20-21 | Amarante - Morucci](Vallati_20-21_Lecture_Notes-TommasoAmarante-EdoardoMorucci.pdf):
 >made in the **academic year 20-21**<br>
 >**166** pages<br>
->**language**: english<br>
+>**language**: italian<br>
 >**authors**: Tommaso Amarante, Edoardo Morucci<br>
 >Resumes all the lessons held by prof. Vallati
 
