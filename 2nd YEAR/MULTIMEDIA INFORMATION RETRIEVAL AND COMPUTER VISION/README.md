@@ -26,6 +26,19 @@ STEPS:
 ### Students' projects
 
 This is a list of the public projects made by some students in the past. For some of them only the documentation is available, for some others the code too:
+- **Search Engine AA 22-23 | Pezzuti - Tempesti - Tessa**: [GitHub repo](https://github.com/PieTempesti98/searchEngine)
+>Presented in January 2023
+>
+>Made by Francesca Pezzuti - Pietro Tempesti - Benedetta Tessa
+>
+>code written in Java
+>
+>includes documentation too
+
+---
+---
+
+Old course projects:
 - **Plant-Leaves Search Engine AA 21-22 | Amarante - Morucci - Bianchi - Bicchierini**: [GitHub repo](https://github.com/TommyTheHuman/MIRCV-Plant-Leaves-Search-Engine)
 >Presented in January 2022
 >
@@ -61,6 +74,10 @@ You can find a collection of oral questions in the directory [ORAL QUESTIONS](or
 
 Here you can find a collection of public notes written by the students:
 
+---
+---
+
+Old course notes:
 - [Amato 21-22 | Amarante - Morucci](Amato_21-22_Lecture_notes_TommasoAmarante-EdoardoMorucci.pdf):
 >made in the **academic year 21-22**<br>
 >**72** pages<br>
