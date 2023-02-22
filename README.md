@@ -179,6 +179,7 @@ In [this Google Drive](https://drive.google.com/drive/folders/1KXbnC2i5qp07MMgn_
 - Edoardo Nuovocancello
 >- Mobile questions
 - Giacomo Pacini
+>- Data Mining oral questions exam 2023-02-22
 >- Cloud Computing notes (2023-02-09)
 >- Mobile questions
 >- Large Scale questions
