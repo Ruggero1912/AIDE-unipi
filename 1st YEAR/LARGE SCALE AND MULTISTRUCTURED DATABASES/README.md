@@ -23,6 +23,31 @@ STEPS:
 ### Students' projects
 
 This is a list of the public projects made by some students in the past. For some of them only the documentation is available, for some others the code too:
+
+- **EventinZona Mobile App**: [Frontend repo](https://github.com/GiulioFischietti/lsmdb_project_app) - [Backend repo](https://github.com/GiulioFischietti/lsmdb_project_backend) - [documentation](https://drive.google.com/file/d/1pGdA8pPIqlJchCjLJFG5S9cVrzAe7i4t/view)
+> presented in February 2023
+>
+> made by Giulio Fischietti
+>
+> Documentation: https://drive.google.com/file/d/1pGdA8pPIqlJchCjLJFG5S9cVrzAe7i4t/view
+>
+>GitHub Repos:
+> - front-end: https://github.com/GiulioFischietti/lsmdb_project_app
+> - back-end: https://github.com/GiulioFischietti/lsmdb_project_backend
+>
+>Video Demo: https://drive.google.com/file/d/1BHyK2A-uin02X9XYLjEPqV7N6B_5o-EX/view?usp=share_link
+>
+>Technologies used:
+>- Front-end: Flutter 
+>- Back-end in Node.js
+>- DBMSs: MongoDB and Neo4j
+>
+>In the link is provided the whole documentation with sharding and replication design.
+>
+>Errors and mistakes corrected by Jose Corcuera during oral exam: 
+>- Consistency management between Neo4j and MongoDB: it should be done with a hinted handoff aproach and a retry with timeout on the Neo4j side. It is currently implemented with rollback which is not good as we could potentially lose useful data.
+>- Cronjobs: cronjobs must be run with scripts external to Node.js otherwise each node will write the same data over and over
+
 - **Rechype**: [GitHub repo](https://github.com/TommyTheHuman/Rechype)
 >Presented in June 2021
 >
