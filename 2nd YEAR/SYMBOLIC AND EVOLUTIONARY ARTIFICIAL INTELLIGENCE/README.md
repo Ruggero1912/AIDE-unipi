@@ -8,6 +8,8 @@ Code: 893II
 
 [UniPi page](https://esami.unipi.it/esami2/programma.php?pg=ects&c=52622)
 
+[2022-2023 Lessons Register](https://unimap.unipi.it/registri/dettregistriNEW.php?re=7085346::::&ri=010764)
+
 
 ### Exam structure
 
