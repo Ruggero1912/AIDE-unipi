@@ -83,6 +83,10 @@ This is a list of the public projects made by some students in the past. For som
 >Made by Arezoumandan Morteza - Erica Dallatomasina - Aizdi Leena
 >
 >Java app, Mongo and Neo4J
+- **London Safe Travel | Pagani - Marinsalda - Frati** [GitHub repo](https://github.com/scarburato/LargeScaleDBsProject)
+>Presented in January 2023
+>
+>Java, Mongo, neo4j, LaTeX
 
 **More links to projects are coming**: if you want to share your project make a pull req or DM
 
