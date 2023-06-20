@@ -19,7 +19,9 @@ You can read more about how to make a contribution in [CONTRIBUTING.md](CONTRIBU
 
 More mantainers needed for this repo: if you would like to become a mantainer of this repo, please DM one of the mantainer.
 
-*This repo was inspired by the one available for the [Computer Engineering course at UniPi](https://github.com/Guray00/IngegneriaInformatica)*.
+*This repo was inspired by the one available for the [Bachelor's Degree in Computer Engineering course at UniPi](https://github.com/Guray00/IngegneriaInformatica)*.
+
+*You can find some other material in the [Master's Degree in Computer Engineering repo](https://github.com/b0-n0-b0/Computer-Engineering)*.
 
 ### Telegram Groups
 
