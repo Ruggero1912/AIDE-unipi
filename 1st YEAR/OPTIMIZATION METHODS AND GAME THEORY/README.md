@@ -26,6 +26,15 @@ You can find a collection of oral questions in the directory [ORAL QUESTIONS](or
 
 Here you can find a collection of public notes written by the students:
 
+- [OMGT 21-22 - Lorenzo Massagli](https://github.com/ImBadnick/University/tree/main/Master/OMGT): 
+>in italian
+>
+>handwritten
+>
+>available in two versions, one longer and one shorter
+>
+>author: Lorenzo Massagli
+
 - [OMGT 21-22 - Francesco Grillea](OMGT_21-22_Francesco-Grillea.pdf): 
 >made in the academic year 21-22, 82 pages, in english
 >

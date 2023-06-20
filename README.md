@@ -164,6 +164,7 @@ In [this Google Drive](https://drive.google.com/drive/folders/1KXbnC2i5qp07MMgn_
 - Lorenzo Massagli - [GitHub](https://github.com/ImBadnick/University/tree/main/Master)
 >- Mobile project ChatApp with Emotional State Recognition
 >- MIRCV notes
+>- OMGT notes
 - Federico Minniti (Distributed Systems project Battleship, Data Mining project VoiceID Notes, Large Scale project LearnIt)
 - Farzaneh Moghani (Cloud Computing Project 20-21)
 - Arezoumandan Morteza
