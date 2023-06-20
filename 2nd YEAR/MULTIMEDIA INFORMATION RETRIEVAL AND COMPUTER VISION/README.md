@@ -39,6 +39,13 @@ This is a list of the public projects made by some students in the past. For som
 ---
 
 Old course projects:
+- **Mushroom image search engine AA 21-22 | Fischietti**: [Documentation](https://drive.google.com/file/d/1JfXGitLaqRDPufZGTRXKOZVR0K_uCsMz/view)
+> Made by Giulio Fischietti
+>
+> Presented in April 2022
+>
+>documentation: https://drive.google.com/file/d/1JfXGitLaqRDPufZGTRXKOZVR0K_uCsMz/view
+
 - **Plant-Leaves Search Engine AA 21-22 | Amarante - Morucci - Bianchi - Bicchierini**: [GitHub repo](https://github.com/TommyTheHuman/MIRCV-Plant-Leaves-Search-Engine)
 >Presented in January 2022
 >

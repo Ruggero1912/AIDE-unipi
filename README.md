@@ -133,6 +133,7 @@ In [this Google Drive](https://drive.google.com/drive/folders/1KXbnC2i5qp07MMgn_
 >- Computation Intelligence and Deep Learning project Artist Identification
 >- MIRCV Project Bird Images Search Engine
 - Giulio Fischietti - [GitHub](https://github.com/GiulioFischietti)
+>- MIRCV AA 21-22 Mushroom image search engine
 >- LSMDB EventinZona Mobile App (February 2023)
 >- Data Mining project US Election 2020 tweets analysis
 >- Cloud Computing project 21-22 Bloom Filter
