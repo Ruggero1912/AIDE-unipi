@@ -35,4 +35,13 @@ You can find a collection of oral questions in the directory [ORAL QUESTIONS](or
 
 Here you can find a collection of public notes written by the students:
 
+- [Symbolic 22-23 - Lorenzo Massagli](https://github.com/ImBadnick/University/tree/main/Master/Symbolic): 
+>in italian
+>
+>handwritten
+>
+>splitted in three files, one for each professor (Cococcioni, Rossi, Fiaschi)
+>
+>author: Lorenzo Massagli
+
 #### Share your notes via pull req, opening issue or DM a mantainer
