@@ -161,7 +161,9 @@ In [this Google Drive](https://drive.google.com/drive/folders/1KXbnC2i5qp07MMgn_
 - Francesco Marabotto (Cloud Computing project 20-21)
 - Gabriele Marino
 >- Cloud Computing project AA 21-22
-- Lorenzo Massagli (Mobile project ChatApp with Emotional State Recognition)
+- Lorenzo Massagli - [GitHub](https://github.com/ImBadnick/University/tree/main/Master)
+>- Mobile project ChatApp with Emotional State Recognition
+>- MIRCV notes
 - Federico Minniti (Distributed Systems project Battleship, Data Mining project VoiceID Notes, Large Scale project LearnIt)
 - Farzaneh Moghani (Cloud Computing Project 20-21)
 - Arezoumandan Morteza
@@ -189,6 +191,8 @@ In [this Google Drive](https://drive.google.com/drive/folders/1KXbnC2i5qp07MMgn_
 >- Large Scale questions
 >- Business and Project Mgmt project videogames market search
 - Niccolò Panichi (Cloud Computing Project 20-21)
+- Antonio Patimo
+>- MIRCV project AA 22-23
 - Francesco Pesciatini 
 >- Large Scale questions
 - Francesca Pezzuti 
