@@ -28,7 +28,7 @@ STEPS:
 ### Students' projects
 
 This is a list of the public projects made by some students in the past. For some of them only the documentation is available, for some others the code too:
-- **Project AA 22-23 Bloom Filter | Arduini - De Marco - Pardini**[GitHub repo](https://github.com/LucaArduini/k-means_in_MapReduce):
+- **Project AA 22-23 K-Means | Arduini - De Marco - Pardini**[GitHub repo](https://github.com/LucaArduini/k-means_in_MapReduce):
 >Presented on June 2023
 >
 >Made by Luca Arduini - De Marco Angelo - Marco Pardini
