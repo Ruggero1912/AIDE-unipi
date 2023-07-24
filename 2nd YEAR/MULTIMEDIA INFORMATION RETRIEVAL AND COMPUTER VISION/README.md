@@ -91,6 +91,15 @@ You can find a collection of oral questions in the directory [ORAL QUESTIONS](or
 
 Here you can find a collection of public notes written by the students:
 
+- [Tonellotto 22-23 | Fabbri](https://docs.google.com/document/d/1nAP0FDdumhq7Rxou4b3Gf4pN0r0A-E53Mb6XvvVEjBY/edit?usp=sharing):
+>made in the **academic year 22-23**<br>
+>**164** pages<br>
+>**language**: english<br>
+>**author**: Anna Fabbri<br>
+>Resumes the lessons held by prof. Tonellotto
+>Two last lessons missing, contributions are appreciated
+
+
 - [Tonellotto 22-23 | Massagli](https://github.com/ImBadnick/University/blob/main/Master/MIRCV/Riassunto_MIRCV.pdf):
 >made in the **academic year 22-23**<br>
 >**117** pages<br>

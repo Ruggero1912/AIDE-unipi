@@ -125,6 +125,7 @@ In [this Google Drive](https://drive.google.com/drive/folders/1KXbnC2i5qp07MMgn_
 - Stefano Dugo
 >- cloud computing project AA 21-22
 - Anna Fabbri - [GitHub](https://github.com/annafabbri)
+>- MIRCV notes AA 22-23
 >- Large Scale notes AA 21-22
 >- Business and Project Mgmt notes AA 20-21
 >- Mobile and social sensing systems notes AA 21-22
