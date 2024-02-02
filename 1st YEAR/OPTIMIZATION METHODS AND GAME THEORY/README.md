@@ -1,20 +1,28 @@
 # Optimization Methods and Game Theory
 
-Professors: Mauro Passacantando (to be confirmed: left unipi in September 2022)
+Professors: Giandomenico Mastroeni (current), Antonio Frangioni (for the AA 22/23)~~, Mauro Passacantando (until March 2022)~~
 
 CFU: 6
 
 Code: 696AA
 
-[UniPi page](https://esami.unipi.it/esami2/programma.php?pg=ects&c=48210)
+#### Lessons registers
 
-[course's official resources](https://people.unipi.it/mauro_passacantando/teaching-2/omgt/)
+[AA 23-24 Lessons Register](https://unimap.unipi.it/registri/dettregistriNEW.php?re=10336488::::&ri=8506)
+
+[Old UniPi page](https://esami.unipi.it/esami2/programma.php?pg=ects&c=48210)
+
+#### Official material
+
+[Passacantando course's official resources](https://people.unipi.it/mauro_passacantando/teaching-2/omgt/)
+
+The material of the new course can be found in the course's Teams channel.
 
 ### Exam structure
 
-__TODO: verify if still valid__
+Written test + oral exam.
 
-oral exam only
+~~oral exam only (until April 2022)~~
 
 
 ### Oral questions
@@ -26,8 +34,15 @@ You can find a collection of oral questions in the directory [ORAL QUESTIONS](or
 
 Here you can find a collection of public notes written by the students:
 
+- [OMGT Matlab exercises](https://github.com/MarshaGomez/Optimization-Methods-Matlab)
+>In english, in a github public repository made by Marsha Gomez.
+>
+>Made in the Accademic Year 22/23.
+>
+>It includes matlab code, some pdfs of exercises, some students notes, and some past exams.
+
 - [OMGT 21-22 - Lorenzo Massagli](https://github.com/ImBadnick/University/tree/main/Master/OMGT): 
->in italian
+>in italian, it is relative to the course of Passacantando
 >
 >handwritten
 >
