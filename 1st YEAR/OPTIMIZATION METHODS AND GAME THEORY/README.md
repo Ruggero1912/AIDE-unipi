@@ -27,7 +27,7 @@ Written test + oral exam.
 
 ### Oral questions
 
-You can find a collection of oral questions in the directory [ORAL QUESTIONS](oral-questions), and in the file [oral-questions.md](oral-questions.md). some of them may be in italian.
+You can find a collection of oral questions in the file [oral-questions.md](oral-questions.md). some of them may be in italian.
 
 
 ### Students' notes
