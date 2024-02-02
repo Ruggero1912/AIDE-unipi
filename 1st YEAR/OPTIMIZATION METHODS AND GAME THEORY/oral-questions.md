@@ -62,7 +62,7 @@ Student 4 (from 23 to 28):
 >0. Questions about the errors made in the written part.
 >1. How do you get to write a dual problem?
 > * When Strong Duality holds?
-> * What are the necessary conditions for strong duality and when they become sufficient?
+> * What are the necessary conditions for Karush-Kuhn-Tucker theorem and when they become sufficient for optimality?
 >2. When a problem is said convex?
 >3. Why the function (same as Student 1 question 2) is not coercive?
 >4. -- missing some questions  --
