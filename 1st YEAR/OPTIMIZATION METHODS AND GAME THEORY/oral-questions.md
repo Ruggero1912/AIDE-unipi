@@ -1,7 +1,7 @@
 ### Optimization Methods oral questions
 
 
-#### Questions 1st call January 2024
+#### Questions 1st call January 2024 (program AA 23-24)
 
 ##### DAY 1
 
@@ -106,3 +106,73 @@ Student 2:
 > Tendenzialmente, se si fa un buon orale, tendono ad aumentare il voto dello scritto di 3-5 punti.
 
 ---
+
+---
+---
+
+
+#### Questions 4th call September 2023 (program AA 22-23)
+
+Both Mastroeni and Frangioni, previous program.
+
+Student 1:
+
+>Mastroeni:
+>
+>correction of the errors I made in written exam. 
+
+>Frangioni:
+>
+> 1. asked me some theory about the Lagrangian Dual since I did some mistakes in implementing it in the written exam, in particular he asked me to write the formula of the Lagrangian, its gradient, the Lagrangian relaxation, 
+> and he asked me to demonstrate that solving the Lagrangian relaxation works even if the Hessian is not positive definite but needs some particular constraints. 
+
+>The oral part with Frangioni can take long, but hopefully he guided me in the demonstration since I had no idea how to prove it (he did not demonstrate that thing during lessons).
+
+---
+
+Student 2:
+
+>Mastroeni: 
+>
+>0. correction of errors made in written exam; 
+>1. zero sum game, what does it means w.r.t. matrix game, what if w.r.t. bimatrix game, systems to find mixed strategy on matrix game, their properties; 
+>2. ideal minimum.
+
+>Frangioni: 
+>
+>1. Lagrangian Dual solutions and counter part (primal) properties, properties of lagrangian relaxation, Dual in special case (convexity), 
+>2. demonstration of k-median as a technique to solve the clustering problem. 
+
+>Oral: up to 1 hour.
+
+--- 
+
+Student 3:
+
+>Mastroeni:
+>
+> asked about exam errors
+
+>Frangioni:
+>
+> asked about the optional question on the exam:
+> 1. Explain how the Lagrangian heuristic works in the Lagrangian dual method. 
+>2. MILP formulation and if I can mathematically prove that using the L1 norm leads to finding the optimal centroid.
+
+---
+---
+
+#### Questions 2nd call June 2023 (program AA 22-23)
+
+
+Oral questions of today oral: 
+
+>Mastroeni asks about the errors of the written exam
+
+
+>Frangioni:
+>1.  What you know about optimal stepsize for gradient method? Does it converge? How fast?
+>2. Can you define what is super linear convergence rate and what it means ?
+>3. Can you write down the primal model of the support vector machine ? 
+>4. What can you tell me about Quasi-Newton methods ? 
+>* How Hk is choosen?
