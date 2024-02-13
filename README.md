@@ -76,31 +76,53 @@ In [this Google Drive](https://drive.google.com/drive/folders/1KXbnC2i5qp07MMgn_
 >- MIRCV notes
 >- Cloud Computing project 20-21
 >- Business and Project Mgmt project videogames market search
+
+- Luca Arduini - [GitHub](https://github.com/LucaArduini)
+>- Cloud Computing project 22-23 K-Means
+
 - Federica Baldi
 >- Computational Intelligence and Deep Learning project Lymphoblasts Image Classification
 >- MIRCV Project Bird Images Search Engine
 >- IoT project SmartSauna
 >- Data Mining project SoundHabit
 >- Distributed Systems Project GameOn
-- Tommaso Baldi (Data Mining project StockSentiment, Large Scale Project PaperRater, Distributed Systems project Battleship)
+
+- Tommaso Baldi
+>- Data Mining project StockSentiment
+>- Large Scale Project PaperRater
+>- Distributed Systems project Battleship
+
 - Marco Bellia - [GitHub](https://github.com/MacroBet)
 >- Cloud Computing project 21-22 Bloom Filter
 >- IoT project iot_hydro_food
+
 - Stefano Bianchettin
 >- Cloud Computing project 21-22 Bloom Filter
+
 - Lorenzo Bianchi
 >- IoT project SmartFruitFridge
 >- Data Mining Project Articles Categorizer
 >- Cloud Computing Project 20-21
 >- MIRCV Project Plant-Leaves Search Engine
+
 - Iacopo Bicchierini
 >- Mobile project MyPadel
 >- IoT project SmartFruitFridge
 >- Cloud Computing Project 20-21
 >- MIRCV Project Plant-Leaves Search Engine
-- Tommaso Burlon (Distributed Systems project Auction Handler)
-- Pietro Calabrese (Cloud Computing project 20-21)
-- Francesco Campilongo (Large Scale project JustRecipe, Distributed Systems Project GameOn, Data Mining project SpamDetector, IoT Project Temperature Regulation System)
+
+- Tommaso Burlon
+>- Distributed Systems project Auction Handler
+
+- Pietro Calabrese
+>- Cloud Computing Project 20-21
+
+- Francesco Campilongo
+>- Large Scale project JustRecipe
+>- Distributed Systems Project GameOn
+>- Data Mining project SpamDetector
+>- IoT Project Temperature Regulation System
+
 - Daniele Cioffo
 >- Computational Intelligence and Deep Learning project Lymphoblasts Image Classification
 >- MIRCV Project Bird Images Search Engine
@@ -108,74 +130,113 @@ In [this Google Drive](https://drive.google.com/drive/folders/1KXbnC2i5qp07MMgn_
 >- Data Mining project SoundHabit 
 >- Distributed Systems Project GameOn
 >- Large Scale project JustRecipe
+
 - Domenico D'Orsi - [GitHub](https://github.com/dominicofthebears)
 >- data mining project PDFMalwareDetector
-- Erica Dallatomasina (Large Scale project Job Advisor, Data Mining project TweetStance)
-- Rossella De Dominicis (Process Mining Project Sea Container Inspection, MIRCV Project Dog Breeds Search Engine)
+
+- Erica Dallatomasina
+>- Large Scale project Job Advisor
+>- Data Mining project TweetStance
+
+- Rossella De Dominicis
+>- Process Mining Project Sea Container Inspection
+>- MIRCV Project Dog Breeds Search Engine
+
 - Matteo Del Seppia
 >- Distributed Systems project Battleship
 >- Data Mining project VoiceID Notes
 >- Large Scale project LearnIt
+
 - Francesco Del Turco
 >- IoT Project Temperature Regulation System
 >- Data Mining project MoneyGuard
 >- Cloud Computing project AA 20-21
+
 - Federica Dini
 >- Cloud Computing Project 20-21
 >- IoT project Hospital Monitoring System
+
 - Stefano Dugo
 >- cloud computing project AA 21-22
+
 - Anna Fabbri - [GitHub](https://github.com/annafabbri)
 >- MIRCV notes AA 22-23
 >- Large Scale notes AA 21-22
 >- Business and Project Mgmt notes AA 20-21
 >- Mobile and social sensing systems notes AA 21-22
+
 - Edoardo Fazzari
 >- Data Mining project AirBnB Price Estimator
 >- Large Scale project PokeMongo
 >- Distributed Systems Project UniSup
 >- Computation Intelligence and Deep Learning project Artist Identification
 >- MIRCV Project Bird Images Search Engine
+
 - Giulio Fischietti - [GitHub](https://github.com/GiulioFischietti)
 >- MIRCV AA 21-22 Mushroom image search engine
 >- LSMDB EventinZona Mobile App (February 2023)
 >- Data Mining project US Election 2020 tweets analysis
 >- Cloud Computing project 21-22 Bloom Filter
+
 - Veronica Gavagna
 >- Process Mining Project Sea Container Inspection
-- Sina Gholami (Distributed Systems Project UniSup)
+
+- Sina Gholami
+>- Distributed Systems project UniSup
+
 - Valerio Giannini
 >- Large Scale notes
 >- Data Mining project FederatedDBScan
 >- Cloud Computing Project 20-21
+
 - Francesco Grillea
 >- OMGT notes
+
 - Matteo Guidotti
 >- Mobile project MyPadel
-- Francesco Hudema (Large Scale Project PaperRater)
-- Franesco Iemma (Mobile project ChatApp with Emotional State Recognition, Distributed Systems project Auction Handler, Large Scale project JustRecipe)
+
+- Francesco Hudema
+>- Large Scale project PaperRater
+
+- Francesco Iemma
+>- Mobile project ChatApp with Emotional State Recognition
+>- Distributed Systems project Auction Handler
+>- Large Scale project JustRecipe
+
 - Aizdi Leena
 >- Large Scale project Job Advisor
 >- Data Mining project House Price Predictor
 >- BPMGT oral questions
+
 - Fabio Malloggi
 >- Cloud Computing Project 20-21
+
 - Francesco Marabotto (Cloud Computing project 20-21)
+
 - Gabriele Marino
 >- Cloud Computing project AA 21-22
+
 - Lorenzo Massagli - [GitHub](https://github.com/ImBadnick/University/tree/main/Master)
 >- Mobile project ChatApp with Emotional State Recognition
 >- MIRCV notes
 >- OMGT notes
 >- SEAI notes
 >- Industrial Applications notes
-- Federico Minniti (Distributed Systems project Battleship, Data Mining project VoiceID Notes, Large Scale project LearnIt)
-- Farzaneh Moghani (Cloud Computing Project 20-21)
+
+- Federico Minniti
+>- Distributed Systems project Battleship
+>- Data Mining project VoiceID Notes
+>- Large Scale project LearnIt
+
+- Farzaneh Moghani
+>- Cloud Computing project AA 20-21
+
 - Arezoumandan Morteza
 >- IoT project Air Pollution Monitoring
 >- Data Mining project Pandemic Insights
 >- Large Scale project Job Advisor
 >- Cloud Computing project AA 20-21
+
 - Edoardo Morucci
 >- Mobile project MyPadel
 >- Large Scale Project Rechype
@@ -184,68 +245,94 @@ In [this Google Drive](https://drive.google.com/drive/folders/1KXbnC2i5qp07MMgn_
 >- Cloud Computing notes
 >- MIRCV notes
 >- Cloud Computing project 20-21
+
 - Enrico Nello
 >- Cloud Computing project 20-21
 >- Data Mining project CryptoPredictor
+
 - Edoardo Nuovocancello
 >- Mobile questions
+
 - Giacomo Pacini
 >- Data Mining oral questions exam 2023-02-22
 >- Cloud Computing notes (2023-02-09)
 >- Mobile questions
 >- Large Scale questions
 >- Business and Project Mgmt project videogames market search
-- Niccolò Panichi (Cloud Computing Project 20-21)
+
+- Niccolò Panichi
+>- Cloud Computing project 20-21
+
 - Antonio Patimo
 >- MIRCV project AA 22-23
+
 - Francesco Pesciatini 
 >- Large Scale questions
+
 - Francesca Pezzuti 
 >- MIRCV project Search Engine (2023-01)
 >- (Large Scale project LearnIt)
+
 - Giacomo Piacentini
 >- Process Mining Project Sea Container Inspection
 >- MIRCV Project Dog Breeds Search Engine
 >- Data Mining project Pandemic Insights
+
 - Matteo Pierucci
 >- Mobile questions
 >- Data Mining project CryptoPredictor
+
 - Marco Ralli - [GitHub](https://github.com/MarcoRalli)
 >- Cloud Computing project 21-22 Bloom Filter
 >- IoT project iot_hydro_food
+
 - Mirko Ramo
 >- Data Mining project AirBnB Price Estimator
 >- Large Scale project PokeMongo
 >- Distributed Systems Project UniSup
 >- Computation Intelligence and Deep Learning project Artist Identification
 >- MIRCV Project Bird Images Search Engine
+
 - Edoardo Ruffoli
 >- Data Mining project StockSentiment
 >- Large Scale Project PaperRater
+
 - Ahmed Salah Tawfik Ibrahim
 >- Data Mining project MoneyGuard
 >- IoT project Hospital Monitoring System
 >- Cloud Computing project AA 20-21
+
 - Niko Salamini
 >- Large Scale Project Rechype
 >- Mobile project ChatApp with Emotional State Recognition
+
 - Alessio Serra
 >- Data Mining project FederatedDBScan
 >- Cloud Computing Project 20-21
-- Marco Simoni (Cloud Computing Project 20-21)
+
+- Marco Simoni
+>- Cloud Computing project 20-21
+
 - Pietro Tempesti - [GitHub](https://github.com/PieTempesti98)
 >- MIRCV project Search Engine (2023-01)
 >- Mobile questions
 >- business questions
 >- cloud computing project AA 21-22
-- Gaetano Nicolò Terranova (Process Mining Project Sea Container Inspection, MIRCV Project Dog Breeds Search Engine)
+
+- Gaetano Nicolò Terranova
+>- Process Mining Project Sea Container Inspection
+>- MIRCV Project Dog Breeds Search Engine
+
 - Benedetta Tessa
 >- MIRCV project Search Engine (2023-01)
 >- Cloud Computing project AA 21-22
+
 - Carmine Tranfa
 >- BPMGT Project
+
 - Davide Vigna - [GitHub](https://github.com/AlterVigna)
 >- Cloud Computing project AA 21-22
+
 - Olgerti Xhanej
 >- Large Scale project PokeMongo
 >- Mobile project ChatApp with Emotional State Recognition
