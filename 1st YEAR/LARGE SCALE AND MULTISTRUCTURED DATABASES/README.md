@@ -24,6 +24,15 @@ STEPS:
 
 This is a list of the public projects made by some students in the past. For some of them only the documentation is available, for some others the code too:
 
+- **BeatBuddy**: [GitHub repo](https://github.com/LucaArduini/BeatBuddy)
+>Presented in February 2024
+>
+>Made by Luca Arduini, Enrico Giovanni Loni, Lorenzo Mancinelli
+>
+>The project has been approved with a full mark, and no errors were identified during its review.
+>
+>Java app, some Python scripts for scraping, exploits MongoDB and Neo4j
+
 - **EventinZona Mobile App**: [Frontend repo](https://github.com/GiulioFischietti/lsmdb_project_app) - [Backend repo](https://github.com/GiulioFischietti/lsmdb_project_backend) - [documentation](https://drive.google.com/file/d/1pGdA8pPIqlJchCjLJFG5S9cVrzAe7i4t/view)
 > presented in February 2023
 >
@@ -54,35 +63,40 @@ This is a list of the public projects made by some students in the past. For som
 >Made by Tommaso Amarante, Edoardo Morucci, Niko Salamini
 >
 >Exploits MongoDB, Neo4j and KV db. Written in Java.
+
 - **Paper Rater | Ruffoli - Baldi - Hudema**: [GitHub repo](https://github.com/edoardoruffoli/PaperRater)
 >Presented in February 2022
 >
 >Made by Edoardo Ruffoli, Tommaso Baldi, Francesco Hudema
 >
 >Java app, exploits MongoDB and Neo4j
+
 - **LearnIt | Minniti - Pezzuti - Del Seppia**: [GitHub repo](https://github.com/federicominniti/LearnIt)
 >Presented on January 2022
 >
 >Made by Federico Minniti - Francesca Pezzuti - Matteo Del Seppia
 >
 >Java app, exploits MongoDB and Neo4j
+
 - **PokeMongo | Fazzari - Ramo - Xhanej**: [GitHub repo](https://github.com/edofazza/pokeMongo)
 >Presented on February 2021
 >
 >Made by Edoardo Fazzari - Mirco Ramo - Olgerti Xhanej
 >
 >Java app, some python scripts, latex doc, MongoDB and Neo4j
+
 - **JustRecipe | Cioffo - Campilongo - Iemma**: [GitHub repo](https://github.com/danielecioffo/JustRecipe)
 >Presented on January 2021
 >
 >Made by Daniele Cioffo - Francesco Iemma - Francesco Campilongo
->
+
 - **Job Advisor | Dallatomasina - Morteza - Leena** [GitHub repo](https://github.com/morarez/Job-Advisor)
 >Presented in February 2022
 >
 >Made by Arezoumandan Morteza - Erica Dallatomasina - Aizdi Leena
 >
 >Java app, Mongo and Neo4J
+
 - **London Safe Travel | Pagani - Marinsalda - Frati** [GitHub repo](https://github.com/scarburato/LargeScaleDBsProject)
 >Presented in January 2023
 >

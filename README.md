@@ -78,7 +78,9 @@ In [this Google Drive](https://drive.google.com/drive/folders/1KXbnC2i5qp07MMgn_
 >- Business and Project Mgmt project videogames market search
 
 - Luca Arduini - [GitHub](https://github.com/LucaArduini)
+>- Large Scale project BeatBuddy
 >- Cloud Computing project 22-23 K-Means
+>- IoT project GreenHouse+
 
 - Federica Baldi
 >- Computational Intelligence and Deep Learning project Lymphoblasts Image Classification
