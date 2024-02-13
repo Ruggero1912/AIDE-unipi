@@ -29,19 +29,27 @@ STEPS:
 
 This is a list of the public projects made by some students in the past. For some of them only the documentation is available, for some others the code too:
 
-- **Project AA 21-22 k-means | Pagani - Marinsalda - Bello** [Github repo](https://github.com/scarburato/distributedKMeans)
+- **Project AA 22-23 k-means | Arduini - De Marco - Pardini**: [GitHub repo](https://github.com/LucaArduini/k-means_in_MapReduce)
+>Presented on June 2023
+>
+>Made by Luca Arduini - Angelo De Marco - Marco Pardini
 
-- **Project AA 21-22 Bloom Filter | Bellia - Ralli - Bianchettin - Fischietti**[GitHub repo](https://github.com/MacroBet/cloud_computing_project):
+- **Project AA 22-23 k-means | Pagani - Marinsalda - Bello**: [Github repo](https://github.com/scarburato/distributedKMeans)
+>Presented on June 2023
+>
+>Made by Dario Pagani - Ricky Marinsalda - Giulio Bello
+
+- **Project AA 21-22 Bloom Filter | Bellia - Ralli - Bianchettin - Fischietti**: [GitHub repo](https://github.com/MacroBet/cloud_computing_project)
 >Presented on July 2022
 >
 >Made by Marco Bellia - Marco Ralli - Stefano Bianchettin - Giulio Fischietti
 
-- **Project AA 21-22 Bloom Filter | Vigna** [GitHub repo](https://github.com/AlterVigna/BloomFiltersInMapReduce)
+- **Project AA 21-22 Bloom Filter | Vigna**: [GitHub repo](https://github.com/AlterVigna/BloomFiltersInMapReduce)
 >Presented on July 2022
 >
 >Made by Davide Vigna
 
-- **Project AA 21-22 Bloom Filter | Tempesti - Dugo - Marino - Tessa** [GitHub repo](https://github.com/PieTempesti98/bloomfilter_spark)
+- **Project AA 21-22 Bloom Filter | Tempesti - Dugo - Marino - Tessa**: [GitHub repo](https://github.com/PieTempesti98/bloomfilter_spark)
 >Presented on June 2022
 >
 >Made by Pietro Tempesti, Stefano Dugo, Gabriele Marino, Benedetta Tessa
