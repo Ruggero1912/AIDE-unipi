@@ -29,12 +29,14 @@ STEPS:
 
 This is a list of the public projects made by some students in the past. For some of them only the documentation is available, for some others the code too:
 
-- **Project AA 22-23 k-means | Arduini - De Marco - Pardini**: [GitHub repo](https://github.com/LucaArduini/k-means_in_MapReduce)
+- **Project AA 22-23 K-Means | Arduini - De Marco - Pardini**: [GitHub repo](https://github.com/LucaArduini/k-means_in_MapReduce)
 >Presented on June 2023
 >
 >Made by Luca Arduini - Angelo De Marco - Marco Pardini
+>
+>The project has been approved with a full mark, and no errors were identified during its review.
 
-- **Project AA 22-23 k-means | Pagani - Marinsalda - Bello**: [Github repo](https://github.com/scarburato/distributedKMeans)
+- **Project AA 22-23 K-Means | Pagani - Marinsalda - Bello**: [Github repo](https://github.com/scarburato/distributedKMeans)
 >Presented on June 2023
 >
 >Made by Dario Pagani - Ricky Marinsalda - Giulio Bello

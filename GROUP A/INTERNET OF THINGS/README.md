@@ -16,6 +16,18 @@ Code: 882II
 ### Students' projects
 
 This is a list of the public projects made by some students in the past. For some of them only the documentation is available, for some others the code too:
+
+- **GreenHouse+**: [GitHub repo](https://github.com/DavideBruni/SmartGreenHouse)
+>Authors: Luca Arduini, Davide Bruni
+>
+>Presented in June 2023
+>
+>achieved **maximum mark**
+>
+> The sensors receive and send data via MQTT, while the actuators use CoAP. Additionally, a MQTT collector and a CoAP Registration Server have been implemented, all managed by a Remote Control Application.
+>
+>In the repo you will find both the documentation and the code
+
 - **iot_hydro_food**: [GitHub repo](https://github.com/MacroBet/iot_hydro_food)
 >Authors: Marco Bellia, Marco Ralli
 >
