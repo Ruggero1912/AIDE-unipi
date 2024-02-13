@@ -33,6 +33,8 @@ This is a list of the public projects made by some students in the past. For som
 >Presented on June 2023
 >
 >Made by Luca Arduini - Angelo De Marco - Marco Pardini
+>
+>The project has been approved with a full mark, and no errors were identified during its review.
 
 - **Project AA 22-23 K-Means | Pagani - Marinsalda - Bello**: [Github repo](https://github.com/scarburato/distributedKMeans)
 >Presented on June 2023
