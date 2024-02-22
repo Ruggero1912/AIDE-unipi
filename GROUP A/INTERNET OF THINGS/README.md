@@ -17,7 +17,7 @@ Code: 882II
 
 This is a list of the public projects made by some students in the past. For some of them only the documentation is available, for some others the code too:
 
-- **GreenHouse+**: [GitHub repo](https://github.com/DavideBruni/SmartGreenHouse)
+- **GreenHouse+**: [GitHub repo](https://github.com/LucaArduini/GreenHouse)
 >Authors: Luca Arduini, Davide Bruni
 >
 >Presented in June 2023
