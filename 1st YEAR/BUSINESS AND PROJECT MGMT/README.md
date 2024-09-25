@@ -51,7 +51,7 @@ This is a list of the public projects made by some students in the past. For som
 
 ### Oral questions
 
-You can find a collection of oral questions in the directory [ORAL QUESTIONS](oral-questions) and also in the file [oral-questions.md](oral-questions.md), some of them may be in italian.
+You can find a collection of oral questions in the directory [ORAL QUESTIONS](ORAL%20QUESTIONS), some of them may be in italian.
 
 
 ### Written tests

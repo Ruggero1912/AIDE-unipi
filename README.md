@@ -254,6 +254,9 @@ In [this Google Drive](https://drive.google.com/drive/folders/1KXbnC2i5qp07MMgn_
 >- Cloud Computing project 20-21
 >- Data Mining project CryptoPredictor
 
+- Francesco Nocella - [GitHub](https://github.com/franocella)
+>- Cloud Computing notes
+
 - Edoardo Nuovocancello
 >- Mobile questions
 
