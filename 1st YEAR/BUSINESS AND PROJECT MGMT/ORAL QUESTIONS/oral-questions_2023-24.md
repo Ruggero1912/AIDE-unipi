@@ -21,8 +21,6 @@
 - Entry barriers
 - Opportunity cost of capital (in some contexts)
 - Meaning of current assets, time horizon on which we decide fixed or current
-- Current liabilities
-- What is the risk if CA is not greater than CL?
 - Psychographic segmentation 
 
 ### Finance:
@@ -42,7 +40,9 @@
 - Talk about two equilibriums
 - Difference between economic cycle and financial cycle
 - Financial metrics (e.g., ROI, ROE)
-- Liquidity ratios (CR, QR) 
+- Liquidity ratios (CR, QR)
+- Current liabilities
+- What is the risk if CA is not greater than CL?
 - What do we put in the owners' funds?
 
 ### Management Accounting:
