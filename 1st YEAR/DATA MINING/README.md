@@ -166,6 +166,16 @@ This is a list of the public projects made by some students in the past. For som
 >written in python
 >
 >doc, code, dataset
+- **Android Malware Detection Using Machine Learning** [GitHub repo](https://github.com/tderick/android-malware-detection)
+>This project aims to build an effective classification model to classify a mobile application as Benign or Malware. To do so, we'll evaluate multiple classification models using different metrics and select the best model with better performance for our dataset. Finally, we deployed our model as a REST API using FastAPI. 
+>
+>Presented in November 2024
+>
+>Made by Derick Temfack
+>
+>Written in Python
+>
+> Report, Presentation, Code, Notebook, Link to the dataset
 
 #### **Add your project!** 
 if you want to share your project make a pull req or DM
