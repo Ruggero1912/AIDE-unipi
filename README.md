@@ -23,36 +23,8 @@ More mantainers needed for this repo: if you would like to become a mantainer of
 
 *You can find some other material in the [Master's Degree in Computer Engineering repo](https://github.com/b0-n0-b0/Computer-Engineering)*.
 
-### Telegram Groups
-
-#### Year 1
-
-📢 [GENERAL](https://t.me/joinchat/A6S5hhOKF64s62zf2kJIxQ)
-
-⛏️ [Data Mining](https://t.me/UNIPI_data_mining)
-
-📚 [Large Scale Databases](https://t.me/UNIPI_large_scale_databases)
-
-☁️ [Cloud Computing](https://t.me/UNIPI_cloud_computing)
-
-🎲 [Opt Methods and Game Theory](https://t.me/UNIPI_optimization_methods)
-
-🤑 [Business and Project Management](https://t.me/UNIPI_business_and_project_mngmt)
-
-#### Year 2
-
-📢 [GENERAL](https://t.me/joinchat/A6S5hhyC7W9T28egM9xg_w)
-
-👷‍♂️ [Process Mining](https://t.me/UNIPI_process_mining)
-
-🤖 [Multimedia Information Retrieval and Computer Vision](https://t.me/UNIPI_multimedia_inf_retr_and_cv)
-
-🧠 [Computational Intelligence and Deep Learning](https://t.me/UNIPI_comp_intell_and_deep_lrnin)
-
-🧞‍♂️ [Symbolic and Evolutionary Artificial Intelligence](https://t.me/joinchat/2-g7AnXa-WExNjZk)
-
-#### Group A
-📱 [Mobile and Social Sensing Systems](https://t.me/+KM4Wu6hEQIViYTY0)
+### Telegram and WhatsApp groups
+You can find links to groups on WhatApp and Telegram in the following linktree: https://linktr.ee/AIDE_UniPI
 
 ### Drive Folder
 
