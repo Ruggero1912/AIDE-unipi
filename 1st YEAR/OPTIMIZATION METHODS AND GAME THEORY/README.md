@@ -22,8 +22,6 @@ The material of the new course can be found in the course's Teams channel.
 
 Written test + oral exam.
 
-~~oral exam only (until April 2022)~~
-
 
 ### Oral questions
 
