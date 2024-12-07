@@ -63,7 +63,9 @@ In [this Google Drive](https://drive.google.com/drive/folders/1KXbnC2i5qp07MMgn_
 #### Mantainers
 - [Tommaso Amarante](https://github.com/TommyTheHuman)
 - [Luca Arduini](https://github.com/LucaArduini)
+- [Gabriele Frassi](https://github.com/gabrielefrax)
 - [Giacomo Pacini](https://github.com/Ruggero1912)
+- [Lorenzo Valtriani](https://github.com/trianitriani)
 
 #### Contributors
 - Tommaso Amarante 
