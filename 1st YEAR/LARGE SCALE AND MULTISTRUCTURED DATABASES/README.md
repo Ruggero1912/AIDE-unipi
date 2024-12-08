@@ -1,16 +1,18 @@
 # Large Scale and Multistructured Databases
 
-Professors: Pietro Ducange, Alessio Vecchio (lab)
+Professors: Pietro Ducange, Alessio Schiavo (lab)
 
 CFU: 9
 
 Code: 883II
 
-[UniPi page](https://esami.unipi.it/esami2/programma.php?pg=ects&c=44161)
+[AA 24-25 Lessons Register](https://unimap.unipi.it/registri/dettregistriNEW.php?re=11062627::::&ri=11877)
+
+[Old UniPi page](https://esami.unipi.it/esami2/programma.php?c=61133&aa=2023&docente=DUCANGE&insegnamento=&sd=0)
 
 ### Exam structure
 
-In order to make the oral exam, you have to implement and present a project work made in group (group members: 3).
+In order to make the oral exam, you have to implement and present a project work made in group (group members: 2-3).
 
 The project requires also a well made documentation with use cases, UML, db collections and entities, db queries (some need to be aggregated queries). 
 You should exploit two databases types: document DB and (usually) graph DB. You should carefully choose which db should be used for each functionality.
@@ -18,7 +20,7 @@ You should exploit two databases types: document DB and (usually) graph DB. You 
 STEPS:
 1. **Project Proposal**: usually during the lessons, but also on a students' receipt you have to present your project idea and some implementation ideas to the professor, that can approve or discard or suggest some modifications.
 2. **Project presentation**: when your project is ready, you have to present it to the professors, that will evaluate the project. The focus will be on db structure, aggregated query, available features. Prof Ducange will evaluate mostly the part of db queries, asking how each project feature is implemented, will another professor will check the code implementation details.
-3. **Oral exam**: 20 minutes of questions about the exam program. English not mandatory.
+3. **Written Test**: The professor gives each student some questions, the same for all students in the exam, to which they must respond in writing.
 
 ### Students' projects
 
