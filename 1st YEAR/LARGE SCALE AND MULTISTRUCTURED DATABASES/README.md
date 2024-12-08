@@ -1,6 +1,6 @@
 # Large Scale and Multistructured Databases
 
-Professors: Pietro Ducange, Jonatan Gallo (lab)
+Professors: Pietro Ducange, Alessio Vecchio (lab)
 
 CFU: 9
 

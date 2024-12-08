@@ -1,6 +1,6 @@
 # Optimization Methods and Game Theory
 
-Professors: Giandomenico Mastroeni (current), Antonio Frangioni (for the AA 22/23)~~, Mauro Passacantando (until March 2022)~~
+Professor: Giandomenico Mastroeni
 
 CFU: 6
 
@@ -8,25 +8,23 @@ Code: 696AA
 
 #### Lessons registers
 
-[AA 23-24 Lessons Register](https://unimap.unipi.it/registri/dettregistriNEW.php?re=10336488::::&ri=8506)
+[AA 24-25 Lessons Register](https://unimap.unipi.it/registri/dettregistriNEW.php?re=11060951::::&ri=8506)
 
-[Old UniPi page](https://esami.unipi.it/esami2/programma.php?pg=ects&c=48210)
+[Old UniPi page](https://esami.unipi.it/esami2/programma.php?pg=ects&c=61129)
 
 #### Official material
 
 [Passacantando course's official resources](https://people.unipi.it/mauro_passacantando/teaching-2/omgt/)
 
-The material of the new course can be found in the course's Teams channel.
+The material of the new course can be found in the course's Teams channel and in the directory "slides" and "matlab exercises" of this github.
 
 ### Exam structure
 
 Written test + oral exam.
 
-
 ### Oral questions
 
 You can find a collection of oral questions in the file [oral-questions.md](oral-questions.md). some of them may be in italian.
-
 
 ### Students' notes
 
