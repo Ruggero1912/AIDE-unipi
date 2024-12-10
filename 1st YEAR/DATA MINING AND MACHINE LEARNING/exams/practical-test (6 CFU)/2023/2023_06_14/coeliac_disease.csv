@@ -1,0 +1,2207 @@
+﻿Age,Gender,Diabetes,Diabetes Type,Diarrhoea,Abdominal,Short_Stature,Sticky_Stool,Weight_loss,IgA,IgG,IgM,Marsh,cd_type,Disease_Diagnose
+10,Male,Yes,Type 1,inflammatory,yes,PSS,no,no,1.3,10,1,marsh type 0,potential,yes
+9,Male,Yes,Type 1,fatty ,yes,PSS,no,no,1.5,12.5,1.3,marsh type 3a,atypical,yes
+8,Female,Yes,Type 1,watery,yes,Variant ,yes,yes,0.4,8,0.5,marsh type 1,latent,yes
+10,Male,Yes,Type 1,watery,yes,PSS,no,no,0.98,9,0.66,marsh type 3a,silent,yes
+9,Male,Yes,Type 1,fatty ,yes,PSS,no,no,1,10.5,1.1,marsh type 1,latent,yes
+8,Female,Yes,Type 1,fatty ,yes,Variant ,yes,yes,1.1,9.5,1,marsh type 3a,silent,yes
+9,Male,Yes,Type 1,watery,yes,Variant ,yes,yes,2.1,11.4,1,marsh type 2,typical,yes
+5,Female,Yes,Type 1,fatty ,yes,PSS,yes,yes,0.8,12,0.98,marsh type 1,latent,yes
+6,Female,Yes,Type 1,fatty ,yes,PSS,yes,yes,1.5,8,1.1,marsh type 3b,silent,yes
+4,Male,Yes,Type 1,watery,yes,Variant ,yes,yes,0.42,11.5,1,marsh type 2,typical,yes
+7,Female,Yes,Type 1,fatty ,yes,Variant ,yes,yes,0.56,11,1,marsh type 0,latent,yes
+9,Male,no,None,fatty ,no,DSS,no,no,1.5,7,1.2,none,none,no
+6,Male,Yes,Type 1,inflammatory,yes,PSS,no,no,0.51,13.4,0.91,marsh type 2,typical,yes
+9,Female,Yes,Type 1,fatty ,yes,PSS,no,no,1.7,12,1,marsh type 3b,atypical,yes
+8,Male,Yes,Type 1,watery,yes,Variant ,yes,yes,1.1,8,1.5,marsh type 1,latent,yes
+12,Male,Yes,Type 1,fatty ,yes,PSS,no,no,2,9,1.1,marsh type 3c,atypical,yes
+14,Male,Yes,Type 1,watery,yes,PSS,no,no,0.97,9.1,1.77,marsh type 3a,silent,yes
+11,Female,Yes,Type 1,fatty ,yes,Variant ,yes,yes,1,8,1.8,marsh type 2,typical,yes
+8,Male,Yes,Type 1,inflammatory,yes,Variant ,yes,yes,2,8,1.1,marsh type 2,typical,yes
+7,Female,Yes,Type 1,fatty ,yes,PSS,yes,yes,1,12,0.9,marsh type 0,potential,yes
+9,Female,Yes,Type 1,watery,yes,PSS,yes,no,2,12.3,0.98,marsh type 3b,atypical,yes
+7,Male,Yes,Type 1,fatty ,yes,Variant ,yes,yes,1.4,12,1,marsh type 3a,silent,yes
+4,Female,Yes,Type 1,fatty ,yes,Variant ,yes,no,0.34,9,1,marsh type 1,latent,yes
+8,Male,no,None,fatty ,no,DSS,no,no,2.1,9.5,2,none,none,no
+10,Male,Yes,Type 1,inflammatory,yes,PSS,no,no,1.9,12.1,1,marsh type 2,typical,yes
+9,Male,Yes,Type 1,fatty ,yes,PSS,no,no,1,11.8,1.8,marsh type 3c,atypical,yes
+8,Female,Yes,Type 1,watery,yes,Variant ,yes,yes,2,10,2.7,marsh type 1,latent,yes
+11,Male,Yes,Type 1,watery,yes,PSS,no,no,1,9,1.9,marsh type 3c,atypical,yes
+7,Male,Yes,Type 1,fatty ,yes,PSS,no,no,2.1,8,1.7,marsh type 3b,silent,yes
+8,Female,Yes,Type 1,fatty ,yes,PSS,yes,yes,0.51,7,1.5,marsh type 3b,atypical,yes
+7,Male,Yes,Type 1,watery,yes,Variant ,yes,no,1.6,9,0.8,marsh type 0,latent,yes
+9,Female,Yes,Type 1,fatty ,yes,PSS,yes,yes,2,10.1,0.92,marsh type 3c,silent,yes
+13,Female,Yes,Type 1,fatty ,yes,Variant ,yes,no,1.8,8,1.2,marsh type 2,typical,yes
+4,Male,Yes,Type 1,watery,yes,PSS,yes,yes,0.46,12,1,marsh type 1,latent,yes
+7,Female,Yes,Type 1,fatty ,yes,Variant ,yes,yes,1,8,2,marsh type 3c,atypical,yes
+13,Male,no,None,fatty ,no,DSS,no,no,2,9,1,none,none,no
+6,Male,Yes,Type 1,watery,yes,Variant ,no,no,1,9.8,1.6,marsh type 3b,atypical,yes
+3,Female,Yes,Type 1,watery,yes,PSS,no,no,1.1,12.2,0.6,marsh type 3a,silent,yes
+1,Male,Yes,Type 1,watery,yes,PSS,yes,yes,1,8,1.9,marsh type 1,potential,yes
+11,Male,Yes,Type 1,fatty ,yes,PSS,no,no,0.5,13,0.9,marsh type 3c,atypical,yes
+12,Male,Yes,Type 1,fatty ,yes,Variant ,no,no,2.1,10,1,marsh type 3c,silent,yes
+12,Female,Yes,Type 1,fatty ,yes,Variant ,yes,yes,1.8,8.9,2,marsh type 2,typical,yes
+8,Male,no,None,watery,yes,Variant ,yes,yes,1,7,2,none,none,no
+5,Female,no,None,fatty ,yes,PSS,yes,yes,0.5,9.4,0.99,none,none,no
+6,Female,no,None,watery,yes,PSS,yes,yes,1,8.7,2,none,none,no
+18,Male,Yes,Type 1,watery,yes,Variant ,yes,yes,2.5,7.3,1,marsh type 1,potential,yes
+22,Female,Yes,Type 1,fatty ,yes,PSS,yes,yes,2.1,13,1.5,marsh type 3c,atypical,yes
+13,Male,Yes,Type 1,inflammatory,yes,Variant ,yes,yes,0.98,6.1,1.4,marsh type 3c,atypical,yes
+9,Female,Yes,Type 1,inflammatory,yes,PSS,yes,no,0.71,15.3,2,marsh type 0,latent,yes
+6,Female,no,None,watery,yes,PSS,yes,no,0.95,12,1,none,none,no
+8,Male,no,None,fatty ,yes,PSS,no,no,0.93,5,1,marsh type 3c,silent,yes
+31,Male,Yes,Type 1,inflammatory,yes,Variant ,yes,yes,2.6,14.2,2,marsh type 3b,atypical,yes
+11,Female,Yes,Type 1,inflammatory,yes,PSS,yes,yes,1,12,1.5,marsh type 1,latent,yes
+12,Female,Yes,Type 1,fatty ,yes,PSS,yes,yes,2,11,1,marsh type 3c,atypical,yes
+10,Female,Yes,None,fatty ,yes,Variant ,yes,no,1.6,8.7,1.2,marsh type 1,latent,yes
+9,Female,Yes,Type 1,inflammatory,no,Variant ,yes,yes,1.2,12,2.1,marsh type 0,latent,yes
+13,Male,Yes,Type 1,inflammatory,yes,PSS,yes,no,0.96,6,0.86,marsh type 0,latent,yes
+10,Female,Yes,Type 1,inflammatory,no,PSS,no,yes,1.1,9,2,marsh type 1,latent,yes
+13,Female,Yes,Type 1,watery,yes,Variant ,yes,yes,0.9,8,1,marsh type 0,latent,yes
+12,Male,no,None,fatty ,no,Variant ,yes,yes,0.6,12,1,none,none,no
+14,Female,no,None,fatty ,yes,DSS,yes,yes,1.9,11,1.1,none,none,no
+18,Female,Yes,Type 1,watery,no,PSS,yes,yes,1.2,9,2.3,marsh type 3b,atypical,yes
+21,Female,Yes,Type 1,inflammatory,yes,Variant ,yes,no,1.1,8.7,1.3,marsh type 1,latent,yes
+14,Male,no,None,watery,yes,DSS,yes,no,9,12,1.7,none,none,no
+17,Male,Yes,Type 1,fatty ,yes,Variant ,yes,yes,1,11.3,1.1,marsh type 3b,silent,yes
+11,Female,Yes,Type 1,fatty ,no,DSS,yes,no,0.9,9,1,marsh type 0,latent,yes
+15,Male,Yes,Type 1,inflammatory,yes,DSS,no,yes,0.9,10,1.2,marsh type 3c,typical,yes
+10,Female,Yes,Type 1,watery,yes,PSS,yes,yes,1.1,6.1,1.1,marsh type 3b,silent,yes
+11,Female,Yes,Type 1,watery,yes,PSS,yes,yes,2.1,6.9,1.2,marsh type 1,silent,yes
+12,Male,Yes,Type 1,fatty ,yes,Variant ,yes,yes,2,9,1.1,marsh type 3b,typical,yes
+12,Male,Yes,Type 1,fatty ,yes,Variant ,yes,yes,0.97,9.1,1.77,marsh type 3a,atypical,yes
+7,Male,no,None,inflammatory,no,Variant ,no,no,1,5,1.2,none,none,no
+9,Male,no,None,inflammatory,no,Variant ,no,no,2,5,1.8,none,none,no
+31,Female,Yes,Type 1,watery,yes,PSS,yes,yes,1,8,1.8,marsh type 1,silent,yes
+10,Male,Yes,Type 1,watery,yes,PSS,yes,yes,2.1,8,1.1,marsh type 3b,silent,yes
+32,Female,Yes,Type 1,inflammatory,yes,Variant ,yes,yes,1,12,0.9,marsh type 3c,atypical,yes
+35,Female,Yes,Type 1,fatty ,yes,Variant ,yes,yes,2,12.3,0.98,marsh type 1,silent,yes
+29,Male,Yes,Type 1,watery,yes,PSS,yes,yes,1.4,12,1.1,marsh type 3b,typical,yes
+29,Female,Yes,Type 1,watery,yes,PSS,yes,yes,0.34,9,0.6,marsh type 0,potential,yes
+7,Male,no,None,fatty ,yes,DSS,yes,yes,2.1,9.5,2.1,marsh type 3b,typical,yes
+11,Male,Yes,Type 1,inflammatory,yes,Variant ,yes,yes,1.9,12.1,1.1,marsh type 3a,atypical,yes
+11,Male,Yes,Type 1,watery,no,Variant ,yes,yes,2.4,11,0.77,marsh type 3c,silent,yes
+9,Female,Yes,Type 1,watery,yes,DSS,yes,yes,2.1,10,0.6,marsh type 1,potential,yes
+16,Male,Yes,Type 1,inflammatory,yes,DSS,yes,yes,1.6,11,1.6,marsh type 2,typical,yes
+20,Female,Yes,Type 1,watery,no,Variant ,yes,yes,1.5,12,1.6,marsh type 3a,atypical,yes
+16,Male,Yes,Type 1,inflammatory,no,PSS,yes,yes,2.1,9,0.8,marsh type 2,typical,yes
+8,Male,Yes,Type 1,fatty ,yes,PSS,no,no,1,10.5,1.1,marsh type 0,silent,yes
+7,Female,Yes,Type 1,fatty ,yes,Variant ,yes,yes,1.1,9.5,1,marsh type 3b,silent,yes
+8,Male,Yes,Type 1,watery,yes,Variant ,yes,yes,2.1,11.4,1,marsh type 3a,atypical,yes
+6,Female,Yes,Type 1,fatty ,yes,PSS,yes,yes,0.8,12,0.98,marsh type 3c,silent,yes
+7,Female,Yes,Type 1,fatty ,yes,PSS,yes,yes,1.5,8,1.1,marsh type 1,potential,yes
+5,Male,Yes,Type 1,watery,yes,Variant ,yes,yes,0.42,11.5,1,marsh type 3c,atypical,yes
+8,Female,Yes,Type 1,fatty ,yes,Variant ,yes,yes,0.56,11,1,marsh type 2,typical,yes
+8,Male,no,None,fatty ,no,DSS,no,no,1.5,7,1.2,none,none,no
+7,Male,Yes,Type 1,inflammatory,yes,PSS,no,no,0.51,13.4,0.91,marsh type 0,silent,yes
+8,Female,Yes,Type 1,fatty ,yes,PSS,no,no,1.7,12,1,marsh type 3b,atypical,yes
+9,Male,Yes,Type 1,watery,yes,Variant ,yes,yes,1.1,8,1.5,marsh type 1,potential,yes
+21,Female,Yes,Type 1,fatty ,yes,PSS,yes,yes,1.3,12,0.7,marsh type 3c,atypical,yes
+25,Male,Yes,Type 2,fatty ,yes,PSS,yes,yes,1.1,8.1,1.8,marsh type 3c,atypical,yes
+31,Male,Yes,Type 2,watery,yes,PSS,yes,yes,0.6,12,0.8,marsh type 1,silent,yes
+28,Male,Yes,Type 2,watery,yes,Variant ,yes,yes,1,10.5,2,marsh type 3c,atypical,yes
+26,Female,Yes,Type 2,watery,yes,Variant ,yes,yes,2,9,1,marsh type 2,typical,yes
+9,Female,Yes,Type 1,watery,yes,PSS,yes,yes,1.1,9.5,1,marsh type 3b,atypical,yes
+8,Male,Yes,Type 1,watery,yes,PSS,yes,yes,2.1,11.4,1,marsh type 1,silent,yes
+7,Female,Yes,Type 1,watery,yes,DSS,no,no,0.8,11,0.98,marsh type 3b,atypical,yes
+7,Female,Yes,Type 1,watery,yes,DSS,no,no,1.5,9,1.1,marsh type 2,typical,yes
+5,Male,no,None,watery,yes,PSS,yes,no,1,9,1.4,marsh type 3c,atypical,no
+8,Female,no,None,inflammatory,yes,Variant ,yes,yes,1.2,13.1,1.8,none,none,no
+6,Male,Yes,Type 1,inflammatory,yes,Variant ,yes,yes,0.42,12,1,marsh type 3a,atypical,yes
+8,Female,Yes,Type 1,inflammatory,yes,Variant ,yes,yes,0.56,12,1,marsh type 1,silent,yes
+18,Male,Yes,Type 1,watery,yes,Variant ,yes,yes,2.1,12.3,0.98,marsh type 3b,atypical,yes
+19,Male,Yes,Type 1,inflammatory,yes,PSS,yes,no,1.4,12,1,marsh type 0,silent,yes
+8,Male,Yes,Type 1,inflammatory,yes,PSS,yes,yes,0.34,10,0.6,marsh type 3a,atypical,yes
+9,Male,Yes,None,watery,yes,DSS,yes,yes,1.7,9.5,1,marsh type 3b,silent,yes
+16,Male,Yes,Type 1,fatty ,yes,Variant ,yes,yes,2,14,1,marsh type 3a,silent,yes
+10,Male,Yes,Type 1,fatty ,yes,PSS,yes,no,2.1,12,0.77,marsh type 1,silent,yes
+8,Male,Yes,Type 1,fatty ,yes,PSS,yes,yes,1.9,9,0.6,marsh type 3a,atypical,yes
+19,Male,Yes,Type 1,watery,yes,PSS,yes,yes,1,12,2,marsh type 2,typical,yes
+28,Female,Yes,Type 1,inflammatory,yes,Variant ,yes,no,1,11,1,marsh type 3b,atypical,yes
+23,Female,Yes,Type 1,watery,yes,PSS,yes,yes,1,7,0.9,marsh type 1,silent,yes
+9,Female,Yes,Type 1,watery,yes,PSS,yes,no,0.9,10.5,0.8,marsh type 3a,silent,yes
+8,Female,Yes,Type 1,inflammatory,yes,Variant ,yes,yes,0.8,9.5,1.2,marsh type 2,typical,yes
+9,Male,Yes,Type 1,inflammatory,yes,Variant ,yes,yes,1.6,11.4,0.91,marsh type 3a,atypical,yes
+7,Male,Yes,Type 1,watery,yes,PSS,yes,yes,0.92,12,1,marsh type 0,potential,yes
+8,Male,Yes,Type 1,watery,yes,PSS,yes,yes,1.66,8,2,marsh type 3b,atypical,yes
+6,Female,Yes,Type 1,inflammatory,yes,Variant ,yes,yes,1,11.5,2,marsh type 3a,silent,yes
+6,Male,Yes,Type 1,watery,yes,Variant ,yes,yes,1,11,1.3,marsh type 2,typical,yes
+10,Male,Yes,Type 1,watery,no,DSS,yes,no,2.3,7,2.1,marsh type 3b,atypical,yes
+3,Male,Yes,Type 1,inflammatory,yes,Variant ,yes,yes,1,9,1.4,marsh type 1,potential,yes
+7,Male,no,None,inflammatory,no,Variant ,no,no,1,9.4,1.6,none,none,no
+9,Female,no,None,watery,no,DSS,no,no,1.2,9,1,none,none,no
+10,Female,no,None,watery,no,DSS,no,no,1.3,8,1,none,none,no
+6,Male,Yes,Type 1,inflammatory,yes,PSS,yes,yes,0.51,13.4,0.91,marsh type 2,typical,yes
+10,Male,Yes,Type 1,fatty ,yes,Variant ,yes,yes,1.8,13,0.8,marsh type 3b,atypical,yes
+9,Female,Yes,Type 1,inflammatory,yes,PSS,yes,yes,1.3,9,1.1,marsh type 1,latent,yes
+3,Male,Yes,Type 1,fatty ,yes,PSS,yes,no,1.1,7,0.6,marsh type 2,typical,yes
+11,Female,Yes,Type 1,watery,yes,PSS,yes,no,1.4,12,1.1,marsh type 3b,typical,yes
+15,Male,Yes,Type 1,watery,yes,PSS,yes,no,0.34,10,0.6,marsh type 0,potential,yes
+7,Female,no,None,fatty ,yes,DSS,yes,yes,2.1,8.5,2.1,marsh type 3b,typical,yes
+12,Female,Yes,Type 1,inflammatory,yes,Variant ,yes,yes,1.9,11.1,1.1,marsh type 3a,atypical,yes
+7,Female,Yes,Type 2,inflammatory,yes,PSS,no,no,0.51,13.4,0.91,marsh type 0,silent,yes
+8,Male,no,None,fatty ,yes,PSS,no,no,1.7,12,1,marsh type 0,potential,yes
+9,Female,Yes,Type 2,watery,yes,Variant ,yes,yes,1.1,8,1.5,marsh type 1,potential,yes
+21,Male,Yes,Type 1,fatty ,yes,PSS,yes,yes,1.3,12,0.7,marsh type 3c,atypical,yes
+31,Male,Yes,Type 1,inflammatory,yes,Variant ,yes,yes,2.6,14.2,2,marsh type 3b,atypical,yes
+11,Female,Yes,Type 1,inflammatory,yes,PSS,yes,yes,1,12,1.5,marsh type 1,latent,yes
+12,Female,Yes,Type 1,fatty ,yes,PSS,yes,yes,2,11,1,marsh type 3c,atypical,yes
+10,Female,Yes,None,fatty ,yes,Variant ,yes,yes,1.6,8.7,1,marsh type 1,latent,yes
+9,Female,Yes,Type 1,inflammatory,no,Variant ,yes,no,1,12,2.1,marsh type 0,latent,yes
+13,Male,Yes,Type 1,inflammatory,yes,PSS,yes,yes,0.96,6,0.86,marsh type 0,latent,yes
+10,Female,Yes,Type 1,inflammatory,no,Variant ,no,no,1.1,9,2,marsh type 1,latent,yes
+13,Female,Yes,Type 1,watery,yes,PSS,yes,no,0.9,8,1,marsh type 0,latent,yes
+12,Male,no,None,fatty ,yes,PSS,yes,yes,0.6,12,1,none,none,no
+14,Female,no,None,fatty ,no,Variant ,yes,yes,1.9,11,1.1,none,none,no
+18,Female,Yes,Type 1,watery,yes,Variant ,yes,yes,1.2,9,2.3,marsh type 3b,atypical,yes
+21,Female,Yes,Type 1,inflammatory,no,PSS,yes,no,1.1,8.7,1.3,marsh type 1,latent,yes
+14,Male,no,None,inflammatory,yes,DSS,yes,no,9,12,1.7,none,none,no
+17,Male,Yes,Type 1,inflammatory,yes,Variant ,yes,yes,1,11.3,1.1,marsh type 3b,silent,yes
+11,Female,Yes,Type 1,watery,yes,DSS,yes,no,0.9,9,1,marsh type 0,latent,yes
+15,Male,Yes,Type 1,watery,no,DSS,no,yes,0.9,10,1.2,marsh type 3c,typical,yes
+10,Female,Yes,Type 1,inflammatory,yes,PSS,yes,yes,1.1,6.1,1.1,marsh type 3b,silent,yes
+11,Female,Yes,Type 1,inflammatory,yes,PSS,yes,yes,2.1,6.9,1.2,marsh type 1,silent,yes
+12,Male,Yes,Type 1,watery,yes,Variant ,yes,yes,2,9,1.1,marsh type 3b,typical,yes
+12,Male,Yes,Type 1,watery,yes,Variant ,yes,yes,0.97,9.1,1.77,marsh type 3a,atypical,yes
+7,Male,no,None,fatty ,no,Variant ,no,no,1,5,1.2,none,none,no
+9,Male,no,None,fatty ,no,Variant ,no,no,2,5,1.8,none,none,no
+31,Female,Yes,Type 1,inflammatory,yes,PSS,yes,yes,1,8,1.8,marsh type 1,silent,yes
+10,Male,Yes,Type 1,inflammatory,yes,PSS,yes,yes,2.1,8,1.1,marsh type 3b,silent,yes
+32,Female,Yes,Type 1,watery,no,Variant ,yes,yes,1,12,0.9,marsh type 3c,atypical,yes
+35,Female,Yes,Type 1,watery,yes,Variant ,yes,yes,2,12.3,0.98,marsh type 1,silent,yes
+29,Male,Yes,Type 1,inflammatory,yes,PSS,yes,yes,1.4,12,1.1,marsh type 3b,typical,yes
+29,Female,Yes,Type 1,fatty ,yes,PSS,yes,yes,0.34,9,0.6,marsh type 0,potential,yes
+7,Male,no,None,inflammatory,yes,DSS,yes,yes,2.1,9.5,2.1,marsh type 3b,typical,yes
+11,Male,Yes,Type 1,watery,yes,Variant ,yes,yes,1.9,12.1,1.1,marsh type 3a,atypical,yes
+11,Male,Yes,Type 1,inflammatory,no,Variant ,yes,yes,2.4,11,0.77,marsh type 3c,silent,yes
+9,Female,Yes,Type 1,inflammatory,yes,DSS,yes,yes,2.1,10,0.6,marsh type 1,potential,yes
+16,Male,Yes,Type 1,watery,yes,DSS,yes,yes,1.6,11,1.6,marsh type 2,typical,yes
+20,Female,Yes,Type 1,inflammatory,no,Variant ,yes,yes,1.5,12,1.6,marsh type 3a,atypical,yes
+16,Male,Yes,Type 1,watery,yes,PSS,yes,yes,2.1,9,0.8,marsh type 2,typical,yes
+8,Male,Yes,Type 1,inflammatory,no,PSS,no,no,1,10.5,1.1,marsh type 0,silent,yes
+7,Female,Yes,Type 1,inflammatory,yes,Variant ,yes,yes,1.1,9.5,1,marsh type 3b,silent,yes
+8,Male,Yes,Type 1,inflammatory,yes,Variant ,yes,yes,2.1,11.4,1,marsh type 3a,atypical,yes
+6,Female,Yes,Type 1,watery,yes,PSS,yes,yes,0.8,12,0.98,marsh type 3c,silent,yes
+7,Female,Yes,Type 1,watery,yes,PSS,yes,yes,1.5,8,1.1,marsh type 1,potential,yes
+5,Male,Yes,Type 1,fatty ,yes,Variant ,yes,yes,0.42,11.5,1,marsh type 3c,atypical,yes
+8,Female,Yes,Type 1,inflammatory,yes,Variant ,yes,yes,0.56,11,1,marsh type 2,typical,yes
+8,Male,no,None,inflammatory,no,DSS,no,no,1.5,7,1.2,none,none,no
+7,Male,Yes,Type 1,watery,yes,PSS,no,no,0.51,13.4,0.91,marsh type 0,silent,yes
+8,Female,Yes,Type 1,inflammatory,yes,PSS,no,no,1.7,12,1,marsh type 3b,atypical,yes
+9,Male,Yes,Type 1,fatty ,yes,Variant ,yes,yes,1.1,8,1.5,marsh type 1,potential,yes
+21,Female,Yes,Type 1,inflammatory,yes,PSS,yes,yes,1.3,12,0.7,marsh type 3c,atypical,yes
+25,Male,Yes,Type 2,inflammatory,yes,PSS,yes,yes,1.1,8.1,1.8,marsh type 3c,atypical,yes
+31,Male,Yes,Type 2,fatty ,yes,PSS,yes,yes,0.6,12,0.8,marsh type 1,silent,yes
+28,Male,Yes,Type 2,fatty ,yes,Variant ,yes,yes,1,10.5,2,marsh type 3c,atypical,yes
+26,Female,Yes,Type 2,fatty ,yes,Variant ,yes,yes,2,9,1,marsh type 2,typical,yes
+8,Male,Yes,Type 1,inflammatory,yes,PSS,yes,yes,1.9,9,0.6,marsh type 3a,atypical,yes
+19,Male,Yes,Type 1,fatty ,yes,PSS,yes,yes,1,12,2,marsh type 2,typical,yes
+28,Female,Yes,Type 1,watery,yes,Variant ,yes,no,1,11,1,marsh type 3b,atypical,yes
+23,Female,Yes,Type 1,inflammatory,yes,PSS,yes,yes,1,7,0.9,marsh type 1,silent,yes
+9,Female,Yes,Type 1,fatty ,no,PSS,yes,no,0.9,10.5,0.8,marsh type 3a,silent,yes
+8,Female,Yes,Type 1,watery,yes,Variant ,yes,yes,0.8,9.5,1.2,marsh type 2,typical,yes
+9,Male,Yes,Type 1,watery,yes,Variant ,yes,yes,1.6,11.4,0.91,marsh type 3a,atypical,yes
+7,Male,Yes,Type 1,inflammatory,no,PSS,yes,yes,0.92,12,1,marsh type 0,potential,yes
+8,Male,Yes,Type 1,fatty ,yes,PSS,yes,yes,1.66,8,2,marsh type 3b,atypical,yes
+6,Female,Yes,Type 1,fatty ,yes,Variant ,yes,yes,1,11.5,2,marsh type 3a,silent,yes
+7,Male,Yes,Type 1,watery,no,Variant ,yes,yes,1,11,1.3,marsh type 2,typical,yes
+11,Male,Yes,Type 1,watery,no,DSS,yes,no,2.3,7,2.1,marsh type 3b,atypical,yes
+3,Male,Yes,Type 1,watery,yes,Variant ,yes,yes,1,9,1.4,marsh type 1,potential,yes
+7,Male,no,None,fatty ,no,Variant ,no,no,1,9.4,1.6,none,none,no
+9,Female,no,None,watery,no,DSS,no,no,1.2,9,1,none,none,no
+10,Female,no,None,inflammatory,no,DSS,no,no,1.3,8,1,none,none,no
+6,Male,Yes,Type 1,watery,yes,PSS,yes,yes,0.51,13.4,0.91,marsh type 2,typical,yes
+10,Male,Yes,Type 1,inflammatory,yes,Variant ,yes,yes,1.8,13,0.8,marsh type 3b,atypical,yes
+9,Female,Yes,Type 1,watery,yes,PSS,yes,yes,1.3,9,1.1,marsh type 1,latent,yes
+3,Male,Yes,Type 1,inflammatory,yes,PSS,yes,no,1.1,7,0.6,marsh type 2,typical,yes
+11,Female,Yes,Type 1,fatty ,yes,PSS,yes,no,1.4,12,1.1,marsh type 3b,typical,yes
+15,Male,Yes,Type 1,inflammatory,yes,PSS,yes,no,0.34,10,0.6,marsh type 0,potential,yes
+7,Female,no,None,watery,yes,DSS,yes,yes,2.1,8.5,2.1,marsh type 3b,typical,yes
+12,Female,Yes,Type 1,fatty ,yes,Variant ,yes,yes,1.9,11.1,1.1,marsh type 3a,atypical,yes
+7,Female,Yes,Type 2,fatty ,yes,PSS,no,no,0.51,13.4,0.91,marsh type 0,silent,yes
+8,Male,no,None,watery,yes,PSS,no,no,1.7,12,1,marsh type 0,potential,yes
+9,Female,Yes,Type 2,inflammatory,yes,Variant ,yes,yes,1.1,8,1.5,marsh type 1,potential,yes
+21,Male,Yes,Type 1,inflammatory,yes,PSS,yes,yes,1.3,12,0.7,marsh type 3c,atypical,yes
+31,Male,Yes,Type 1,watery,no,PSS,yes,yes,2.6,14.2,2,marsh type 3b,atypical,yes
+11,Female,Yes,Type 1,inflammatory,yes,DSS,yes,yes,1,12,1.5,marsh type 1,latent,yes
+12,Female,Yes,Type 1,watery,no,PSS,yes,yes,2,11,1,marsh type 3c,atypical,yes
+10,Female,Yes,None,watery,yes,Variant ,yes,no,1.6,8.7,1.2,marsh type 1,latent,yes
+9,Female,Yes,Type 1,fatty ,no,Variant ,yes,yes,1.2,12,2.1,marsh type 0,latent,yes
+13,Male,Yes,Type 1,watery,yes,PSS,yes,no,0.96,6,0.86,marsh type 0,latent,yes
+10,Female,Yes,Type 1,watery,no,PSS,no,yes,1.1,9,2,marsh type 1,latent,yes
+13,Female,Yes,Type 1,fatty ,yes,Variant ,yes,yes,0.9,8,1,marsh type 0,latent,yes
+12,Male,no,None,inflammatory,no,Variant ,yes,yes,0.6,12,1,none,none,no
+14,Female,no,None,inflammatory,yes,DSS,yes,yes,1.9,11,1.1,none,none,no
+18,Female,Yes,Type 1,fatty ,no,PSS,yes,yes,1.2,9,2.3,marsh type 3b,atypical,yes
+21,Female,Yes,Type 1,watery,yes,Variant ,yes,no,1.1,8.7,1.3,marsh type 1,latent,yes
+14,Male,no,None,inflammatory,yes,DSS,yes,no,9,12,1.7,none,none,no
+31,Female,Yes,Type 1,inflammatory,yes,PSS,yes,yes,1,8,1.8,marsh type 1,silent,yes
+10,Male,Yes,Type 1,fatty ,yes,PSS,yes,yes,2.1,8,1.1,marsh type 3b,silent,yes
+32,Female,Yes,Type 1,fatty ,yes,Variant ,yes,yes,1,12,0.9,marsh type 3c,atypical,yes
+35,Female,Yes,Type 1,watery,yes,Variant ,yes,yes,2,12.3,0.98,marsh type 1,silent,yes
+29,Male,Yes,Type 1,inflammatory,yes,PSS,yes,yes,1.4,12,1.1,marsh type 3b,typical,yes
+29,Female,Yes,Type 1,watery,no,PSS,yes,yes,0.34,9,0.6,marsh type 0,potential,yes
+7,Male,no,None,inflammatory,yes,DSS,yes,yes,2.1,9.5,2.1,marsh type 3b,typical,yes
+11,Male,Yes,Type 1,watery,yes,Variant ,yes,yes,1.9,12.1,1.1,marsh type 3a,atypical,yes
+11,Male,Yes,Type 1,inflammatory,no,Variant ,yes,yes,2.4,11,0.77,marsh type 3c,silent,yes
+9,Female,Yes,Type 1,inflammatory,yes,DSS,yes,yes,2.1,10,0.6,marsh type 1,potential,yes
+16,Male,Yes,Type 1,watery,yes,DSS,yes,yes,1.6,11,1.6,marsh type 2,typical,yes
+20,Female,Yes,Type 1,inflammatory,no,Variant ,yes,yes,1.5,12,1.6,marsh type 3a,atypical,yes
+16,Male,Yes,Type 1,inflammatory,no,PSS,yes,yes,2.1,9,0.8,marsh type 2,typical,yes
+8,Male,Yes,Type 1,watery,yes,PSS,no,no,1,10.5,1.1,marsh type 0,silent,yes
+7,Female,Yes,Type 1,watery,yes,Variant ,yes,yes,1.1,9.5,1,marsh type 3b,silent,yes
+8,Male,Yes,Type 1,fatty ,yes,Variant ,yes,yes,2.1,11.4,1,marsh type 3a,atypical,yes
+6,Female,Yes,Type 1,watery,yes,PSS,yes,yes,0.8,12,0.98,marsh type 3c,silent,yes
+7,Female,Yes,Type 1,watery,yes,PSS,yes,yes,1.5,8,1.1,marsh type 1,potential,yes
+5,Male,Yes,Type 1,inflammatory,yes,Variant ,yes,yes,0.42,11.5,1,marsh type 3c,atypical,yes
+8,Female,Yes,Type 1,inflammatory,yes,Variant ,yes,yes,0.56,11,1,marsh type 2,typical,yes
+8,Male,no,None,inflammatory,no,DSS,no,no,1.5,7,1.2,none,none,no
+7,Male,Yes,Type 1,watery,yes,PSS,no,no,0.51,13.4,0.91,marsh type 0,silent,yes
+8,Female,Yes,Type 1,watery,yes,PSS,no,no,1.7,12,1,marsh type 3b,atypical,yes
+9,Male,Yes,Type 1,inflammatory,yes,Variant ,yes,yes,1.1,8,1.5,marsh type 1,potential,yes
+21,Female,Yes,Type 1,watery,yes,PSS,yes,yes,1.3,12,0.7,marsh type 3c,atypical,yes
+25,Male,Yes,Type 2,watery,yes,PSS,yes,yes,1.1,8.1,1.8,marsh type 3c,atypical,yes
+31,Male,Yes,Type 2,inflammatory,yes,PSS,yes,yes,0.6,12,0.8,marsh type 1,silent,yes
+28,Male,Yes,Type 2,inflammatory,yes,Variant ,yes,yes,1,10.5,2,marsh type 3c,atypical,yes
+26,Female,Yes,Type 2,inflammatory,yes,Variant ,yes,yes,2,9,1,marsh type 2,typical,yes
+9,Female,Yes,Type 1,fatty ,yes,PSS,yes,yes,1.1,9.5,1,marsh type 3b,atypical,yes
+8,Male,Yes,Type 1,fatty ,yes,PSS,yes,yes,2.1,11.4,1,marsh type 1,silent,yes
+7,Female,Yes,Type 1,fatty ,yes,DSS,no,no,0.8,11,0.98,marsh type 3b,atypical,yes
+7,Female,Yes,Type 1,fatty ,yes,DSS,no,no,1.5,9,1.1,marsh type 2,typical,yes
+5,Male,no,None,inflammatory,yes,PSS,yes,no,1,9,1.4,marsh type 3c,atypical,no
+8,Female,no,None,watery,yes,Variant ,yes,yes,1.2,13.1,1.8,none,none,no
+6,Male,Yes,Type 1,watery,yes,Variant ,yes,yes,0.42,12,1,marsh type 3a,atypical,yes
+8,Female,Yes,Type 1,fatty ,yes,Variant ,yes,yes,0.56,12,1,marsh type 1,silent,yes
+18,Male,Yes,Type 1,inflammatory,yes,Variant ,yes,yes,2.1,12.3,0.98,marsh type 3b,atypical,yes
+19,Male,Yes,Type 1,watery,yes,PSS,yes,no,1.4,12,1,marsh type 0,silent,yes
+8,Male,Yes,Type 1,watery,yes,PSS,yes,yes,0.34,10,0.6,marsh type 3a,atypical,yes
+9,Male,Yes,None,fatty ,yes,DSS,yes,yes,1.7,9.5,1,marsh type 3b,silent,yes
+16,Male,Yes,Type 1,watery,yes,Variant ,yes,yes,2,14,1,marsh type 3a,silent,yes
+10,Male,Yes,Type 1,watery,yes,PSS,yes,no,2.1,12,0.77,marsh type 1,silent,yes
+8,Male,Yes,Type 1,inflammatory,yes,PSS,yes,yes,1.9,9,0.6,marsh type 3a,atypical,yes
+19,Male,Yes,Type 1,fatty ,yes,PSS,yes,yes,1,12,2,marsh type 2,typical,yes
+28,Female,Yes,Type 1,watery,yes,Variant ,yes,no,1,11,1,marsh type 3b,atypical,yes
+23,Female,Yes,Type 1,inflammatory,yes,PSS,yes,yes,1,7,0.9,marsh type 1,silent,yes
+9,Female,Yes,Type 1,inflammatory,yes,PSS,yes,no,0.9,10.5,0.8,marsh type 3a,silent,yes
+8,Female,Yes,Type 1,fatty ,yes,Variant ,yes,yes,0.8,9.5,1.2,marsh type 2,typical,yes
+9,Male,Yes,Type 1,fatty ,yes,Variant ,yes,yes,1.6,11.4,0.91,marsh type 3a,atypical,yes
+7,Male,Yes,Type 1,inflammatory,yes,PSS,yes,yes,0.92,12,1,marsh type 0,potential,yes
+8,Male,Yes,Type 1,inflammatory,yes,PSS,yes,yes,1.66,8,2,marsh type 3b,atypical,yes
+6,Female,Yes,Type 1,watery,yes,Variant ,yes,yes,1,11.5,2,marsh type 3a,silent,yes
+6,Male,Yes,Type 1,fatty ,yes,Variant ,yes,yes,1,11,1.3,marsh type 2,typical,yes
+10,Male,Yes,Type 1,fatty ,no,DSS,yes,no,2.3,7,2.1,marsh type 3b,atypical,yes
+3,Male,Yes,Type 1,watery,yes,Variant ,yes,yes,1,9,1.4,marsh type 1,potential,yes
+7,Male,no,None,watery,no,Variant ,no,no,1,9.4,1.6,none,none,no
+9,Female,no,None,fatty ,no,DSS,no,no,1.2,9,1,none,none,no
+10,Female,no,None,fatty ,no,DSS,no,no,1.3,8,1,none,none,no
+6,Male,Yes,Type 1,watery,yes,PSS,yes,yes,0.51,13.4,0.91,marsh type 2,typical,yes
+10,Male,Yes,Type 1,watery,yes,Variant ,yes,yes,1.8,13,0.8,marsh type 3b,atypical,yes
+9,Female,Yes,Type 1,watery,yes,PSS,yes,yes,1.3,9,1.1,marsh type 1,latent,yes
+3,Male,Yes,Type 1,inflammatory,yes,PSS,yes,no,1.1,7,0.6,marsh type 2,typical,yes
+11,Female,Yes,Type 1,inflammatory,yes,PSS,yes,no,1.4,12,1.1,marsh type 3b,typical,yes
+15,Male,Yes,Type 1,fatty ,yes,PSS,yes,no,0.34,10,0.6,marsh type 0,potential,yes
+7,Female,no,None,watery,yes,DSS,yes,yes,2.1,8.5,2.1,marsh type 3b,typical,yes
+12,Female,Yes,Type 1,fatty ,yes,Variant ,yes,yes,1.9,11.1,1.1,marsh type 3a,atypical,yes
+7,Female,Yes,Type 2,fatty ,yes,PSS,no,no,0.51,13.4,0.91,marsh type 0,silent,yes
+8,Male,no,None,watery,yes,PSS,no,no,1.7,12,1,marsh type 0,potential,yes
+9,Female,Yes,Type 2,fatty ,yes,Variant ,yes,yes,1.1,8,1.5,marsh type 1,potential,yes
+21,Male,Yes,Type 1,watery,yes,PSS,yes,yes,1.3,12,0.7,marsh type 3c,atypical,yes
+31,Male,Yes,Type 1,watery,yes,Variant ,yes,yes,2.6,14.2,2,marsh type 3b,atypical,yes
+11,Female,Yes,Type 1,watery,yes,PSS,yes,yes,1,12,1.5,marsh type 1,latent,yes
+12,Female,Yes,Type 1,inflammatory,yes,PSS,yes,yes,2,11,1,marsh type 3c,atypical,yes
+10,Female,Yes,None,inflammatory,yes,Variant ,yes,no,1.6,8.7,1.2,marsh type 1,latent,yes
+9,Female,Yes,Type 1,watery,no,Variant ,yes,yes,1.2,12,2.1,marsh type 0,latent,yes
+13,Male,Yes,Type 1,watery,yes,PSS,yes,no,0.96,6,0.86,marsh type 0,latent,yes
+10,Female,Yes,Type 1,fatty ,no,PSS,no,yes,1.1,9,2,marsh type 1,latent,yes
+13,Female,Yes,Type 1,fatty ,yes,Variant ,yes,yes,0.9,8,1,marsh type 0,latent,yes
+12,Male,no,None,watery,no,Variant ,yes,yes,0.6,12,1,none,none,no
+14,Female,no,None,watery,yes,DSS,yes,yes,1.9,11,1.1,none,none,no
+18,Female,Yes,Type 1,inflammatory,no,PSS,yes,yes,1.2,9,2.3,marsh type 3b,atypical,yes
+21,Female,Yes,Type 1,watery,yes,Variant ,yes,no,1.1,8.7,1.3,marsh type 1,latent,yes
+14,Male,no,None,fatty ,yes,DSS,yes,no,9,12,1.7,none,none,no
+17,Male,Yes,Type 1,watery,yes,Variant ,yes,yes,1,11.3,1.1,marsh type 3b,silent,yes
+11,Female,Yes,Type 1,watery,no,DSS,yes,no,0.9,9,1,marsh type 0,latent,yes
+15,Male,Yes,Type 1,watery,yes,DSS,no,yes,0.9,10,1.2,marsh type 3c,typical,yes
+10,Female,Yes,Type 1,fatty ,yes,PSS,yes,yes,1.1,6.1,1.1,marsh type 3b,silent,yes
+11,Female,Yes,Type 1,fatty ,yes,PSS,yes,yes,2.1,6.9,1.2,marsh type 1,silent,yes
+12,Male,Yes,Type 1,inflammatory,yes,Variant ,yes,yes,2,9,1.1,marsh type 3b,typical,yes
+12,Male,Yes,Type 1,inflammatory,yes,Variant ,yes,yes,0.97,9.1,1.77,marsh type 3a,atypical,yes
+7,Male,no,None,watery,no,Variant ,no,no,1,5,1.2,none,none,no
+9,Male,no,None,fatty ,no,Variant ,no,no,2,5,1.8,none,none,no
+31,Female,Yes,Type 1,watery,yes,PSS,yes,yes,1,8,1.8,marsh type 1,silent,yes
+10,Male,Yes,Type 1,inflammatory,yes,PSS,yes,yes,2.1,8,1.1,marsh type 3b,silent,yes
+32,Female,Yes,Type 1,watery,yes,Variant ,yes,yes,1,12,0.9,marsh type 3c,atypical,yes
+35,Female,Yes,Type 1,inflammatory,yes,Variant ,yes,yes,2,12.3,0.98,marsh type 1,silent,yes
+29,Male,Yes,Type 1,fatty ,yes,PSS,yes,yes,1.4,12,1.1,marsh type 3b,typical,yes
+29,Female,Yes,Type 1,watery,no,PSS,yes,no,0.34,9,0.6,marsh type 0,potential,yes
+7,Male,no,None,fatty ,yes,PSS,yes,no,2.1,9.5,2.1,marsh type 3b,typical,yes
+11,Male,Yes,Type 1,watery,yes,DSS,yes,yes,1.9,12.1,1.1,marsh type 3a,atypical,yes
+11,Male,Yes,Type 1,inflammatory,no,Variant ,yes,yes,2.4,11,0.77,marsh type 3c,silent,yes
+9,Female,Yes,Type 1,inflammatory,yes,DSS,yes,yes,2.1,10,0.6,marsh type 1,potential,yes
+16,Male,Yes,Type 1,fatty ,yes,DSS,yes,yes,1.6,11,1.6,marsh type 2,typical,yes
+20,Female,Yes,Type 1,inflammatory,no,Variant ,yes,yes,1.5,12,1.6,marsh type 3a,atypical,yes
+16,Male,Yes,Type 1,watery,no,PSS,yes,yes,2.1,9,0.8,marsh type 2,typical,yes
+8,Male,Yes,Type 1,inflammatory,yes,PSS,no,no,1,10.5,1.1,marsh type 0,silent,yes
+7,Female,Yes,Type 1,inflammatory,yes,Variant ,yes,yes,1.1,9.5,1,marsh type 3b,silent,yes
+8,Male,Yes,Type 1,inflammatory,yes,Variant ,yes,yes,2.1,11.4,1,marsh type 3a,atypical,yes
+6,Female,Yes,Type 1,watery,yes,PSS,yes,yes,0.8,12,0.98,marsh type 3c,silent,yes
+7,Female,Yes,Type 1,watery,yes,PSS,yes,yes,1.5,8,1.1,marsh type 1,potential,yes
+5,Male,Yes,Type 1,fatty ,yes,Variant ,yes,yes,0.42,11.5,1,marsh type 3c,atypical,yes
+8,Female,Yes,Type 1,watery,yes,Variant ,yes,yes,0.56,11,1,marsh type 2,typical,yes
+8,Male,no,None,watery,no,DSS,no,no,1.5,7,1.2,none,none,no
+7,Male,Yes,Type 1,fatty ,yes,PSS,no,no,0.51,13.4,0.91,marsh type 0,silent,yes
+8,Female,Yes,Type 1,watery,yes,PSS,no,no,1.7,12,1,marsh type 3b,atypical,yes
+9,Male,Yes,Type 1,fatty ,yes,Variant ,yes,yes,1.1,8,1.5,marsh type 1,potential,yes
+21,Female,Yes,Type 1,watery,yes,PSS,yes,yes,1.3,12,0.7,marsh type 3c,atypical,yes
+25,Male,Yes,Type 2,inflammatory,yes,PSS,yes,yes,1.1,8.1,1.8,marsh type 3c,atypical,yes
+31,Male,Yes,Type 2,inflammatory,yes,PSS,yes,yes,0.6,12,0.8,marsh type 1,silent,yes
+28,Male,Yes,Type 2,fatty ,yes,Variant ,yes,yes,1,10.5,2,marsh type 3c,atypical,yes
+26,Female,Yes,Type 2,fatty ,yes,Variant ,yes,yes,2,9,1,marsh type 2,typical,yes
+8,Male,Yes,Type 1,inflammatory,yes,PSS,yes,yes,1.9,9,0.6,marsh type 3a,atypical,yes
+19,Male,Yes,Type 1,fatty ,yes,PSS,yes,yes,1,12,2,marsh type 2,typical,yes
+28,Female,Yes,Type 1,watery,yes,Variant ,yes,no,1,11,1,marsh type 3b,atypical,yes
+23,Female,Yes,Type 1,inflammatory,yes,PSS,yes,yes,1,7,0.9,marsh type 1,silent,yes
+9,Female,Yes,Type 1,fatty ,yes,PSS,yes,no,0.9,10.5,0.8,marsh type 3a,silent,yes
+8,Female,Yes,Type 1,watery,yes,Variant ,yes,yes,0.8,9.5,1.2,marsh type 2,typical,yes
+9,Male,Yes,Type 1,fatty ,yes,Variant ,yes,yes,1.6,11.4,0.91,marsh type 3a,atypical,yes
+7,Male,Yes,Type 1,inflammatory,yes,PSS,yes,yes,0.92,12,1,marsh type 0,potential,yes
+8,Male,Yes,Type 1,fatty ,yes,PSS,yes,yes,1.66,8,2,marsh type 3b,atypical,yes
+6,Female,Yes,Type 1,watery,yes,Variant ,yes,yes,1,11.5,2,marsh type 3a,silent,yes
+6,Male,Yes,Type 1,inflammatory,yes,Variant ,yes,yes,1,11,1.3,marsh type 2,typical,yes
+10,Male,Yes,Type 1,fatty ,no,DSS,yes,no,2.3,7,2.1,marsh type 3b,atypical,yes
+3,Male,Yes,Type 1,watery,yes,Variant ,yes,yes,1,9,1.4,marsh type 1,potential,yes
+7,Male,no,None,fatty ,no,Variant ,no,no,1,9.4,1.6,none,none,no
+9,Female,no,None,fatty ,no,DSS,no,no,1.2,9,1,none,none,no
+10,Female,no,None,inflammatory,no,DSS,no,no,1.3,8,1,none,none,no
+6,Male,Yes,Type 1,fatty ,yes,PSS,yes,yes,0.51,13.4,0.91,marsh type 2,typical,yes
+10,Male,Yes,Type 1,watery,yes,Variant ,yes,yes,1.8,13,0.8,marsh type 3b,atypical,yes
+9,Female,Yes,Type 1,fatty ,yes,PSS,yes,yes,1.3,9,1.1,marsh type 1,latent,yes
+3,Male,Yes,Type 1,watery,yes,PSS,yes,no,1.1,7,0.6,marsh type 2,typical,yes
+11,Female,Yes,Type 1,fatty ,yes,PSS,yes,no,1.4,12,1.1,marsh type 3b,typical,yes
+15,Male,Yes,Type 1,fatty ,yes,PSS,yes,no,0.34,10,0.6,marsh type 0,potential,yes
+7,Female,no,None,inflammatory,yes,DSS,yes,yes,2.1,8.5,2.1,marsh type 3b,typical,yes
+12,Female,Yes,Type 1,fatty ,yes,Variant ,yes,yes,1.9,11.1,1.1,marsh type 3a,atypical,yes
+12,Female,Yes,Type 1,watery,yes,PSS,yes,yes,2,11,1,marsh type 3c,atypical,yes
+10,Female,Yes,None,inflammatory,yes,Variant ,yes,no,1.6,8.7,1.2,marsh type 1,latent,yes
+9,Female,Yes,Type 1,watery,no,Variant ,yes,yes,1.2,12,2.1,marsh type 0,latent,yes
+13,Male,Yes,Type 1,fatty ,yes,PSS,yes,no,0.96,6,0.86,marsh type 0,latent,yes
+10,Female,Yes,Type 1,fatty ,no,PSS,no,yes,1.1,9,2,marsh type 1,latent,yes
+13,Female,Yes,Type 1,inflammatory,yes,Variant ,yes,yes,0.9,8,1,marsh type 0,latent,yes
+12,Male,no,None,inflammatory,no,Variant ,yes,yes,0.6,12,1,none,none,no
+14,Female,no,None,watery,yes,DSS,yes,yes,1.9,11,1.1,none,none,no
+18,Female,Yes,Type 1,fatty ,no,PSS,yes,yes,1.2,9,2.3,marsh type 3b,atypical,yes
+21,Female,Yes,Type 1,inflammatory,yes,Variant ,yes,no,1.1,8.7,1.3,marsh type 1,latent,yes
+14,Male,no,None,fatty ,yes,DSS,yes,no,9,12,1.7,none,none,no
+17,Male,Yes,Type 1,inflammatory,yes,Variant ,yes,yes,1,11.3,1.1,marsh type 3b,silent,yes
+11,Female,Yes,Type 1,inflammatory,yes,DSS,yes,no,0.9,9,1,marsh type 0,latent,yes
+15,Male,Yes,Type 1,watery,yes,DSS,no,yes,0.9,10,1.2,marsh type 3c,typical,yes
+10,Female,Yes,Type 1,inflammatory,no,PSS,yes,yes,1.1,6.1,1.1,marsh type 3b,silent,yes
+11,Female,Yes,Type 1,fatty ,no,PSS,yes,yes,2.1,6.9,1.2,marsh type 1,silent,yes
+12,Male,Yes,Type 1,inflammatory,yes,Variant ,yes,yes,2,9,1.1,marsh type 3b,typical,yes
+12,Male,Yes,Type 1,fatty ,yes,PSS,yes,yes,0.97,9.1,1.77,marsh type 3a,atypical,yes
+7,Male,no,None,watery,no,Variant ,no,no,1,5,1.2,none,none,no
+9,Male,no,None,watery,no,Variant ,no,no,2,5,1.8,none,none,no
+31,Female,Yes,Type 1,fatty ,yes,PSS,yes,yes,1,8,1.8,marsh type 1,silent,yes
+10,Male,Yes,Type 1,fatty ,yes,PSS,yes,yes,2.1,8,1.1,marsh type 3b,silent,yes
+32,Female,Yes,Type 1,watery,yes,Variant ,yes,yes,1,12,0.9,marsh type 3c,atypical,yes
+35,Female,Yes,Type 1,watery,yes,Variant ,yes,yes,2,12.3,0.98,marsh type 1,silent,yes
+29,Male,Yes,Type 1,inflammatory,yes,PSS,yes,yes,1.4,12,1.1,marsh type 3b,typical,yes
+29,Female,Yes,Type 1,inflammatory,yes,PSS,yes,yes,0.34,9,0.6,marsh type 0,potential,yes
+7,Male,Yes,Type 1,fatty ,yes,PSS,yes,yes,0.92,12,1,marsh type 0,potential,yes
+8,Male,Yes,Type 1,fatty ,yes,PSS,yes,yes,1.66,8,2,marsh type 3b,atypical,yes
+6,Female,Yes,Type 1,watery,yes,Variant ,yes,yes,1,11.5,2,marsh type 3a,silent,yes
+6,Male,Yes,Type 1,fatty ,yes,Variant ,yes,yes,1,11,1.3,marsh type 2,typical,yes
+10,Male,Yes,Type 1,fatty ,no,DSS,yes,no,2.3,7,2.1,marsh type 3b,atypical,yes
+3,Male,Yes,Type 1,watery,yes,Variant ,yes,yes,1,9,1.4,marsh type 1,potential,yes
+7,Male,no,None,watery,no,Variant ,no,no,1,9.4,1.6,none,none,no
+9,Female,no,None,fatty ,no,DSS,no,no,1.2,9,1,none,none,no
+10,Female,no,None,fatty ,no,DSS,no,no,1.3,8,1,none,none,no
+6,Male,Yes,Type 1,watery,yes,PSS,yes,yes,0.51,13.4,0.91,marsh type 2,typical,yes
+10,Male,Yes,Type 1,watery,yes,Variant ,yes,yes,1.8,13,0.8,marsh type 3b,atypical,yes
+9,Female,Yes,Type 1,fatty ,yes,PSS,yes,yes,1.3,9,1.1,marsh type 1,latent,yes
+3,Male,Yes,Type 1,watery,yes,PSS,yes,no,1.1,7,0.6,marsh type 2,typical,yes
+11,Female,Yes,Type 1,inflammatory,yes,PSS,yes,no,1.4,12,1.1,marsh type 3b,typical,yes
+15,Male,Yes,Type 1,inflammatory,yes,PSS,yes,no,0.34,10,0.6,marsh type 0,potential,yes
+7,Female,no,None,watery,yes,DSS,yes,yes,2.1,8.5,2.1,marsh type 3b,typical,yes
+12,Female,Yes,Type 1,watery,yes,Variant ,yes,yes,1.9,11.1,1.1,marsh type 3a,atypical,yes
+12,Female,Yes,Type 1,watery,yes,PSS,yes,yes,2,11,1,marsh type 3c,atypical,yes
+10,Female,Yes,None,inflammatory,yes,Variant ,yes,no,1.6,8.7,1.2,marsh type 1,latent,yes
+9,Female,Yes,Type 1,watery,no,Variant ,yes,yes,1.2,12,2.1,marsh type 0,latent,yes
+13,Male,Yes,Type 1,watery,yes,PSS,yes,no,0.96,6,0.86,marsh type 0,latent,yes
+10,Female,Yes,Type 1,fatty ,no,PSS,no,yes,1.1,9,2,marsh type 1,latent,yes
+13,Female,Yes,Type 1,watery,yes,Variant ,yes,yes,0.9,8,1,marsh type 0,latent,yes
+12,Male,no,None,inflammatory,no,Variant ,yes,yes,0.6,12,1,none,none,no
+14,Female,no,None,watery,yes,DSS,yes,yes,1.9,11,1.1,none,none,no
+18,Female,Yes,Type 1,inflammatory,no,PSS,yes,yes,1.2,9,2.3,marsh type 3b,atypical,yes
+21,Female,Yes,Type 1,fatty ,yes,Variant ,yes,no,1.1,8.7,1.3,marsh type 1,latent,yes
+14,Male,no,None,inflammatory,yes,DSS,yes,no,9,12,1.7,none,none,no
+17,Male,Yes,Type 1,watery,yes,Variant ,yes,yes,1,11.3,1.1,marsh type 3b,silent,yes
+8,Female,Yes,Type 1,fatty ,no,Variant ,yes,yes,0.8,9.5,1.2,marsh type 2,typical,yes
+9,Male,Yes,Type 1,watery,yes,Variant ,yes,yes,1.6,11.4,0.91,marsh type 3a,atypical,yes
+7,Male,Yes,Type 1,inflammatory,yes,PSS,yes,yes,0.92,12,1,marsh type 0,potential,yes
+8,Male,Yes,Type 1,inflammatory,yes,PSS,yes,yes,1.66,8,2,marsh type 3b,atypical,yes
+6,Female,Yes,Type 1,watery,yes,Variant ,yes,yes,1,11.5,2,marsh type 3a,silent,yes
+6,Male,Yes,Type 1,fatty ,yes,Variant ,yes,yes,1,11,1.3,marsh type 2,typical,yes
+10,Male,Yes,Type 1,fatty ,no,DSS,yes,no,2.3,7,2.1,marsh type 3b,atypical,yes
+3,Male,Yes,Type 1,watery,yes,Variant ,yes,yes,1,9,1.4,marsh type 1,potential,yes
+7,Male,no,None,watery,no,Variant ,no,no,1,9.4,1.6,none,none,no
+9,Female,no,None,inflammatory,no,DSS,no,no,1.2,9,1,none,none,no
+10,Female,no,None,inflammatory,no,DSS,no,no,1.3,8,1,none,none,no
+6,Male,Yes,Type 1,fatty ,yes,PSS,yes,yes,0.51,13.4,0.91,marsh type 2,typical,yes
+10,Male,Yes,Type 1,watery,yes,Variant ,yes,yes,1.8,13,0.8,marsh type 3b,atypical,yes
+9,Female,Yes,Type 1,watery,yes,PSS,yes,yes,1.3,9,1.1,marsh type 1,latent,yes
+3,Male,Yes,Type 1,inflammatory,yes,PSS,yes,no,1.1,7,0.6,marsh type 2,typical,yes
+11,Female,Yes,Type 1,inflammatory,yes,PSS,yes,no,1.4,12,1.1,marsh type 3b,typical,yes
+15,Male,Yes,Type 1,fatty ,yes,PSS,yes,no,0.34,10,0.6,marsh type 0,potential,yes
+7,Female,no,None,watery,yes,DSS,yes,yes,2.1,8.5,2.1,marsh type 3b,typical,yes
+12,Female,Yes,Type 1,fatty ,yes,Variant ,yes,yes,1.9,11.1,1.1,marsh type 3a,atypical,yes
+7,Female,Yes,Type 2,watery,yes,PSS,no,no,0.51,13.4,0.91,marsh type 0,silent,yes
+8,Male,no,None,fatty ,yes,PSS,no,no,1.7,12,1,marsh type 0,potential,yes
+9,Female,Yes,Type 2,inflammatory,yes,Variant ,yes,yes,1.1,8,1.5,marsh type 1,potential,yes
+21,Male,Yes,Type 1,watery,yes,PSS,yes,yes,1.3,12,0.7,marsh type 3c,atypical,yes
+31,Male,Yes,Type 1,watery,yes,Variant ,yes,yes,2.6,14.2,2,marsh type 3b,atypical,yes
+11,Female,Yes,Type 1,fatty ,yes,PSS,yes,yes,1,12,1.5,marsh type 1,latent,yes
+12,Female,Yes,Type 1,watery,yes,PSS,yes,yes,2,11,1,marsh type 3c,atypical,yes
+10,Female,Yes,None,inflammatory,yes,Variant ,yes,no,1.6,8.7,1.2,marsh type 1,latent,yes
+9,Female,Yes,Type 1,fatty ,no,Variant ,yes,yes,1.2,12,2.1,marsh type 0,latent,yes
+13,Male,Yes,Type 1,watery,yes,PSS,yes,no,0.96,6,0.86,marsh type 0,latent,yes
+10,Female,Yes,Type 1,fatty ,no,PSS,no,yes,1.1,9,2,marsh type 1,latent,yes
+13,Female,Yes,Type 1,inflammatory,yes,Variant ,yes,yes,0.9,8,1,marsh type 0,latent,yes
+12,Male,no,None,inflammatory,no,Variant ,yes,yes,0.6,12,1,none,none,no
+14,Female,no,None,watery,yes,DSS,yes,yes,1.9,11,1.1,none,none,no
+18,Female,Yes,Type 1,inflammatory,no,PSS,yes,yes,1.2,9,2.3,marsh type 3b,atypical,yes
+21,Female,Yes,Type 1,watery,yes,Variant ,yes,no,1.1,8.7,1.3,marsh type 1,latent,yes
+14,Male,no,None,inflammatory,yes,DSS,yes,no,9,12,1.7,none,none,no
+31,Female,Yes,Type 1,fatty ,yes,PSS,yes,yes,1,8,1.8,marsh type 1,silent,yes
+10,Male,Yes,Type 1,fatty ,no,PSS,yes,yes,2.1,8,1.1,marsh type 3b,silent,yes
+32,Female,Yes,Type 1,inflammatory,no,Variant ,yes,yes,1,12,0.9,marsh type 3c,atypical,yes
+35,Female,Yes,Type 1,watery,yes,Variant ,yes,yes,2,12.3,0.98,marsh type 1,silent,yes
+29,Male,Yes,Type 1,inflammatory,no,PSS,yes,yes,1.4,12,1.1,marsh type 3b,typical,yes
+29,Female,Yes,Type 1,inflammatory,no,PSS,yes,yes,0.34,9,0.6,marsh type 0,potential,yes
+7,Male,no,None,watery,yes,DSS,yes,yes,2.1,9.5,2.1,marsh type 3b,typical,yes
+11,Male,Yes,Type 1,fatty ,yes,Variant ,yes,yes,1.9,12.1,1.1,marsh type 3a,atypical,yes
+11,Male,Yes,Type 1,watery,no,Variant ,yes,yes,2.4,11,0.77,marsh type 3c,silent,yes
+9,Female,Yes,Type 1,inflammatory,yes,DSS,yes,yes,2.1,10,0.6,marsh type 1,potential,yes
+16,Male,Yes,Type 1,fatty ,yes,DSS,yes,yes,1.6,11,1.6,marsh type 2,typical,yes
+20,Female,Yes,Type 1,fatty ,no,Variant ,yes,yes,1.5,12,1.6,marsh type 3a,atypical,yes
+16,Male,Yes,Type 1,fatty ,no,PSS,yes,yes,2.1,9,0.8,marsh type 2,typical,yes
+8,Male,Yes,Type 1,fatty ,no,Variant ,no,no,1,10.5,1.1,marsh type 0,silent,yes
+7,Female,Yes,Type 1,watery,yes,Variant ,yes,yes,1.1,9.5,1,marsh type 3b,silent,yes
+8,Male,Yes,Type 1,fatty ,yes,Variant ,yes,yes,2.1,11.4,1,marsh type 3a,atypical,yes
+6,Female,Yes,Type 1,watery,yes,PSS,yes,yes,0.8,12,0.98,marsh type 3c,silent,yes
+7,Female,Yes,Type 1,watery,yes,PSS,yes,yes,1.5,8,1.1,marsh type 1,potential,yes
+5,Male,Yes,Type 1,inflammatory,yes,Variant ,yes,yes,0.42,11.5,1,marsh type 3c,atypical,yes
+8,Female,Yes,Type 1,watery,yes,Variant ,yes,yes,0.56,11,1,marsh type 2,typical,yes
+8,Male,no,None,watery,no,DSS,no,no,1.5,7,1.2,none,none,no
+7,Male,Yes,Type 1,fatty ,yes,PSS,no,no,0.51,13.4,0.91,marsh type 0,silent,yes
+8,Female,Yes,Type 1,watery,yes,PSS,no,no,1.7,12,1,marsh type 3b,atypical,yes
+9,Male,Yes,Type 1,fatty ,yes,Variant ,yes,yes,1.1,8,1.5,marsh type 1,potential,yes
+21,Female,Yes,Type 1,watery,yes,PSS,yes,yes,1.3,12,0.7,marsh type 3c,atypical,yes
+25,Male,Yes,Type 2,inflammatory,yes,PSS,yes,yes,1.1,8.1,1.8,marsh type 3c,atypical,yes
+31,Male,Yes,Type 2,fatty ,yes,PSS,yes,yes,0.6,12,0.8,marsh type 1,silent,yes
+28,Male,Yes,Type 2,fatty ,yes,Variant ,yes,yes,1,10.5,2,marsh type 3c,atypical,yes
+26,Female,Yes,Type 2,inflammatory,yes,Variant ,yes,yes,2,9,1,marsh type 2,typical,yes
+9,Female,Yes,Type 1,fatty ,yes,PSS,yes,yes,1.1,9.5,1,marsh type 3b,atypical,yes
+8,Male,Yes,Type 1,fatty ,yes,PSS,yes,yes,2.1,11.4,1,marsh type 1,silent,yes
+7,Female,Yes,Type 1,fatty ,yes,DSS,no,no,0.8,11,0.98,marsh type 3b,atypical,yes
+7,Female,Yes,Type 1,fatty ,yes,DSS,no,no,1.5,9,1.1,marsh type 2,typical,yes
+5,Male,no,None,inflammatory,yes,PSS,yes,no,1,9,1.4,marsh type 3c,atypical,no
+8,Female,no,None,watery,yes,Variant ,yes,yes,1.2,13.1,1.8,none,none,no
+6,Male,Yes,Type 1,watery,yes,Variant ,yes,yes,0.42,12,1,marsh type 3a,atypical,yes
+8,Female,Yes,Type 1,fatty ,yes,Variant ,yes,yes,0.56,12,1,marsh type 1,silent,yes
+18,Male,Yes,Type 1,fatty ,yes,Variant ,yes,yes,2.1,12.3,0.98,marsh type 3b,atypical,yes
+19,Male,Yes,Type 1,watery,yes,PSS,yes,no,1.4,12,1,marsh type 0,silent,yes
+8,Male,Yes,Type 1,watery,yes,PSS,yes,yes,0.34,10,0.6,marsh type 3a,atypical,yes
+9,Male,Yes,None,fatty ,yes,DSS,yes,yes,1.7,9.5,1,marsh type 3b,silent,yes
+16,Male,Yes,Type 1,inflammatory,yes,Variant ,yes,yes,2,14,1,marsh type 3a,silent,yes
+10,Male,Yes,Type 1,inflammatory,yes,PSS,yes,no,2.1,12,0.77,marsh type 1,silent,yes
+8,Male,Yes,Type 1,inflammatory,yes,PSS,yes,yes,1.9,9,0.6,marsh type 3a,atypical,yes
+19,Male,Yes,Type 1,watery,yes,PSS,yes,yes,1,12,2,marsh type 2,typical,yes
+28,Female,Yes,Type 1,fatty ,yes,Variant ,yes,no,1,11,1,marsh type 3b,atypical,yes
+23,Female,Yes,Type 1,fatty ,yes,PSS,yes,yes,1,7,0.9,marsh type 1,silent,yes
+9,Female,Yes,Type 1,fatty ,yes,PSS,yes,no,0.9,10.5,0.8,marsh type 3a,silent,yes
+8,Female,Yes,Type 1,watery,yes,Variant ,yes,yes,0.8,9.5,1.2,marsh type 2,typical,yes
+9,Male,Yes,Type 1,watery,yes,Variant ,yes,yes,1.6,11.4,0.91,marsh type 3a,atypical,yes
+7,Male,Yes,Type 1,inflammatory,yes,PSS,yes,yes,0.92,12,1,marsh type 0,potential,yes
+8,Male,Yes,Type 1,inflammatory,yes,PSS,yes,yes,1.66,8,2,marsh type 3b,atypical,yes
+6,Female,Yes,Type 1,fatty ,yes,Variant ,yes,yes,1,11.5,2,marsh type 3a,silent,yes
+6,Male,Yes,Type 1,fatty ,yes,Variant ,yes,yes,1,11,1.3,marsh type 2,typical,yes
+10,Male,Yes,Type 1,inflammatory,no,DSS,yes,no,2.3,7,2.1,marsh type 3b,atypical,yes
+3,Male,Yes,Type 1,watery,yes,Variant ,yes,yes,1,9,1.4,marsh type 1,potential,yes
+7,Male,no,None,watery,no,Variant ,no,no,1,9.4,1.6,none,none,no
+9,Female,no,None,inflammatory,no,DSS,no,no,1.2,9,1,none,none,no
+10,Female,no,None,fatty ,no,DSS,no,no,1.3,8,1,none,none,no
+6,Female,Yes,Type 1,fatty ,yes,Variant ,yes,yes,1,11.5,2,marsh type 3a,silent,yes
+6,Male,Yes,Type 1,inflammatory,yes,Variant ,yes,yes,1,11,1.3,marsh type 2,typical,yes
+10,Male,Yes,Type 1,inflammatory,no,DSS,yes,no,2.3,7,2.1,marsh type 3b,atypical,yes
+3,Male,Yes,Type 1,fatty ,yes,Variant ,yes,yes,1,9,1.4,marsh type 1,potential,yes
+7,Male,no,None,fatty ,no,Variant ,no,no,1,9.4,1.6,none,none,no
+9,Female,no,None,inflammatory,no,DSS,no,no,1.2,9,1,none,none,no
+10,Female,no,None,inflammatory,no,DSS,no,no,1.3,8,1,none,none,no
+6,Male,Yes,Type 1,fatty ,yes,PSS,yes,yes,0.51,13.4,0.91,marsh type 2,typical,yes
+10,Male,Yes,Type 1,watery,yes,Variant ,yes,yes,1.8,13,0.8,marsh type 3b,atypical,yes
+9,Female,Yes,Type 1,watery,yes,PSS,yes,yes,1.3,9,1.1,marsh type 1,latent,yes
+3,Male,Yes,Type 1,inflammatory,yes,PSS,yes,no,1.1,7,0.6,marsh type 2,typical,yes
+11,Female,Yes,Type 1,fatty ,yes,PSS,yes,no,1.4,12,1.1,marsh type 3b,typical,yes
+15,Male,Yes,Type 1,fatty ,yes,PSS,yes,no,0.34,10,0.6,marsh type 0,potential,yes
+7,Female,no,None,inflammatory,yes,DSS,yes,yes,2.1,8.5,2.1,marsh type 3b,typical,yes
+12,Female,Yes,Type 1,watery,yes,Variant ,yes,yes,1.9,11.1,1.1,marsh type 3a,atypical,yes
+12,Female,Yes,Type 1,watery,yes,PSS,yes,yes,2,11,1,marsh type 3c,atypical,yes
+10,Female,Yes,None,inflammatory,yes,Variant ,yes,no,1.6,8.7,1.2,marsh type 1,latent,yes
+9,Female,Yes,Type 1,watery,no,Variant ,yes,yes,1.2,12,2.1,marsh type 0,latent,yes
+13,Male,Yes,Type 1,watery,yes,PSS,yes,no,0.96,6,0.86,marsh type 0,latent,yes
+10,Female,Yes,Type 1,watery,no,PSS,no,yes,1.1,9,2,marsh type 1,latent,yes
+13,Female,Yes,Type 1,inflammatory,yes,Variant ,yes,yes,0.9,8,1,marsh type 0,latent,yes
+12,Male,no,None,inflammatory,no,Variant ,yes,yes,0.6,12,1,none,none,no
+14,Female,no,None,inflammatory,yes,DSS,yes,yes,1.9,11,1.1,none,none,no
+18,Female,Yes,Type 1,fatty ,no,PSS,yes,yes,1.2,9,2.3,marsh type 3b,atypical,yes
+21,Female,Yes,Type 1,watery,yes,Variant ,yes,no,1.1,8.7,1.3,marsh type 1,latent,yes
+14,Male,no,None,inflammatory,yes,DSS,yes,no,9,12,1.7,none,none,no
+17,Male,Yes,Type 1,inflammatory,yes,Variant ,yes,yes,1,11.3,1.1,marsh type 3b,silent,yes
+11,Female,Yes,Type 1,inflammatory,no,DSS,yes,no,0.9,9,1,marsh type 0,latent,yes
+15,Male,Yes,Type 1,watery,yes,DSS,no,yes,0.9,10,1.2,marsh type 3c,typical,yes
+10,Female,Yes,Type 1,fatty ,yes,PSS,yes,yes,1.1,6.1,1.1,marsh type 3b,silent,yes
+11,Female,Yes,Type 1,fatty ,yes,PSS,yes,yes,2.1,6.9,1.2,marsh type 1,silent,yes
+12,Male,Yes,Type 1,inflammatory,yes,Variant ,yes,yes,2,9,1.1,marsh type 3b,typical,yes
+12,Male,Yes,Type 1,inflammatory,yes,Variant ,yes,yes,0.97,9.1,1.77,marsh type 3a,atypical,yes
+7,Male,no,None,watery,no,Variant ,no,no,1,5,1.2,none,none,no
+9,Male,no,None,watery,no,Variant ,no,no,2,5,1.8,none,none,no
+31,Female,Yes,Type 1,fatty ,yes,PSS,yes,yes,1,8,1.8,marsh type 1,silent,yes
+10,Male,Yes,Type 1,fatty ,yes,PSS,yes,yes,2.1,8,1.1,marsh type 3b,silent,yes
+32,Female,Yes,Type 1,fatty ,yes,Variant ,yes,yes,1,12,0.9,marsh type 3c,atypical,yes
+35,Female,Yes,Type 1,inflammatory,yes,Variant ,yes,yes,2,12.3,0.98,marsh type 1,silent,yes
+29,Male,Yes,Type 1,fatty ,yes,PSS,yes,yes,1.4,12,1.1,marsh type 3b,typical,yes
+29,Female,Yes,Type 1,fatty ,yes,PSS,yes,yes,0.34,9,0.6,marsh type 0,potential,yes
+7,Male,Yes,Type 1,inflammatory,yes,PSS,yes,yes,0.92,12,1,marsh type 0,potential,yes
+8,Male,Yes,Type 1,inflammatory,yes,PSS,yes,yes,1.66,8,2,marsh type 3b,atypical,yes
+6,Female,Yes,Type 1,watery,yes,Variant ,yes,yes,1,11.5,2,marsh type 3a,silent,yes
+6,Male,Yes,Type 1,fatty ,yes,Variant ,yes,yes,1,11,1.3,marsh type 2,typical,yes
+10,Male,Yes,Type 1,fatty ,no,DSS,yes,no,2.3,7,2.1,marsh type 3b,atypical,yes
+3,Male,Yes,Type 1,fatty ,yes,Variant ,yes,yes,1,9,1.4,marsh type 1,potential,yes
+7,Male,no,None,watery,no,Variant ,no,no,1,9.4,1.6,none,none,no
+9,Female,no,None,fatty ,no,DSS,no,no,1.2,9,1,none,none,no
+10,Female,no,None,fatty ,no,DSS,no,no,1.3,8,1,none,none,no
+6,Male,Yes,Type 1,watery,yes,PSS,yes,yes,0.51,13.4,0.91,marsh type 2,typical,yes
+10,Male,Yes,Type 1,inflammatory,yes,Variant ,yes,yes,1.8,13,0.8,marsh type 3b,atypical,yes
+9,Female,Yes,Type 1,fatty ,yes,PSS,yes,yes,1.3,9,1.1,marsh type 1,latent,yes
+3,Male,Yes,Type 1,watery,yes,PSS,yes,no,1.1,7,0.6,marsh type 2,typical,yes
+11,Female,Yes,Type 1,fatty ,yes,PSS,yes,no,1.4,12,1.1,marsh type 3b,typical,yes
+15,Male,Yes,Type 1,fatty ,yes,PSS,yes,no,0.34,10,0.6,marsh type 0,potential,yes
+7,Female,no,None,watery,yes,DSS,yes,yes,2.1,8.5,2.1,marsh type 3b,typical,yes
+12,Female,Yes,Type 1,fatty ,yes,Variant ,yes,yes,1.9,11.1,1.1,marsh type 3a,atypical,yes
+12,Female,Yes,Type 1,watery,yes,PSS,yes,yes,2,11,1,marsh type 3c,atypical,yes
+10,Female,Yes,None,watery,yes,Variant ,yes,no,1.6,8.7,1.2,marsh type 1,latent,yes
+9,Female,Yes,Type 1,fatty ,no,Variant ,yes,yes,1.2,12,2.1,marsh type 0,latent,yes
+13,Male,Yes,Type 1,fatty ,yes,PSS,yes,no,0.96,6,0.86,marsh type 0,latent,yes
+10,Female,Yes,Type 1,fatty ,no,PSS,no,yes,1.1,9,2,marsh type 1,latent,yes
+13,Female,Yes,Type 1,inflammatory,yes,Variant ,yes,yes,0.9,8,1,marsh type 0,latent,yes
+12,Male,no,None,inflammatory,no,Variant ,yes,yes,0.6,12,1,none,none,no
+14,Female,no,None,inflammatory,yes,DSS,yes,yes,1.9,11,1.1,none,none,no
+18,Female,Yes,Type 1,watery,no,PSS,yes,yes,1.2,9,2.3,marsh type 3b,atypical,yes
+21,Female,Yes,Type 1,fatty ,yes,Variant ,yes,no,1.1,8.7,1.3,marsh type 1,latent,yes
+14,Male,no,None,inflammatory,yes,DSS,yes,no,9,12,1.7,none,none,no
+17,Male,Yes,Type 1,watery,yes,Variant ,yes,yes,1,11.3,1.1,marsh type 3b,silent,yes
+8,Female,Yes,Type 1,watery,yes,Variant ,yes,yes,0.8,9.5,1.2,marsh type 2,typical,yes
+9,Male,Yes,Type 1,watery,yes,Variant ,yes,yes,1.6,11.4,0.91,marsh type 3a,atypical,yes
+7,Male,Yes,Type 1,fatty ,yes,PSS,yes,yes,0.92,12,1,marsh type 0,potential,yes
+8,Male,Yes,Type 1,fatty ,yes,PSS,yes,yes,1.66,8,2,marsh type 3b,atypical,yes
+6,Female,Yes,Type 1,fatty ,yes,Variant ,yes,yes,1,11.5,2,marsh type 3a,silent,yes
+6,Male,Yes,Type 1,inflammatory,yes,Variant ,yes,yes,1,11,1.3,marsh type 2,typical,yes
+10,Male,Yes,Type 1,inflammatory,no,DSS,yes,no,2.3,7,2.1,marsh type 3b,atypical,yes
+3,Male,Yes,Type 1,watery,yes,Variant ,yes,yes,1,9,1.4,marsh type 1,potential,yes
+7,Male,no,None,fatty ,no,Variant ,no,no,1,9.4,1.6,none,none,no
+9,Female,no,None,inflammatory,no,DSS,no,no,1.2,9,1,none,none,no
+10,Female,no,None,inflammatory,no,DSS,no,no,1.3,8,1,none,none,no
+6,Male,Yes,Type 1,fatty ,yes,PSS,yes,yes,0.51,13.4,0.91,marsh type 2,typical,yes
+10,Male,Yes,Type 1,watery,yes,Variant ,yes,yes,1.8,13,0.8,marsh type 3b,atypical,yes
+9,Female,Yes,Type 1,fatty ,yes,PSS,yes,yes,1.3,9,1.1,marsh type 1,latent,yes
+3,Male,Yes,Type 1,watery,yes,PSS,yes,no,1.1,7,0.6,marsh type 2,typical,yes
+11,Female,Yes,Type 1,fatty ,yes,PSS,yes,no,1.4,12,1.1,marsh type 3b,typical,yes
+15,Male,Yes,Type 1,inflammatory,yes,PSS,yes,no,0.34,10,0.6,marsh type 0,potential,yes
+7,Female,no,None,watery,yes,DSS,yes,yes,2.1,8.5,2.1,marsh type 3b,typical,yes
+12,Female,Yes,Type 1,fatty ,yes,Variant ,yes,yes,1.9,11.1,1.1,marsh type 3a,atypical,yes
+7,Female,Yes,Type 2,fatty ,yes,PSS,no,no,0.51,13.4,0.91,marsh type 0,silent,yes
+8,Male,no,None,watery,yes,PSS,no,no,1.7,12,1,marsh type 0,potential,yes
+9,Female,Yes,Type 2,fatty ,yes,Variant ,yes,yes,1.1,8,1.5,marsh type 1,potential,yes
+21,Male,Yes,Type 1,watery,yes,PSS,yes,yes,1.3,12,0.7,marsh type 3c,atypical,yes
+31,Male,Yes,Type 1,fatty ,yes,Variant ,yes,yes,2.6,14.2,2,marsh type 3b,atypical,yes
+11,Female,Yes,Type 1,watery,yes,PSS,yes,yes,1,12,1.5,marsh type 1,latent,yes
+12,Female,Yes,Type 1,inflammatory,yes,PSS,yes,yes,2,11,1,marsh type 3c,atypical,yes
+10,Female,Yes,None,inflammatory,yes,Variant ,yes,no,1.6,8.7,1.2,marsh type 1,latent,yes
+9,Female,Yes,Type 1,fatty ,no,Variant ,yes,yes,1.2,12,2.1,marsh type 0,latent,yes
+13,Male,Yes,Type 1,watery,yes,PSS,yes,no,0.96,6,0.86,marsh type 0,latent,yes
+10,Female,Yes,Type 1,fatty ,no,PSS,no,yes,1.1,9,2,marsh type 1,latent,yes
+13,Female,Yes,Type 1,fatty ,yes,Variant ,yes,yes,0.9,8,1,marsh type 0,latent,yes
+12,Male,no,None,watery,no,Variant ,yes,yes,0.6,12,1,none,none,no
+14,Female,no,None,inflammatory,yes,DSS,yes,yes,1.9,11,1.1,none,none,no
+18,Female,Yes,Type 1,inflammatory,no,PSS,yes,yes,1.2,9,2.3,marsh type 3b,atypical,yes
+21,Female,Yes,Type 1,fatty ,yes,Variant ,yes,no,1.1,8.7,1.3,marsh type 1,latent,yes
+14,Male,no,None,inflammatory,yes,DSS,yes,no,9,12,1.7,none,none,no
+31,Female,Yes,Type 1,fatty ,yes,PSS,yes,yes,1,8,1.8,marsh type 1,silent,yes
+9,Female,Yes,Type 1,fatty ,yes,PSS,yes,no,0.9,10.5,0.8,marsh type 3a,silent,yes
+8,Female,Yes,Type 1,watery,yes,Variant ,yes,yes,0.8,9.5,1.2,marsh type 2,typical,yes
+9,Male,Yes,Type 1,watery,yes,Variant ,yes,yes,1.6,11.4,0.91,marsh type 3a,atypical,yes
+7,Male,Yes,Type 1,inflammatory,yes,PSS,yes,yes,0.92,12,1,marsh type 0,potential,yes
+8,Male,Yes,Type 1,inflammatory,yes,PSS,yes,yes,1.66,8,2,marsh type 3b,atypical,yes
+6,Female,Yes,Type 1,fatty ,yes,Variant ,yes,yes,1,11.5,2,marsh type 3a,silent,yes
+6,Male,Yes,Type 1,fatty ,yes,Variant ,yes,yes,1,11,1.3,marsh type 2,typical,yes
+10,Male,Yes,Type 1,inflammatory,no,DSS,yes,no,2.3,7,2.1,marsh type 3b,atypical,yes
+3,Male,Yes,Type 1,fatty ,yes,Variant ,yes,yes,1,9,1.4,marsh type 1,potential,yes
+7,Male,no,None,fatty ,no,Variant ,no,no,1,9.4,1.6,none,none,no
+9,Female,no,None,inflammatory,no,DSS,no,no,1.2,9,1,none,none,no
+10,Female,no,None,inflammatory,no,DSS,no,no,1.3,8,1,none,none,no
+6,Male,Yes,Type 1,fatty ,yes,PSS,yes,yes,0.51,13.4,0.91,marsh type 2,typical,yes
+10,Male,Yes,Type 1,watery,yes,Variant ,yes,yes,1.8,13,0.8,marsh type 3b,atypical,yes
+9,Female,Yes,Type 1,fatty ,yes,PSS,yes,yes,1.3,9,1.1,marsh type 1,latent,yes
+3,Male,Yes,Type 1,inflammatory,yes,PSS,yes,no,1.1,7,0.6,marsh type 2,typical,yes
+11,Female,Yes,Type 1,inflammatory,yes,PSS,yes,no,1.4,12,1.1,marsh type 3b,typical,yes
+15,Male,Yes,Type 1,watery,yes,PSS,yes,no,0.34,10,0.6,marsh type 0,potential,yes
+7,Female,no,None,watery,yes,DSS,yes,yes,2.1,8.5,2.1,marsh type 3b,typical,yes
+12,Female,Yes,Type 1,fatty ,yes,Variant ,yes,yes,1.9,11.1,1.1,marsh type 3a,atypical,yes
+7,Female,Yes,Type 2,fatty ,yes,PSS,no,no,0.51,13.4,0.91,marsh type 0,silent,yes
+8,Male,no,None,inflammatory,yes,PSS,no,no,1.7,12,1,marsh type 0,potential,yes
+9,Female,Yes,Type 2,inflammatory,yes,Variant ,yes,yes,1.1,8,1.5,marsh type 1,potential,yes
+21,Male,Yes,Type 1,watery,yes,PSS,yes,yes,1.3,12,0.7,marsh type 3c,atypical,yes
+31,Male,Yes,Type 1,fatty ,yes,Variant ,yes,yes,2.6,14.2,2,marsh type 3b,atypical,yes
+11,Female,Yes,Type 1,fatty ,yes,PSS,yes,yes,1,12,1.5,marsh type 1,latent,yes
+12,Female,Yes,Type 1,inflammatory,yes,PSS,yes,yes,2,11,1,marsh type 3c,atypical,yes
+10,Female,Yes,None,inflammatory,yes,Variant ,yes,no,1.6,8.7,1.2,marsh type 1,latent,yes
+9,Female,Yes,Type 1,fatty ,no,Variant ,yes,yes,1.2,12,2.1,marsh type 0,latent,yes
+13,Male,Yes,Type 1,fatty ,yes,PSS,yes,no,0.96,6,0.86,marsh type 0,latent,yes
+10,Female,Yes,Type 1,fatty ,no,PSS,no,yes,1.1,9,2,marsh type 1,latent,yes
+13,Female,Yes,Type 1,watery,yes,Variant ,yes,yes,0.9,8,1,marsh type 0,latent,yes
+12,Male,no,None,inflammatory,no,Variant ,yes,yes,0.6,12,1,none,none,no
+14,Female,no,None,inflammatory,yes,DSS,yes,yes,1.9,11,1.1,none,none,no
+18,Female,Yes,Type 1,watery,no,PSS,yes,yes,1.2,9,2.3,marsh type 3b,atypical,yes
+21,Female,Yes,Type 1,fatty ,yes,Variant ,yes,no,1.1,8.7,1.3,marsh type 1,latent,yes
+14,Male,no,None,fatty ,yes,DSS,yes,no,9,12,1.7,none,none,no
+17,Male,Yes,Type 1,fatty ,yes,Variant ,yes,yes,1,11.3,1.1,marsh type 3b,silent,yes
+11,Female,Yes,Type 1,watery,no,DSS,yes,no,0.9,9,1,marsh type 0,latent,yes
+15,Male,Yes,Type 1,fatty ,yes,DSS,no,yes,0.9,10,1.2,marsh type 3c,typical,yes
+10,Female,Yes,Type 1,fatty ,yes,PSS,yes,yes,1.1,6.1,1.1,marsh type 3b,silent,yes
+11,Female,Yes,Type 1,watery,yes,PSS,yes,yes,2.1,6.9,1.2,marsh type 1,silent,yes
+12,Male,Yes,Type 1,inflammatory,yes,Variant ,yes,yes,2,9,1.1,marsh type 3b,typical,yes
+12,Male,Yes,Type 1,fatty ,yes,Variant ,yes,yes,0.97,9.1,1.77,marsh type 3a,atypical,yes
+7,Male,no,None,watery,no,Variant ,no,no,1,5,1.2,none,none,no
+9,Male,no,None,fatty ,no,Variant ,no,no,2,5,1.8,none,none,no
+31,Female,Yes,Type 1,fatty ,yes,PSS,yes,yes,1,8,1.8,marsh type 1,silent,yes
+10,Male,Yes,Type 1,watery,yes,PSS,yes,yes,2.1,8,1.1,marsh type 3b,silent,yes
+32,Female,Yes,Type 1,fatty ,yes,Variant ,yes,yes,1,12,0.9,marsh type 3c,atypical,yes
+35,Female,Yes,Type 1,watery,yes,Variant ,yes,yes,2,12.3,0.98,marsh type 1,silent,yes
+29,Male,Yes,Type 1,watery,yes,PSS,yes,yes,1.4,12,1.1,marsh type 3b,typical,yes
+29,Female,Yes,Type 1,fatty ,yes,PSS,yes,yes,0.34,9,0.6,marsh type 0,potential,yes
+7,Male,no,None,fatty ,yes,DSS,yes,yes,2.1,9.5,2.1,marsh type 3b,typical,yes
+11,Male,Yes,Type 1,fatty ,yes,Variant ,yes,yes,1.9,12.1,1.1,marsh type 3a,atypical,yes
+11,Male,Yes,Type 1,inflammatory,no,Variant ,yes,yes,2.4,11,0.77,marsh type 3c,silent,yes
+9,Female,Yes,Type 1,inflammatory,yes,DSS,yes,yes,2.1,10,0.6,marsh type 1,potential,yes
+16,Male,Yes,Type 1,inflammatory,yes,DSS,yes,yes,1.6,11,1.6,marsh type 2,typical,yes
+20,Female,Yes,Type 1,watery,no,Variant ,yes,yes,1.5,12,1.6,marsh type 3a,atypical,yes
+16,Male,Yes,Type 1,fatty ,no,PSS,yes,yes,2.1,9,0.8,marsh type 2,typical,yes
+8,Male,Yes,Type 1,inflammatory,yes,PSS,no,no,1,10.5,1.1,marsh type 0,silent,yes
+7,Female,Yes,Type 1,watery,yes,Variant ,yes,yes,1.1,9.5,1,marsh type 3b,silent,yes
+8,Male,Yes,Type 1,watery,yes,Variant ,yes,yes,2.1,11.4,1,marsh type 3a,atypical,yes
+6,Female,Yes,Type 1,watery,yes,PSS,yes,yes,0.8,12,0.98,marsh type 3c,silent,yes
+7,Female,Yes,Type 1,fatty ,yes,PSS,yes,yes,1.5,8,1.1,marsh type 1,potential,yes
+5,Male,Yes,Type 1,fatty ,yes,Variant ,yes,yes,0.42,11.5,1,marsh type 3c,atypical,yes
+8,Female,Yes,Type 1,fatty ,yes,Variant ,yes,yes,0.56,11,1,marsh type 2,typical,yes
+8,Male,no,None,inflammatory,no,DSS,no,no,1.5,7,1.2,none,none,no
+7,Male,Yes,Type 1,inflammatory,yes,PSS,no,no,0.51,13.4,0.91,marsh type 0,silent,yes
+8,Female,Yes,Type 1,watery,yes,PSS,no,no,1.7,12,1,marsh type 3b,atypical,yes
+9,Male,Yes,Type 1,fatty ,yes,Variant ,yes,yes,1.1,8,1.5,marsh type 1,potential,yes
+21,Female,Yes,Type 1,inflammatory,yes,PSS,yes,yes,1.3,12,0.7,marsh type 3c,atypical,yes
+25,Male,Yes,Type 2,inflammatory,yes,PSS,yes,yes,1.1,8.1,1.8,marsh type 3c,atypical,yes
+31,Male,Yes,Type 2,fatty ,yes,PSS,yes,yes,0.6,12,0.8,marsh type 1,silent,yes
+28,Male,Yes,Type 2,watery,yes,Variant ,yes,yes,1,10.5,2,marsh type 3c,atypical,yes
+26,Female,Yes,Type 2,fatty ,yes,Variant ,yes,yes,2,9,1,marsh type 2,typical,yes
+8,Male,Yes,Type 1,watery,yes,PSS,yes,yes,1.9,9,0.6,marsh type 3a,atypical,yes
+19,Male,Yes,Type 1,fatty ,yes,PSS,yes,yes,1,12,2,marsh type 2,typical,yes
+28,Female,Yes,Type 1,inflammatory,yes,Variant ,yes,no,1,11,1,marsh type 3b,atypical,yes
+23,Female,Yes,Type 1,watery,yes,PSS,yes,yes,1,7,0.9,marsh type 1,silent,yes
+9,Female,Yes,Type 1,fatty ,yes,PSS,yes,no,0.9,10.5,0.8,marsh type 3a,silent,yes
+8,Female,Yes,Type 1,fatty ,yes,Variant ,yes,yes,0.8,9.5,1.2,marsh type 2,typical,yes
+9,Male,Yes,Type 1,watery,yes,Variant ,yes,yes,1.6,11.4,0.91,marsh type 3a,atypical,yes
+7,Male,Yes,Type 1,fatty ,yes,PSS,yes,yes,0.92,12,1,marsh type 0,potential,yes
+8,Male,Yes,Type 1,watery,yes,PSS,yes,yes,1.66,8,2,marsh type 3b,atypical,yes
+6,Female,Yes,Type 1,fatty ,yes,Variant ,yes,yes,1,11.5,2,marsh type 3a,silent,yes
+6,Male,Yes,Type 1,watery,yes,Variant ,yes,yes,1,11,1.3,marsh type 2,typical,yes
+10,Male,Yes,Type 1,inflammatory,no,DSS,yes,no,2.3,7,2.1,marsh type 3b,atypical,yes
+3,Male,Yes,Type 1,inflammatory,yes,Variant ,yes,yes,1,9,1.4,marsh type 1,potential,yes
+7,Male,no,None,fatty ,no,Variant ,no,no,1,9.4,1.6,none,none,no
+9,Female,no,None,watery,no,DSS,no,no,1.2,9,1,none,none,no
+10,Female,no,None,fatty ,no,DSS,no,no,1.3,8,1,none,none,no
+6,Male,Yes,Type 1,fatty ,yes,PSS,yes,yes,0.51,13.4,0.91,marsh type 2,typical,yes
+10,Male,Yes,Type 1,watery,yes,Variant ,yes,yes,1.8,13,0.8,marsh type 3b,atypical,yes
+9,Female,Yes,Type 1,inflammatory,yes,PSS,yes,yes,1.3,9,1.1,marsh type 1,latent,yes
+3,Male,Yes,Type 1,inflammatory,yes,PSS,yes,no,1.1,7,0.6,marsh type 2,typical,yes
+11,Female,Yes,Type 1,fatty ,yes,PSS,yes,no,1.4,12,1.1,marsh type 3b,typical,yes
+15,Male,Yes,Type 1,inflammatory,yes,PSS,yes,no,0.34,10,0.6,marsh type 0,potential,yes
+7,Female,no,None,fatty ,yes,DSS,yes,yes,2.1,8.5,2.1,marsh type 3b,typical,yes
+12,Female,Yes,Type 1,fatty ,yes,Variant ,yes,yes,1.9,11.1,1.1,marsh type 3a,atypical,yes
+7,Female,Yes,Type 2,watery,yes,PSS,no,no,0.51,13.4,0.91,marsh type 0,silent,yes
+8,Male,no,None,watery,yes,PSS,no,no,1.7,12,1,marsh type 0,potential,yes
+9,Female,Yes,Type 2,inflammatory,yes,Variant ,yes,yes,1.1,8,1.5,marsh type 1,potential,yes
+21,Male,Yes,Type 1,inflammatory,yes,PSS,yes,yes,1.3,12,0.7,marsh type 3c,atypical,yes
+31,Male,Yes,Type 1,fatty ,yes,Variant ,yes,yes,2.6,14.2,2,marsh type 3b,atypical,yes
+11,Female,Yes,Type 1,fatty ,yes,PSS,yes,yes,1,12,1.5,marsh type 1,latent,yes
+12,Female,Yes,Type 1,inflammatory,yes,PSS,yes,yes,2,11,1,marsh type 3c,atypical,yes
+10,Female,Yes,None,fatty ,yes,Variant ,yes,no,1.6,8.7,1.2,marsh type 1,latent,yes
+9,Female,Yes,Type 1,fatty ,no,Variant ,yes,yes,1.2,12,2.1,marsh type 0,latent,yes
+13,Male,Yes,Type 1,inflammatory,yes,PSS,yes,no,0.96,6,0.86,marsh type 0,latent,yes
+10,Female,Yes,Type 1,inflammatory,no,PSS,no,yes,1.1,9,2,marsh type 1,latent,yes
+13,Female,Yes,Type 1,fatty ,yes,Variant ,yes,yes,0.9,8,1,marsh type 0,latent,yes
+12,Male,no,None,watery,no,Variant ,yes,yes,0.6,12,1,none,none,no
+14,Female,no,None,fatty ,yes,DSS,yes,yes,1.9,11,1.1,none,none,no
+18,Female,Yes,Type 1,inflammatory,no,PSS,yes,yes,1.2,9,2.3,marsh type 3b,atypical,yes
+21,Female,Yes,Type 1,inflammatory,yes,Variant ,yes,no,1.1,8.7,1.3,marsh type 1,latent,yes
+14,Male,no,None,watery,yes,DSS,yes,no,9,12,1.7,none,none,no
+31,Female,Yes,Type 1,watery,yes,PSS,yes,yes,1,8,1.8,marsh type 1,silent,yes
+10,Male,Yes,Type 1,fatty ,yes,PSS,yes,yes,2.1,8,1.1,marsh type 3b,silent,yes
+32,Female,Yes,Type 1,fatty ,yes,Variant ,yes,yes,1,12,0.9,marsh type 3c,atypical,yes
+35,Female,Yes,Type 1,inflammatory,yes,Variant ,yes,yes,2,12.3,0.98,marsh type 1,silent,yes
+29,Male,Yes,Type 1,inflammatory,yes,PSS,yes,yes,1.4,12,1.1,marsh type 3b,typical,yes
+29,Female,Yes,Type 1,watery,yes,PSS,yes,yes,0.34,9,0.6,marsh type 0,potential,yes
+7,Male,no,None,fatty ,yes,DSS,yes,yes,2.1,9.5,2.1,marsh type 3b,typical,yes
+11,Male,Yes,Type 1,fatty ,yes,Variant ,yes,yes,1.9,12.1,1.1,marsh type 3a,atypical,yes
+11,Male,Yes,Type 1,inflammatory,no,Variant ,yes,yes,2.4,11,0.77,marsh type 3c,silent,yes
+9,Female,Yes,Type 1,inflammatory,yes,DSS,yes,yes,2.1,10,0.6,marsh type 1,potential,yes
+16,Male,Yes,Type 1,fatty ,yes,DSS,yes,yes,1.6,11,1.6,marsh type 2,typical,yes
+20,Female,Yes,Type 1,fatty ,no,Variant ,yes,yes,1.5,12,1.6,marsh type 3a,atypical,yes
+16,Male,Yes,Type 1,fatty ,no,PSS,yes,yes,2.1,9,0.8,marsh type 2,typical,yes
+8,Male,Yes,Type 1,watery,yes,PSS,no,no,1,10.5,1.1,marsh type 0,silent,yes
+7,Female,Yes,Type 1,inflammatory,yes,Variant ,yes,yes,1.1,9.5,1,marsh type 3b,silent,yes
+8,Male,Yes,Type 1,fatty ,yes,Variant ,yes,yes,2.1,11.4,1,marsh type 3a,atypical,yes
+6,Female,Yes,Type 1,inflammatory,yes,PSS,yes,yes,0.8,12,0.98,marsh type 3c,silent,yes
+7,Female,Yes,Type 1,inflammatory,yes,PSS,yes,yes,1.5,8,1.1,marsh type 1,potential,yes
+5,Male,Yes,Type 1,watery,yes,Variant ,yes,yes,0.42,11.5,1,marsh type 3c,atypical,yes
+8,Female,Yes,Type 1,watery,yes,Variant ,yes,yes,0.56,11,1,marsh type 2,typical,yes
+8,Male,no,None,inflammatory,no,DSS,no,no,1.5,7,1.2,none,none,no
+7,Male,Yes,Type 1,fatty ,yes,PSS,no,no,0.51,13.4,0.91,marsh type 0,silent,yes
+8,Female,Yes,Type 1,inflammatory,yes,PSS,no,no,1.7,12,1,marsh type 3b,atypical,yes
+9,Male,Yes,Type 1,inflammatory,yes,Variant ,yes,yes,1.1,8,1.5,marsh type 1,potential,yes
+21,Female,Yes,Type 1,watery,yes,PSS,yes,yes,1.3,12,0.7,marsh type 3c,atypical,yes
+25,Male,Yes,Type 2,watery,yes,PSS,yes,yes,1.1,8.1,1.8,marsh type 3c,atypical,yes
+31,Male,Yes,Type 2,inflammatory,yes,PSS,yes,yes,0.6,12,0.8,marsh type 1,silent,yes
+28,Male,Yes,Type 2,inflammatory,yes,Variant ,yes,yes,1,10.5,2,marsh type 3c,atypical,yes
+26,Female,Yes,Type 2,fatty ,yes,Variant ,yes,yes,2,9,1,marsh type 2,typical,yes
+9,Female,Yes,Type 1,fatty ,yes,PSS,yes,yes,1.1,9.5,1,marsh type 3b,atypical,yes
+8,Male,Yes,Type 1,inflammatory,yes,PSS,yes,yes,2.1,11.4,1,marsh type 1,silent,yes
+7,Female,Yes,Type 1,inflammatory,yes,DSS,no,no,0.8,11,0.98,marsh type 3b,atypical,yes
+7,Female,Yes,Type 1,inflammatory,yes,DSS,no,no,1.5,9,1.1,marsh type 2,typical,yes
+5,Male,no,None,fatty ,yes,PSS,yes,no,1,9,1.4,marsh type 3c,atypical,no
+8,Female,no,None,fatty ,yes,Variant ,yes,yes,1.2,13.1,1.8,none,none,no
+6,Male,Yes,Type 1,watery,yes,Variant ,yes,yes,0.42,12,1,marsh type 3a,atypical,yes
+8,Female,Yes,Type 1,watery,yes,Variant ,yes,yes,0.56,12,1,marsh type 1,silent,yes
+18,Male,Yes,Type 1,inflammatory,yes,Variant ,yes,yes,2.1,12.3,0.98,marsh type 3b,atypical,yes
+19,Male,Yes,Type 1,fatty ,yes,PSS,yes,no,1.4,12,1,marsh type 0,silent,yes
+8,Male,Yes,Type 1,fatty ,yes,PSS,yes,yes,0.34,10,0.6,marsh type 3a,atypical,yes
+9,Male,Yes,None,inflammatory,yes,DSS,yes,yes,1.7,9.5,1,marsh type 3b,silent,yes
+16,Male,Yes,Type 1,inflammatory,yes,Variant ,yes,yes,2,14,1,marsh type 3a,silent,yes
+10,Male,Yes,Type 1,watery,yes,PSS,yes,no,2.1,12,0.77,marsh type 1,silent,yes
+8,Male,Yes,Type 1,watery,yes,PSS,yes,yes,1.9,9,0.6,marsh type 3a,atypical,yes
+19,Male,Yes,Type 1,inflammatory,yes,PSS,yes,yes,1,12,2,marsh type 2,typical,yes
+28,Female,Yes,Type 1,fatty ,yes,Variant ,yes,no,1,11,1,marsh type 3b,atypical,yes
+23,Female,Yes,Type 1,inflammatory,yes,PSS,yes,yes,1,7,0.9,marsh type 1,silent,yes
+9,Female,Yes,Type 1,fatty ,yes,PSS,yes,no,0.9,10.5,0.8,marsh type 3a,silent,yes
+8,Female,Yes,Type 1,watery,yes,Variant ,yes,yes,0.8,9.5,1.2,marsh type 2,typical,no
+9,Male,Yes,Type 1,fatty ,yes,Variant ,yes,yes,1.6,11.4,0.91,marsh type 3a,atypical,yes
+7,Male,Yes,Type 1,inflammatory,yes,PSS,yes,yes,0.92,12,1,none,none,no
+8,Male,Yes,Type 1,inflammatory,yes,PSS,yes,yes,1.66,8,2,marsh type 3b,atypical,yes
+6,Female,Yes,Type 1,fatty ,yes,Variant ,yes,yes,1,11.5,2,marsh type 3a,silent,yes
+6,Male,Yes,Type 1,fatty ,yes,Variant ,yes,yes,1,11,1.3,none,none,no
+10,Male,Yes,Type 1,inflammatory,no,DSS,yes,no,2.3,7,2.1,marsh type 3b,atypical,yes
+3,Male,Yes,Type 1,fatty ,yes,Variant ,yes,yes,1,9,1.4,marsh type 1,potential,yes
+7,Male,no,None,fatty ,no,Variant ,no,no,1,9.4,1.6,none,none,no
+9,Female,no,None,inflammatory,no,DSS,no,no,1.2,9,1,none,none,no
+10,Female,no,None,inflammatory,no,DSS,no,no,1.3,8,1,none,none,no
+6,Male,Yes,Type 1,fatty ,yes,PSS,yes,yes,0.51,13.4,0.91,marsh type 2,typical,yes
+10,Male,Yes,Type 1,watery,yes,Variant ,yes,yes,1.8,13,0.8,marsh type 3b,atypical,yes
+9,Female,Yes,Type 1,watery,yes,PSS,yes,yes,1.3,9,1.1,marsh type 1,latent,no
+3,Male,Yes,Type 1,watery,yes,PSS,yes,no,1.1,7,0.6,marsh type 2,typical,yes
+11,Female,Yes,Type 1,fatty ,yes,PSS,yes,no,1.4,12,1.1,none,none,no
+15,Male,Yes,Type 1,fatty ,yes,PSS,yes,no,0.34,10,0.6,marsh type 0,potential,yes
+7,Female,no,None,inflammatory,yes,DSS,yes,yes,2.1,8.5,2.1,none,none,no
+12,Female,Yes,Type 1,watery,yes,Variant ,yes,yes,1.9,11.1,1.1,none,none,no
+14,Female,no,None,watery,yes,DSS,yes,yes,1.9,11,1.1,none,none,no
+18,Female,Yes,Type 1,inflammatory,no,PSS,yes,yes,1.2,9,2.3,marsh type 3b,atypical,yes
+21,Female,Yes,Type 1,watery,yes,Variant ,yes,no,1.1,8.7,1.3,marsh type 1,latent,yes
+14,Male,no,None,inflammatory,yes,DSS,yes,no,9,12,1.7,none,none,no
+17,Male,Yes,Type 1,inflammatory,yes,Variant ,yes,yes,1,11.3,1.1,none,none,no
+11,Female,Yes,Type 1,watery,no,DSS,yes,no,0.9,9,1,marsh type 0,latent,yes
+15,Male,Yes,Type 1,watery,yes,DSS,no,yes,0.9,10,1.2,marsh type 3c,typical,yes
+10,Female,Yes,Type 1,fatty ,yes,PSS,yes,yes,1.1,6.1,1.1,marsh type 3b,silent,yes
+11,Female,Yes,Type 1,fatty ,yes,PSS,yes,yes,2.1,6.9,1.2,marsh type 1,silent,yes
+12,Male,Yes,Type 1,watery,yes,Variant ,yes,yes,2,9,1.1,marsh type 3b,typical,yes
+12,Male,Yes,Type 1,watery,yes,Variant ,yes,yes,0.97,9.1,1.77,marsh type 3a,atypical,yes
+7,Male,no,None,fatty ,no,Variant ,no,no,1,5,1.2,none,none,no
+9,Male,no,None,watery,no,Variant ,no,no,2,5,1.8,none,none,no
+31,Female,Yes,Type 1,fatty ,yes,PSS,yes,yes,1,8,1.8,marsh type 1,silent,yes
+10,Male,Yes,Type 1,fatty ,yes,PSS,yes,yes,2.1,8,1.1,marsh type 3b,silent,yes
+32,Female,Yes,Type 1,watery,yes,Variant ,yes,yes,1,12,0.9,marsh type 3c,atypical,yes
+35,Female,Yes,Type 1,watery,yes,Variant ,yes,yes,2,12.3,0.98,marsh type 1,silent,yes
+29,Male,Yes,Type 1,fatty ,yes,PSS,yes,yes,1.4,12,1.1,marsh type 3b,typical,yes
+29,Female,Yes,Type 1,inflammatory,yes,PSS,yes,yes,0.34,9,0.6,marsh type 0,potential,yes
+7,Male,no,None,inflammatory,yes,DSS,yes,yes,2.1,9.5,2.1,marsh type 3b,typical,yes
+11,Male,Yes,Type 1,fatty ,yes,Variant ,yes,yes,1.9,12.1,1.1,marsh type 3a,atypical,yes
+11,Male,Yes,Type 1,fatty ,no,Variant ,yes,yes,2.4,11,0.77,marsh type 3c,silent,yes
+9,Female,Yes,Type 1,fatty ,yes,DSS,yes,yes,2.1,10,0.6,marsh type 1,potential,yes
+16,Male,Yes,Type 1,fatty ,yes,DSS,yes,yes,1.6,11,1.6,marsh type 2,typical,yes
+20,Female,Yes,Type 1,inflammatory,no,Variant ,yes,yes,1.5,12,1.6,marsh type 3a,atypical,yes
+16,Male,Yes,Type 1,fatty ,no,PSS,yes,yes,2.1,9,0.8,marsh type 2,typical,yes
+8,Male,Yes,Type 1,inflammatory,yes,PSS,no,no,1,10.5,1.1,marsh type 0,silent,yes
+7,Female,Yes,Type 1,inflammatory,yes,Variant ,yes,yes,1.1,9.5,1,none,none,no
+8,Male,Yes,Type 1,fatty ,yes,Variant ,yes,yes,2.1,11.4,1,marsh type 3a,atypical,yes
+6,Female,Yes,Type 1,watery,yes,PSS,yes,yes,0.8,12,0.98,marsh type 3c,silent,yes
+7,Female,Yes,Type 1,inflammatory,yes,PSS,yes,yes,1.5,8,1.1,marsh type 1,potential,yes
+5,Male,Yes,Type 1,fatty ,yes,Variant ,yes,yes,0.42,11.5,1,none,none,no
+8,Female,Yes,Type 1,inflammatory,yes,Variant ,yes,yes,0.56,11,1,marsh type 2,typical,yes
+8,Male,no,None,inflammatory,no,DSS,no,no,1.5,7,1.2,none,none,no
+7,Male,Yes,Type 1,fatty ,yes,PSS,no,no,0.51,13.4,0.91,marsh type 0,silent,yes
+8,Female,Yes,Type 1,watery,yes,PSS,no,no,1.7,12,1,marsh type 3b,atypical,yes
+9,Male,Yes,Type 1,inflammatory,yes,Variant ,yes,yes,1.1,8,1.5,marsh type 1,potential,yes
+21,Female,Yes,Type 1,inflammatory,yes,PSS,yes,yes,1.3,12,0.7,none,none,no
+25,Male,Yes,Type 2,watery,yes,PSS,yes,yes,1.1,8.1,1.8,marsh type 3c,atypical,yes
+31,Male,Yes,Type 2,inflammatory,yes,PSS,yes,yes,0.6,12,0.8,marsh type 1,silent,yes
+28,Male,Yes,Type 2,inflammatory,yes,Variant ,yes,yes,1,10.5,2,marsh type 3c,atypical,yes
+26,Female,Yes,Type 2,fatty ,yes,Variant ,yes,yes,2,9,1,none,none,no
+9,Female,Yes,Type 1,fatty ,yes,PSS,yes,yes,1.1,9.5,1,marsh type 3b,atypical,yes
+8,Male,Yes,Type 1,inflammatory,yes,PSS,yes,yes,2.1,11.4,1,none,none,no
+7,Female,Yes,Type 1,fatty ,yes,DSS,no,no,0.8,11,0.98,marsh type 3b,atypical,yes
+7,Female,Yes,Type 1,fatty ,yes,DSS,no,no,1.5,9,1.1,marsh type 2,typical,yes
+5,Male,no,None,inflammatory,yes,PSS,yes,no,1,9,1.4,none,none,no
+8,Female,no,None,fatty ,yes,Variant ,yes,yes,1.2,13.1,1.8,none,none,no
+6,Male,Yes,Type 1,watery,yes,Variant ,yes,yes,0.42,12,1,marsh type 3a,atypical,yes
+8,Female,Yes,Type 1,watery,yes,Variant ,yes,yes,0.56,12,1,marsh type 1,silent,yes
+18,Male,Yes,Type 1,fatty ,yes,Variant ,yes,yes,2.1,12.3,0.98,none,none,no
+19,Male,Yes,Type 1,fatty ,yes,PSS,yes,no,1.4,12,1,marsh type 0,silent,yes
+8,Male,Yes,Type 1,watery,yes,PSS,yes,yes,0.34,10,0.6,none,none,no
+9,Male,Yes,None,inflammatory,yes,DSS,yes,yes,1.7,9.5,1,marsh type 3b,silent,yes
+16,Male,Yes,Type 1,inflammatory,yes,Variant ,yes,yes,2,14,1,marsh type 3a,silent,yes
+10,Male,Yes,Type 1,watery,yes,PSS,yes,no,2.1,12,0.77,none,none,no
+8,Male,Yes,Type 1,inflammatory,yes,PSS,yes,yes,1.9,9,0.6,marsh type 3a,atypical,yes
+19,Male,Yes,Type 1,fatty ,yes,PSS,yes,yes,1,12,2,marsh type 2,typical,yes
+28,Female,Yes,Type 1,watery,yes,Variant ,yes,no,1,11,1,none,none,no
+23,Female,Yes,Type 1,inflammatory,yes,PSS,yes,yes,1,7,0.9,marsh type 1,silent,yes
+9,Female,Yes,Type 1,inflammatory,yes,PSS,yes,no,0.9,10.5,0.8,none,none,no
+8,Female,Yes,Type 1,watery,yes,Variant ,yes,yes,0.8,9.5,1.2,marsh type 2,typical,yes
+9,Male,Yes,Type 1,fatty ,yes,Variant ,yes,yes,1.6,11.4,0.91,none,none,no
+7,Male,Yes,Type 1,inflammatory,yes,PSS,yes,yes,0.92,12,1,marsh type 0,potential,yes
+8,Male,Yes,Type 1,fatty ,yes,PSS,yes,yes,1.66,8,2,none,none,no
+6,Female,Yes,Type 1,watery,yes,Variant ,yes,yes,1,11.5,2,marsh type 3a,silent,yes
+6,Male,Yes,Type 1,inflammatory,yes,Variant ,yes,yes,1,11,1.3,none,none,no
+10,Male,Yes,Type 1,fatty ,no,DSS,yes,no,2.3,7,2.1,marsh type 3b,atypical,yes
+3,Male,Yes,Type 1,watery,yes,Variant ,yes,yes,1,9,1.4,none,none,no
+7,Male,no,None,fatty ,no,Variant ,no,no,1,9.4,1.6,none,none,no
+9,Female,no,None,inflammatory,no,DSS,no,no,1.2,9,1,none,none,no
+10,Female,no,None,fatty ,no,DSS,no,no,1.3,8,1,none,none,no
+6,Male,Yes,Type 1,watery,yes,PSS,yes,yes,0.51,13.4,0.91,marsh type 2,typical,yes
+10,Male,Yes,Type 1,inflammatory,yes,Variant ,yes,yes,1.8,13,0.8,marsh type 3b,atypical,yes
+9,Female,Yes,Type 1,fatty ,yes,PSS,yes,yes,1.3,9,1.1,marsh type 1,latent,yes
+3,Male,Yes,Type 1,watery,yes,PSS,yes,no,1.1,7,0.6,marsh type 2,typical,yes
+11,Female,Yes,Type 1,inflammatory,yes,PSS,yes,no,1.4,12,1.1,marsh type 3b,typical,yes
+15,Male,Yes,Type 1,inflammatory,yes,PSS,yes,no,0.34,10,0.6,marsh type 0,potential,yes
+7,Female,no,None,watery,yes,DSS,yes,yes,2.1,8.5,2.1,marsh type 3b,typical,yes
+12,Female,Yes,Type 1,fatty ,yes,Variant ,yes,yes,1.9,11.1,1.1,marsh type 3a,atypical,yes
+7,Female,Yes,Type 2,fatty ,yes,PSS,no,no,0.51,13.4,0.91,marsh type 0,silent,yes
+8,Male,no,None,watery,yes,PSS,no,no,1.7,12,1,marsh type 0,potential,yes
+9,Female,Yes,Type 2,fatty ,yes,Variant ,yes,yes,1.1,8,1.5,marsh type 1,potential,yes
+21,Male,Yes,Type 1,inflammatory,yes,PSS,yes,yes,1.3,12,0.7,marsh type 3c,atypical,yes
+31,Male,Yes,Type 1,fatty ,yes,Variant ,yes,yes,2.6,14.2,2,marsh type 3b,atypical,yes
+11,Female,Yes,Type 1,watery,yes,PSS,yes,yes,1,12,1.5,marsh type 1,latent,yes
+12,Female,Yes,Type 1,inflammatory,yes,PSS,yes,yes,2,11,1,marsh type 3c,atypical,yes
+10,Female,Yes,None,watery,yes,Variant ,yes,no,1.6,8.7,1.2,marsh type 1,latent,yes
+9,Female,Yes,Type 1,fatty ,no,Variant ,yes,yes,1.2,12,2.1,marsh type 0,latent,yes
+13,Male,Yes,Type 1,watery,yes,PSS,yes,no,0.96,6,0.86,marsh type 0,latent,yes
+10,Female,Yes,Type 1,fatty ,no,PSS,no,yes,1.1,9,2,marsh type 1,latent,yes
+13,Female,Yes,Type 1,inflammatory,yes,Variant ,yes,yes,0.9,8,1,marsh type 0,latent,yes
+12,Male,no,None,inflammatory,no,Variant ,yes,yes,0.6,12,1,none,none,no
+14,Female,no,None,watery,yes,DSS,yes,yes,1.9,11,1.1,none,none,no
+18,Female,Yes,Type 1,fatty ,no,PSS,yes,yes,1.2,9,2.3,marsh type 3b,atypical,yes
+21,Female,Yes,Type 1,watery,yes,Variant ,yes,no,1.1,8.7,1.3,marsh type 1,latent,yes
+14,Male,no,None,inflammatory,yes,DSS,yes,no,9,12,1.7,none,none,no
+17,Male,Yes,Type 1,watery,yes,Variant ,yes,yes,1,11.3,1.1,marsh type 3b,silent,yes
+11,Female,Yes,Type 1,inflammatory,no,DSS,yes,no,0.9,9,1,marsh type 0,latent,yes
+15,Male,Yes,Type 1,fatty ,yes,DSS,no,yes,0.9,10,1.2,marsh type 3c,typical,yes
+10,Female,Yes,Type 1,fatty ,yes,PSS,yes,yes,1.1,6.1,1.1,marsh type 3b,silent,yes
+11,Female,Yes,Type 1,inflammatory,yes,PSS,yes,yes,2.1,6.9,1.2,marsh type 1,silent,yes
+12,Male,Yes,Type 1,watery,yes,Variant ,yes,yes,2,9,1.1,marsh type 3b,typical,yes
+12,Male,Yes,Type 1,watery,yes,Variant ,yes,yes,0.97,9.1,1.77,marsh type 3a,atypical,yes
+7,Male,no,None,fatty ,no,Variant ,no,no,1,5,1.2,none,none,no
+9,Male,no,None,fatty ,no,Variant ,no,no,2,5,1.8,none,none,no
+31,Female,Yes,Type 1,inflammatory,yes,PSS,yes,yes,1,8,1.8,marsh type 1,silent,yes
+10,Male,Yes,Type 1,inflammatory,yes,PSS,yes,yes,2.1,8,1.1,marsh type 3b,silent,yes
+32,Female,Yes,Type 1,watery,yes,Variant ,yes,yes,1,12,0.9,marsh type 3c,atypical,yes
+35,Female,Yes,Type 1,inflammatory,yes,Variant ,yes,yes,2,12.3,0.98,marsh type 1,silent,yes
+29,Male,Yes,Type 1,fatty ,yes,PSS,yes,yes,1.4,12,1.1,marsh type 3b,typical,yes
+29,Female,Yes,Type 1,fatty ,yes,PSS,yes,yes,0.34,9,0.6,marsh type 0,potential,yes
+7,Male,no,None,inflammatory,yes,DSS,yes,yes,2.1,9.5,2.1,marsh type 3b,typical,yes
+11,Male,Yes,Type 1,fatty ,yes,Variant ,yes,yes,1.9,12.1,1.1,marsh type 3a,atypical,yes
+11,Male,Yes,Type 1,inflammatory,no,Variant ,yes,yes,2.4,11,0.77,marsh type 3c,silent,yes
+9,Female,Yes,Type 1,inflammatory,yes,DSS,yes,yes,2.1,10,0.6,marsh type 1,potential,yes
+16,Male,Yes,Type 1,fatty ,yes,DSS,yes,yes,1.6,11,1.6,marsh type 2,typical,yes
+20,Female,Yes,Type 1,fatty ,no,Variant ,yes,yes,1.5,12,1.6,marsh type 3a,atypical,yes
+16,Male,Yes,Type 1,watery,no,PSS,yes,yes,2.1,9,0.8,marsh type 2,typical,yes
+8,Male,Yes,Type 1,inflammatory,yes,PSS,no,no,1,10.5,1.1,marsh type 0,silent,yes
+7,Female,Yes,Type 1,watery,yes,Variant ,yes,yes,1.1,9.5,1,marsh type 3b,silent,yes
+8,Male,Yes,Type 1,inflammatory,yes,Variant ,yes,yes,2.1,11.4,1,marsh type 3a,atypical,yes
+6,Female,Yes,Type 1,watery,yes,PSS,yes,yes,0.8,12,0.98,marsh type 3c,silent,yes
+7,Female,Yes,Type 1,inflammatory,yes,PSS,yes,yes,1.5,8,1.1,marsh type 1,potential,yes
+5,Male,Yes,Type 1,fatty ,yes,Variant ,yes,yes,0.42,11.5,1,marsh type 3c,atypical,yes
+8,Female,Yes,Type 1,inflammatory,yes,Variant ,yes,yes,0.56,11,1,marsh type 2,typical,yes
+8,Male,no,None,watery,no,DSS,no,no,1.5,7,1.2,none,none,no
+7,Male,Yes,Type 1,watery,yes,PSS,no,no,0.51,13.4,0.91,marsh type 0,silent,yes
+8,Female,Yes,Type 1,inflammatory,yes,PSS,no,no,1.7,12,1,marsh type 3b,atypical,yes
+9,Male,Yes,Type 1,fatty ,yes,Variant ,yes,yes,1.1,8,1.5,marsh type 1,potential,yes
+21,Female,Yes,Type 1,watery,yes,PSS,yes,yes,1.3,12,0.7,marsh type 3c,atypical,yes
+25,Male,Yes,Type 2,inflammatory,yes,PSS,yes,yes,1.1,8.1,1.8,marsh type 3c,atypical,yes
+31,Male,Yes,Type 2,watery,yes,PSS,yes,yes,0.6,12,0.8,marsh type 1,silent,yes
+28,Male,Yes,Type 2,fatty ,yes,Variant ,yes,yes,1,10.5,2,marsh type 3c,atypical,yes
+26,Female,Yes,Type 2,fatty ,yes,Variant ,yes,yes,2,9,1,marsh type 2,typical,yes
+8,Male,Yes,Type 1,watery,yes,PSS,yes,yes,1.9,9,0.6,marsh type 3a,atypical,yes
+19,Male,Yes,Type 1,fatty ,yes,PSS,yes,yes,1,12,2,marsh type 2,typical,yes
+28,Female,Yes,Type 1,inflammatory,yes,Variant ,yes,no,1,11,1,marsh type 3b,atypical,yes
+23,Female,Yes,Type 1,fatty ,yes,PSS,yes,yes,1,7,0.9,marsh type 1,silent,yes
+9,Female,Yes,Type 1,fatty ,yes,PSS,yes,no,0.9,10.5,0.8,marsh type 3a,silent,yes
+8,Female,Yes,Type 1,watery,yes,Variant ,yes,yes,0.8,9.5,1.2,marsh type 2,typical,yes
+9,Male,Yes,Type 1,fatty ,yes,Variant ,yes,yes,1.6,11.4,0.91,marsh type 3a,atypical,yes
+7,Male,Yes,Type 1,inflammatory,yes,PSS,yes,yes,0.92,12,1,marsh type 0,potential,yes
+8,Male,Yes,Type 1,fatty ,yes,PSS,yes,yes,1.66,8,2,marsh type 3b,atypical,yes
+6,Female,Yes,Type 1,fatty ,yes,Variant ,yes,yes,1,11.5,2,marsh type 3a,silent,yes
+6,Male,Yes,Type 1,watery,yes,Variant ,yes,yes,1,11,1.3,marsh type 2,typical,yes
+10,Male,Yes,Type 1,fatty ,no,DSS,yes,no,2.3,7,2.1,marsh type 3b,atypical,yes
+3,Male,Yes,Type 1,inflammatory,yes,Variant ,yes,yes,1,9,1.4,marsh type 1,potential,yes
+7,Male,no,None,fatty ,no,Variant ,no,no,1,9.4,1.6,none,none,no
+9,Female,no,None,inflammatory,no,DSS,no,no,1.2,9,1,none,none,no
+10,Female,no,None,fatty ,no,DSS,no,no,1.3,8,1,none,none,no
+6,Male,Yes,Type 1,watery,yes,PSS,yes,yes,0.51,13.4,0.91,marsh type 2,typical,yes
+10,Male,Yes,Type 1,inflammatory,yes,Variant ,yes,yes,1.8,13,0.8,marsh type 3b,atypical,yes
+9,Female,Yes,Type 1,fatty ,yes,PSS,yes,yes,1.3,9,1.1,marsh type 1,latent,yes
+3,Male,Yes,Type 1,watery,yes,PSS,yes,no,1.1,7,0.6,marsh type 2,typical,yes
+10,Female,no,None,inflammatory,no,DSS,no,no,1.3,8,1,none,none,no
+6,Male,Yes,Type 1,fatty ,yes,PSS,yes,yes,0.51,13.4,0.91,marsh type 2,typical,yes
+10,Male,Yes,Type 1,inflammatory,yes,Variant ,yes,yes,1.8,13,0.8,marsh type 3b,atypical,yes
+9,Female,Yes,Type 1,watery,yes,PSS,yes,yes,1.3,9,1.1,marsh type 1,latent,yes
+3,Male,Yes,Type 1,inflammatory,yes,PSS,yes,no,1.1,7,0.6,marsh type 2,typical,yes
+11,Female,Yes,Type 1,fatty ,yes,PSS,yes,no,1.4,12,1.1,marsh type 3b,typical,yes
+15,Male,Yes,Type 1,fatty ,yes,PSS,yes,no,0.34,10,0.6,marsh type 0,potential,yes
+7,Female,no,None,inflammatory,yes,DSS,yes,yes,2.1,8.5,2.1,marsh type 3b,typical,yes
+12,Female,Yes,Type 1,fatty ,yes,Variant ,yes,yes,1.9,11.1,1.1,marsh type 3a,atypical,yes
+7,Female,Yes,Type 2,watery,yes,PSS,no,no,0.51,13.4,0.91,marsh type 0,silent,yes
+8,Male,no,None,inflammatory,yes,PSS,no,no,1.7,12,1,marsh type 0,potential,yes
+9,Female,Yes,Type 2,fatty ,yes,Variant ,yes,yes,1.1,8,1.5,marsh type 1,potential,yes
+21,Male,Yes,Type 1,inflammatory,yes,PSS,yes,yes,1.3,12,0.7,marsh type 3c,atypical,yes
+31,Male,Yes,Type 1,fatty ,yes,Variant ,yes,yes,2.6,14.2,2,marsh type 3b,atypical,yes
+11,Female,Yes,Type 1,watery,yes,PSS,yes,yes,1,12,1.5,marsh type 1,latent,yes
+12,Female,Yes,Type 1,inflammatory,yes,PSS,yes,yes,2,11,1,marsh type 3c,atypical,yes
+10,Female,Yes,None,inflammatory,yes,Variant ,yes,no,1.6,8.7,1.2,marsh type 1,latent,yes
+9,Female,Yes,Type 1,watery,no,Variant ,yes,yes,1.2,12,2.1,marsh type 0,latent,yes
+13,Male,Yes,Type 1,watery,yes,PSS,yes,no,0.96,6,0.86,marsh type 0,latent,yes
+10,Female,Yes,Type 1,fatty ,no,PSS,no,yes,1.1,9,2,marsh type 1,latent,yes
+13,Female,Yes,Type 1,inflammatory,yes,Variant ,yes,yes,0.9,8,1,marsh type 0,latent,yes
+12,Male,no,None,watery,no,Variant ,yes,yes,0.6,12,1,none,none,no
+14,Female,no,None,watery,yes,DSS,yes,yes,1.9,11,1.1,none,none,no
+18,Female,Yes,Type 1,inflammatory,no,PSS,yes,yes,1.2,9,2.3,marsh type 3b,atypical,yes
+21,Female,Yes,Type 1,watery,yes,Variant ,yes,no,1.1,8.7,1.3,marsh type 1,latent,yes
+14,Male,no,None,fatty ,yes,DSS,yes,no,9,12,1.7,none,none,no
+31,Female,Yes,Type 1,fatty ,yes,PSS,yes,yes,1,8,1.8,marsh type 1,silent,yes
+9,Female,Yes,Type 1,inflammatory,yes,PSS,yes,no,0.9,10.5,0.8,marsh type 3a,silent,yes
+8,Female,Yes,Type 1,fatty ,yes,Variant ,yes,yes,0.8,9.5,1.2,marsh type 2,typical,yes
+9,Male,Yes,Type 1,inflammatory,yes,Variant ,yes,yes,1.6,11.4,0.91,marsh type 3a,atypical,yes
+7,Male,Yes,Type 1,fatty ,yes,PSS,yes,yes,0.92,12,1,marsh type 0,potential,yes
+8,Male,Yes,Type 1,inflammatory,yes,PSS,yes,yes,1.66,8,2,marsh type 3b,atypical,yes
+6,Female,Yes,Type 1,watery,yes,Variant ,yes,yes,1,11.5,2,marsh type 3a,silent,yes
+6,Male,Yes,Type 1,fatty ,yes,Variant ,yes,yes,1,11,1.3,marsh type 2,typical,yes
+10,Male,Yes,Type 1,fatty ,no,DSS,yes,no,2.3,7,2.1,marsh type 3b,atypical,yes
+3,Male,Yes,Type 1,watery,yes,Variant ,yes,yes,1,9,1.4,marsh type 1,potential,yes
+7,Male,no,None,watery,no,Variant ,no,no,1,9.4,1.6,none,none,no
+9,Female,no,None,inflammatory,no,DSS,no,no,1.2,9,1,none,none,no
+10,Female,no,None,inflammatory,no,DSS,no,no,1.3,8,1,none,none,no
+6,Male,Yes,Type 1,fatty ,yes,PSS,yes,yes,0.51,13.4,0.91,marsh type 2,typical,yes
+10,Male,Yes,Type 1,watery,yes,Variant ,yes,yes,1.8,13,0.8,marsh type 3b,atypical,yes
+9,Female,Yes,Type 1,watery,yes,PSS,yes,yes,1.3,9,1.1,marsh type 1,latent,yes
+3,Male,Yes,Type 1,inflammatory,yes,PSS,yes,no,1.1,7,0.6,marsh type 2,typical,yes
+11,Female,Yes,Type 1,inflammatory,yes,PSS,yes,no,1.4,12,1.1,marsh type 3b,typical,yes
+15,Male,Yes,Type 1,watery,yes,PSS,yes,no,0.34,10,0.6,marsh type 0,potential,yes
+7,Female,no,None,fatty ,yes,DSS,yes,yes,2.1,8.5,2.1,marsh type 3b,typical,yes
+12,Female,Yes,Type 1,fatty ,yes,Variant ,yes,yes,1.9,11.1,1.1,marsh type 3a,atypical,yes
+7,Female,Yes,Type 2,watery,yes,PSS,no,no,0.51,13.4,0.91,marsh type 0,silent,yes
+8,Male,no,None,fatty ,yes,PSS,no,no,1.7,12,1,marsh type 0,potential,yes
+9,Female,Yes,Type 2,inflammatory,yes,Variant ,yes,yes,1.1,8,1.5,marsh type 1,potential,yes
+21,Male,Yes,Type 1,fatty ,yes,PSS,yes,yes,1.3,12,0.7,marsh type 3c,atypical,yes
+31,Male,Yes,Type 1,watery,yes,Variant ,yes,yes,2.6,14.2,2,marsh type 3b,atypical,yes
+11,Female,Yes,Type 1,inflammatory,yes,PSS,yes,yes,1,12,1.5,marsh type 1,latent,yes
+12,Female,Yes,Type 1,watery,yes,PSS,yes,yes,2,11,1,marsh type 3c,atypical,yes
+10,Female,Yes,None,fatty ,yes,Variant ,yes,no,1.6,8.7,1.2,marsh type 1,latent,yes
+9,Female,Yes,Type 1,watery,no,Variant ,yes,yes,1.2,12,2.1,marsh type 0,latent,yes
+13,Male,Yes,Type 1,fatty ,yes,PSS,yes,no,0.96,6,0.86,marsh type 0,latent,yes
+10,Female,Yes,Type 1,inflammatory,no,PSS,no,yes,1.1,9,2,marsh type 1,latent,yes
+13,Female,Yes,Type 1,inflammatory,yes,Variant ,yes,yes,0.9,8,1,marsh type 0,latent,yes
+12,Male,no,None,watery,no,Variant ,yes,yes,0.6,12,1,none,none,no
+14,Female,no,None,fatty ,yes,DSS,yes,yes,1.9,11,1.1,none,none,no
+18,Female,Yes,Type 1,watery,no,PSS,yes,yes,1.2,9,2.3,marsh type 3b,atypical,yes
+21,Female,Yes,Type 1,inflammatory,yes,Variant ,yes,no,1.1,8.7,1.3,marsh type 1,latent,yes
+14,Male,no,None,watery,yes,DSS,yes,no,9,12,1.7,none,none,no
+17,Male,Yes,Type 1,inflammatory,yes,Variant ,yes,yes,1,11.3,1.1,marsh type 3b,silent,yes
+11,Female,Yes,Type 1,fatty ,no,DSS,yes,no,0.9,9,1,marsh type 0,latent,yes
+15,Male,Yes,Type 1,fatty ,yes,DSS,no,yes,0.9,10,1.2,marsh type 3c,typical,yes
+10,Female,Yes,Type 1,inflammatory,yes,PSS,yes,yes,1.1,6.1,1.1,marsh type 3b,silent,yes
+11,Female,Yes,Type 1,watery,yes,PSS,yes,yes,2.1,6.9,1.2,marsh type 1,silent,yes
+12,Male,Yes,Type 1,watery,yes,Variant ,yes,yes,2,9,1.1,marsh type 3b,typical,yes
+12,Male,Yes,Type 1,fatty ,yes,Variant ,yes,yes,0.97,9.1,1.77,marsh type 3a,atypical,yes
+7,Male,no,None,fatty ,no,Variant ,no,no,1,5,1.2,none,none,no
+9,Male,no,None,inflammatory,no,Variant ,no,no,2,5,1.8,none,none,no
+31,Female,Yes,Type 1,inflammatory,yes,PSS,yes,yes,1,8,1.8,marsh type 1,silent,yes
+10,Male,Yes,Type 1,watery,yes,PSS,yes,yes,2.1,8,1.1,marsh type 3b,silent,yes
+32,Female,Yes,Type 1,inflammatory,yes,Variant ,yes,yes,1,12,0.9,marsh type 3c,atypical,yes
+35,Female,Yes,Type 1,fatty ,yes,Variant ,yes,yes,2,12.3,0.98,marsh type 1,silent,yes
+29,Male,Yes,Type 1,fatty ,yes,PSS,yes,yes,1.4,12,1.1,marsh type 3b,typical,yes
+29,Female,Yes,Type 1,inflammatory,yes,PSS,yes,yes,0.34,9,0.6,marsh type 0,potential,yes
+7,Male,no,None,fatty ,yes,DSS,yes,yes,2.1,9.5,2.1,marsh type 3b,typical,yes
+11,Male,Yes,Type 1,inflammatory,yes,Variant ,yes,yes,1.9,12.1,1.1,marsh type 3a,atypical,yes
+11,Male,Yes,Type 1,inflammatory,no,Variant ,yes,yes,2.4,11,0.77,marsh type 3c,silent,yes
+9,Female,Yes,Type 1,fatty ,yes,DSS,yes,yes,2.1,10,0.6,marsh type 1,potential,yes
+16,Male,Yes,Type 1,fatty ,yes,DSS,yes,yes,1.6,11,1.6,marsh type 2,typical,yes
+20,Female,Yes,Type 1,watery,no,Variant ,yes,yes,1.5,12,1.6,marsh type 3a,atypical,yes
+16,Male,Yes,Type 1,inflammatory,no,PSS,yes,yes,2.1,9,0.8,marsh type 2,typical,yes
+8,Male,Yes,Type 1,watery,yes,PSS,no,no,1,10.5,1.1,marsh type 0,silent,yes
+7,Female,Yes,Type 1,inflammatory,yes,Variant ,yes,yes,1.1,9.5,1,marsh type 3b,silent,yes
+8,Male,Yes,Type 1,watery,yes,Variant ,yes,yes,2.1,11.4,1,marsh type 3a,atypical,yes
+6,Female,Yes,Type 1,inflammatory,yes,PSS,yes,yes,0.8,12,0.98,marsh type 3c,silent,yes
+7,Female,Yes,Type 1,fatty ,yes,PSS,yes,yes,1.5,8,1.1,marsh type 1,potential,yes
+5,Male,Yes,Type 1,inflammatory,yes,Variant ,yes,yes,0.42,11.5,1,marsh type 3c,atypical,yes
+8,Female,Yes,Type 1,watery,yes,Variant ,yes,yes,0.56,11,1,marsh type 2,typical,yes
+8,Male,no,None,watery,no,DSS,no,no,1.5,7,1.2,none,none,no
+7,Male,Yes,Type 1,inflammatory,yes,PSS,no,no,0.51,13.4,0.91,marsh type 0,silent,yes
+8,Female,Yes,Type 1,fatty ,yes,PSS,no,no,1.7,12,1,marsh type 3b,atypical,yes
+9,Male,Yes,Type 1,watery,yes,Variant ,yes,yes,1.1,8,1.5,marsh type 1,potential,yes
+21,Female,Yes,Type 1,inflammatory,yes,PSS,yes,yes,1.3,12,0.7,marsh type 3c,atypical,yes
+25,Male,Yes,Type 2,watery,yes,PSS,yes,yes,1.1,8.1,1.8,marsh type 3c,atypical,yes
+31,Male,Yes,Type 2,fatty ,yes,PSS,yes,yes,0.6,12,0.8,marsh type 1,silent,yes
+28,Male,Yes,Type 2,fatty ,yes,Variant ,yes,yes,1,10.5,2,marsh type 3c,atypical,yes
+26,Female,Yes,Type 2,watery,yes,Variant ,yes,yes,2,9,1,marsh type 2,typical,yes
+8,Male,Yes,Type 1,fatty ,yes,PSS,yes,yes,1.9,9,0.6,marsh type 3a,atypical,yes
+19,Male,Yes,Type 1,inflammatory,yes,PSS,yes,yes,1,12,2,marsh type 2,typical,yes
+28,Female,Yes,Type 1,fatty ,yes,Variant ,yes,no,1,11,1,marsh type 3b,atypical,yes
+16,Male,Yes,Type 1,fatty ,no,PSS,yes,yes,2.1,9,0.8,marsh type 2,typical,yes
+8,Male,Yes,Type 1,watery,yes,PSS,no,no,1,10.5,1.1,marsh type 0,silent,yes
+7,Female,Yes,Type 1,fatty ,yes,Variant ,yes,yes,1.1,9.5,1,marsh type 3b,silent,yes
+8,Male,Yes,Type 1,inflammatory,yes,Variant ,yes,yes,2.1,11.4,1,marsh type 3a,atypical,yes
+6,Female,Yes,Type 1,fatty ,yes,PSS,yes,yes,0.8,12,0.98,marsh type 3c,silent,yes
+7,Female,Yes,Type 1,fatty ,yes,PSS,yes,yes,1.5,8,1.1,marsh type 1,potential,yes
+5,Male,Yes,Type 1,watery,yes,Variant ,yes,yes,0.42,11.5,1,marsh type 3c,atypical,yes
+8,Female,Yes,Type 1,fatty ,yes,Variant ,yes,yes,0.56,11,1,marsh type 2,typical,yes
+8,Male,no,None,inflammatory,no,DSS,no,no,1.5,7,1.2,none,none,no
+7,Male,Yes,Type 1,fatty ,yes,PSS,no,no,0.51,13.4,0.91,marsh type 0,silent,yes
+8,Female,Yes,Type 1,inflammatory,yes,PSS,no,no,1.7,12,1,marsh type 3b,atypical,yes
+9,Male,Yes,Type 1,fatty ,yes,Variant ,yes,yes,1.1,8,1.5,marsh type 1,potential,yes
+21,Female,Yes,Type 1,inflammatory,no,Variant ,yes,yes,1.3,12,0.7,marsh type 3c,atypical,yes
+25,Male,Yes,Type 2,inflammatory,yes,PSS,yes,yes,1.1,8.1,1.8,marsh type 3c,atypical,yes
+31,Male,Yes,Type 2,watery,yes,PSS,yes,yes,0.6,12,0.8,marsh type 1,silent,yes
+28,Male,Yes,Type 2,watery,no,Variant ,yes,yes,1,10.5,2,marsh type 3c,atypical,yes
+26,Female,Yes,Type 2,inflammatory,no,Variant ,yes,yes,2,9,1,marsh type 2,typical,yes
+9,Female,Yes,Type 1,fatty ,yes,PSS,yes,yes,1.1,9.5,1,marsh type 3b,atypical,yes
+8,Male,Yes,Type 1,watery,yes,PSS,yes,yes,2.1,11.4,1,marsh type 1,silent,yes
+7,Female,Yes,Type 1,watery,yes,Variant ,no,no,0.8,11,0.98,marsh type 3b,atypical,yes
+7,Female,Yes,Type 1,watery,yes,Variant ,no,no,1.5,9,1.1,marsh type 2,typical,yes
+5,Male,no,None,fatty ,yes,DSS,yes,no,1,9,1.4,marsh type 3c,atypical,no
+8,Female,no,None,inflammatory,yes,PSS,yes,yes,1.2,13.1,1.8,none,none,no
+6,Male,Yes,Type 1,inflammatory,yes,Variant ,yes,yes,0.42,12,1,marsh type 3a,atypical,yes
+8,Female,Yes,Type 1,fatty ,no,DSS,yes,yes,0.56,12,1,marsh type 1,silent,yes
+18,Male,Yes,Type 1,watery,yes,Variant ,yes,yes,2.1,12.3,0.98,marsh type 3b,atypical,yes
+19,Male,Yes,Type 1,fatty ,yes,DSS,yes,no,1.4,12,1,marsh type 0,silent,yes
+8,Male,Yes,Type 1,inflammatory,yes,DSS,yes,yes,0.34,10,0.6,marsh type 3a,atypical,yes
+9,Male,Yes,None,inflammatory,yes,PSS,yes,yes,1.7,9.5,1,marsh type 3b,silent,yes
+16,Male,Yes,Type 1,fatty ,yes,PSS,yes,yes,2,14,1,marsh type 3a,silent,yes
+10,Male,Yes,Type 1,fatty ,yes,Variant ,yes,no,2.1,12,0.77,marsh type 1,silent,yes
+8,Male,Yes,Type 1,inflammatory,yes,Variant ,yes,yes,1.9,9,0.6,marsh type 3a,atypical,yes
+19,Male,Yes,Type 1,inflammatory,yes,Variant ,yes,yes,1,12,2,marsh type 2,typical,yes
+28,Female,Yes,Type 1,inflammatory,yes,Variant ,yes,no,1,11,1,marsh type 3b,atypical,yes
+23,Female,Yes,Type 1,watery,yes,PSS,yes,yes,1,7,0.9,marsh type 1,silent,yes
+9,Female,Yes,Type 1,fatty ,yes,PSS,yes,no,0.9,10.5,0.8,marsh type 3a,silent,yes
+8,Female,Yes,Type 1,fatty ,yes,Variant ,yes,yes,0.8,9.5,1.2,marsh type 2,typical,yes
+9,Male,Yes,Type 1,watery,yes,Variant ,yes,yes,1.6,11.4,0.91,marsh type 3a,atypical,yes
+7,Male,Yes,Type 1,inflammatory,yes,PSS,yes,yes,0.92,12,1,marsh type 0,potential,yes
+8,Male,Yes,Type 1,watery,yes,PSS,yes,yes,1.66,8,2,marsh type 3b,atypical,yes
+6,Female,Yes,Type 1,fatty ,no,DSS,yes,yes,1,11.5,2,marsh type 3a,silent,yes
+6,Male,Yes,Type 1,fatty ,yes,Variant ,yes,yes,1,11,1.3,marsh type 2,typical,yes
+10,Male,Yes,Type 1,inflammatory,yes,Variant ,yes,no,2.3,7,2.1,marsh type 3b,atypical,yes
+3,Male,Yes,Type 1,watery,yes,DSS,yes,yes,1,9,1.4,marsh type 1,potential,yes
+7,Male,no,None,watery,yes,DSS,no,no,1,9.4,1.6,none,none,no
+9,Female,no,None,fatty ,yes,Variant ,no,no,1.2,9,1,none,none,no
+10,Female,no,None,fatty ,yes,PSS,no,no,1.3,8,1,none,none,no
+6,Female,Yes,Type 1,watery,yes,PSS,yes,yes,1,11.5,2,marsh type 3a,silent,yes
+6,Male,Yes,Type 1,inflammatory,yes,Variant ,yes,yes,1,11,1.3,marsh type 2,typical,yes
+10,Male,Yes,Type 1,watery,yes,Variant ,yes,no,2.3,7,2.1,marsh type 3b,atypical,yes
+3,Male,Yes,Type 1,watery,yes,PSS,yes,yes,1,9,1.4,marsh type 1,potential,yes
+7,Male,no,None,inflammatory,yes,PSS,no,no,1,9.4,1.6,none,none,no
+9,Female,no,None,inflammatory,yes,Variant ,no,no,1.2,9,1,none,none,no
+10,Female,no,None,watery,yes,Variant ,no,no,1.3,8,1,none,none,no
+6,Male,Yes,Type 1,watery,yes,DSS,yes,yes,0.51,13.4,0.91,marsh type 2,typical,yes
+10,Male,Yes,Type 1,inflammatory,yes,PSS,yes,yes,1.8,13,0.8,marsh type 3b,atypical,yes
+9,Female,Yes,Type 1,watery,yes,PSS,yes,yes,1.3,9,1.1,marsh type 1,latent,yes
+3,Male,Yes,Type 1,watery,no,Variant ,yes,no,1.1,7,0.6,marsh type 2,typical,yes
+11,Female,Yes,Type 1,inflammatory,yes,PSS,yes,no,1.4,12,1.1,marsh type 3b,typical,yes
+15,Male,Yes,Type 1,inflammatory,no,PSS,yes,no,0.34,10,0.6,marsh type 0,potential,yes
+7,Female,no,None,watery,yes,PSS,yes,yes,2.1,8.5,2.1,marsh type 3b,typical,yes
+12,Female,Yes,Type 1,watery,no,DSS,yes,yes,1.9,11.1,1.1,marsh type 3a,atypical,yes
+12,Female,Yes,Type 1,inflammatory,yes,PSS,yes,yes,2,11,1,marsh type 3c,atypical,yes
+10,Female,Yes,None,fatty ,yes,Variant ,yes,no,1.6,8.7,1.2,marsh type 1,latent,yes
+9,Female,Yes,Type 1,inflammatory,yes,PSS,yes,yes,1.2,12,2.1,marsh type 0,latent,yes
+13,Male,Yes,Type 1,fatty ,yes,PSS,yes,no,0.96,6,0.86,marsh type 0,latent,yes
+10,Female,Yes,Type 1,watery,yes,PSS,no,yes,1.1,9,2,marsh type 1,latent,yes
+13,Female,Yes,Type 1,watery,yes,PSS,yes,yes,0.9,8,1,marsh type 0,latent,yes
+12,Male,no,None,fatty ,yes,DSS,yes,yes,0.6,12,1,none,none,no
+14,Female,no,None,inflammatory,yes,Variant ,yes,yes,1.9,11,1.1,none,none,no
+18,Female,Yes,Type 1,inflammatory,no,PSS,yes,yes,1.2,9,2.3,marsh type 3b,atypical,yes
+21,Female,Yes,Type 1,fatty ,yes,Variant ,yes,no,1.1,8.7,1.3,marsh type 1,latent,yes
+14,Male,no,None,inflammatory,yes,DSS,yes,no,9,12,1.7,none,none,no
+17,Male,Yes,Type 1,watery,yes,Variant ,yes,yes,1,11.3,1.1,marsh type 3b,silent,yes
+11,Female,Yes,Type 1,inflammatory,no,DSS,yes,no,0.9,9,1,marsh type 0,latent,yes
+15,Male,Yes,Type 1,watery,yes,DSS,no,yes,0.9,10,1.2,marsh type 3c,typical,yes
+10,Female,Yes,Type 1,fatty ,yes,PSS,yes,yes,1.1,6.1,1.1,marsh type 3b,silent,yes
+11,Female,Yes,Type 1,fatty ,yes,PSS,yes,yes,2.1,6.9,1.2,marsh type 1,silent,yes
+12,Male,Yes,Type 1,inflammatory,yes,Variant ,yes,yes,2,9,1.1,marsh type 3b,typical,yes
+12,Male,Yes,Type 1,watery,yes,Variant ,yes,yes,0.97,9.1,1.77,marsh type 3a,atypical,yes
+7,Male,no,None,fatty ,no,Variant ,no,no,1,5,1.2,none,none,no
+9,Male,no,None,watery,no,Variant ,no,no,2,5,1.8,none,none,no
+31,Female,Yes,Type 1,inflammatory,yes,PSS,yes,yes,1,8,1.8,marsh type 1,silent,yes
+10,Male,Yes,Type 1,fatty ,yes,PSS,yes,yes,2.1,8,1.1,marsh type 3b,silent,yes
+32,Female,Yes,Type 1,fatty ,yes,Variant ,yes,yes,1,12,0.9,marsh type 3c,atypical,yes
+35,Female,Yes,Type 1,watery,yes,Variant ,yes,yes,2,12.3,0.98,marsh type 1,silent,yes
+29,Male,Yes,Type 1,inflammatory,yes,PSS,yes,yes,1.4,12,1.1,marsh type 3b,typical,yes
+29,Female,Yes,Type 1,inflammatory,yes,PSS,yes,yes,0.34,9,0.6,marsh type 0,potential,yes
+7,Male,Yes,Type 1,fatty ,yes,PSS,yes,yes,0.92,12,1,marsh type 0,potential,yes
+8,Male,Yes,Type 1,fatty ,yes,PSS,yes,yes,1.66,8,2,marsh type 3b,atypical,yes
+6,Female,Yes,Type 1,watery,yes,Variant ,yes,yes,1,11.5,2,marsh type 3a,silent,yes
+6,Male,Yes,Type 1,inflammatory,yes,Variant ,yes,yes,1,11,1.3,marsh type 2,typical,yes
+10,Male,Yes,Type 1,inflammatory,no,DSS,yes,no,2.3,7,2.1,marsh type 3b,atypical,yes
+3,Male,Yes,Type 1,watery,yes,Variant ,yes,yes,1,9,1.4,marsh type 1,potential,yes
+7,Male,no,None,fatty ,no,Variant ,no,no,1,9.4,1.6,none,none,no
+9,Female,no,None,inflammatory,no,DSS,no,no,1.2,9,1,none,none,no
+10,Female,no,None,fatty ,no,DSS,no,no,1.3,8,1,none,none,no
+6,Male,Yes,Type 1,watery,yes,PSS,yes,yes,0.51,13.4,0.91,marsh type 2,typical,yes
+10,Male,Yes,Type 1,inflammatory,yes,Variant ,yes,yes,1.8,13,0.8,marsh type 3b,atypical,yes
+9,Female,Yes,Type 1,watery,yes,PSS,yes,yes,1.3,9,1.1,marsh type 1,latent,yes
+3,Male,Yes,Type 1,inflammatory,yes,PSS,yes,no,1.1,7,0.6,marsh type 2,typical,yes
+11,Female,Yes,Type 1,fatty ,yes,PSS,yes,no,1.4,12,1.1,marsh type 3b,typical,yes
+15,Male,Yes,Type 1,inflammatory,yes,PSS,yes,no,0.34,10,0.6,marsh type 0,potential,yes
+7,Female,no,None,watery,yes,DSS,yes,yes,2.1,8.5,2.1,marsh type 3b,typical,yes
+12,Female,Yes,Type 1,fatty ,yes,Variant ,yes,yes,1.9,11.1,1.1,marsh type 3a,atypical,yes
+12,Female,Yes,Type 1,watery,yes,PSS,yes,yes,2,11,1,marsh type 3c,atypical,yes
+10,Female,Yes,None,watery,yes,Variant ,yes,no,1.6,8.7,1.2,marsh type 1,latent,yes
+9,Female,Yes,Type 1,fatty ,no,Variant ,yes,yes,1.2,12,2.1,marsh type 0,latent,yes
+13,Male,Yes,Type 1,fatty ,yes,PSS,yes,no,0.96,6,0.86,marsh type 0,latent,yes
+10,Female,Yes,Type 1,watery,no,PSS,no,yes,1.1,9,2,marsh type 1,latent,yes
+13,Female,Yes,Type 1,fatty ,yes,Variant ,yes,yes,0.9,8,1,marsh type 0,latent,yes
+12,Male,no,None,inflammatory,no,Variant ,yes,yes,0.6,12,1,none,none,no
+14,Female,no,None,inflammatory,yes,DSS,yes,yes,1.9,11,1.1,none,none,no
+18,Female,Yes,Type 1,fatty ,no,PSS,yes,yes,1.2,9,2.3,marsh type 3b,atypical,yes
+21,Female,Yes,Type 1,fatty ,yes,Variant ,yes,no,1.1,8.7,1.3,marsh type 1,latent,yes
+14,Male,no,None,inflammatory,yes,DSS,yes,no,9,12,1.7,none,none,no
+17,Male,Yes,Type 1,inflammatory,yes,Variant ,yes,yes,1,11.3,1.1,marsh type 3b,silent,yes
+8,Female,Yes,Type 1,inflammatory,yes,Variant ,yes,yes,0.8,9.5,1.2,marsh type 2,typical,yes
+9,Male,Yes,Type 1,fatty ,yes,Variant ,yes,yes,1.6,11.4,0.91,marsh type 3a,atypical,yes
+7,Male,Yes,Type 1,inflammatory,yes,PSS,yes,yes,0.92,12,1,marsh type 0,potential,yes
+8,Male,Yes,Type 1,watery,yes,PSS,yes,yes,1.66,8,2,marsh type 3b,atypical,yes
+6,Female,Yes,Type 1,inflammatory,yes,Variant ,yes,yes,1,11.5,2,marsh type 3a,silent,yes
+6,Male,Yes,Type 1,fatty ,yes,Variant ,yes,yes,1,11,1.3,marsh type 2,typical,yes
+10,Male,Yes,Type 1,fatty ,no,DSS,yes,no,2.3,7,2.1,marsh type 3b,atypical,yes
+3,Male,Yes,Type 1,inflammatory,yes,Variant ,yes,yes,1,9,1.4,marsh type 1,potential,yes
+7,Male,no,None,fatty ,no,Variant ,no,no,1,9.4,1.6,none,none,no
+9,Female,no,None,watery,no,DSS,no,no,1.2,9,1,none,none,no
+10,Female,no,None,inflammatory,no,DSS,no,no,1.3,8,1,none,none,no
+6,Male,Yes,Type 1,fatty ,yes,PSS,yes,yes,0.51,13.4,0.91,marsh type 2,typical,yes
+10,Male,Yes,Type 1,inflammatory,yes,Variant ,yes,yes,1.8,13,0.8,marsh type 3b,atypical,yes
+9,Female,Yes,Type 1,fatty ,yes,PSS,yes,yes,1.3,9,1.1,marsh type 1,latent,yes
+3,Male,Yes,Type 1,watery,yes,PSS,yes,no,1.1,7,0.6,marsh type 2,typical,yes
+11,Female,Yes,Type 1,inflammatory,yes,PSS,yes,no,1.4,12,1.1,marsh type 3b,typical,yes
+15,Male,Yes,Type 1,inflammatory,yes,PSS,yes,no,0.34,10,0.6,marsh type 0,potential,yes
+7,Female,no,None,watery,yes,DSS,yes,yes,2.1,8.5,2.1,marsh type 3b,typical,yes
+12,Female,Yes,Type 1,watery,yes,Variant ,yes,yes,1.9,11.1,1.1,marsh type 3a,atypical,yes
+7,Female,Yes,Type 2,fatty ,yes,PSS,no,no,0.51,13.4,0.91,marsh type 0,silent,yes
+8,Male,no,None,inflammatory,yes,PSS,no,no,1.7,12,1,marsh type 0,potential,yes
+9,Female,Yes,Type 2,watery,yes,Variant ,yes,yes,1.1,8,1.5,marsh type 1,potential,yes
+21,Male,Yes,Type 1,watery,yes,PSS,yes,yes,1.3,12,0.7,marsh type 3c,atypical,yes
+31,Male,Yes,Type 1,inflammatory,yes,Variant ,yes,yes,2.6,14.2,2,marsh type 3b,atypical,yes
+11,Female,Yes,Type 1,watery,yes,PSS,yes,yes,1,12,1.5,marsh type 1,latent,yes
+12,Female,Yes,Type 1,fatty ,yes,PSS,yes,yes,2,11,1,marsh type 3c,atypical,yes
+10,Female,Yes,None,fatty ,yes,Variant ,yes,no,1.6,8.7,1.2,marsh type 1,latent,yes
+9,Female,Yes,Type 1,inflammatory,no,Variant ,yes,yes,1.2,12,2.1,marsh type 0,latent,yes
+13,Male,Yes,Type 1,fatty ,yes,PSS,yes,no,0.96,6,0.86,marsh type 0,latent,yes
+10,Female,Yes,Type 1,inflammatory,no,PSS,no,yes,1.1,9,2,marsh type 1,latent,yes
+13,Female,Yes,Type 1,fatty ,yes,Variant ,yes,yes,0.9,8,1,marsh type 0,latent,yes
+12,Male,no,None,inflammatory,no,Variant ,yes,yes,0.6,12,1,none,none,no
+14,Female,no,None,watery,yes,DSS,yes,yes,1.9,11,1.1,none,none,no
+18,Female,Yes,Type 1,fatty ,no,PSS,yes,yes,1.2,9,2.3,marsh type 3b,atypical,yes
+21,Female,Yes,Type 1,fatty ,yes,Variant ,yes,no,1.1,8.7,1.3,marsh type 1,latent,yes
+14,Male,no,None,watery,yes,DSS,yes,no,9,12,1.7,none,none,no
+31,Female,Yes,Type 1,watery,yes,PSS,yes,yes,1,8,1.8,marsh type 1,silent,yes
+9,Female,Yes,Type 1,inflammatory,yes,PSS,yes,no,0.9,10.5,0.8,marsh type 3a,silent,yes
+8,Female,Yes,Type 1,inflammatory,yes,Variant ,yes,yes,0.8,9.5,1.2,marsh type 2,typical,yes
+9,Male,Yes,Type 1,fatty ,yes,Variant ,yes,yes,1.6,11.4,0.91,marsh type 3a,atypical,yes
+7,Male,Yes,Type 1,watery,yes,PSS,yes,yes,0.92,12,1,marsh type 0,potential,yes
+8,Male,Yes,Type 1,watery,yes,PSS,yes,yes,1.66,8,2,marsh type 3b,atypical,yes
+6,Female,Yes,Type 1,inflammatory,yes,Variant ,yes,yes,1,11.5,2,marsh type 3a,silent,yes
+6,Male,Yes,Type 1,inflammatory,yes,Variant ,yes,yes,1,11,1.3,marsh type 2,typical,yes
+10,Male,Yes,Type 1,watery,no,DSS,yes,no,2.3,7,2.1,marsh type 3b,atypical,yes
+3,Male,Yes,Type 1,watery,yes,Variant ,yes,yes,1,9,1.4,marsh type 1,potential,yes
+7,Male,no,None,inflammatory,no,Variant ,no,no,1,9.4,1.6,none,none,no
+9,Female,no,None,inflammatory,no,DSS,no,no,1.2,9,1,none,none,no
+10,Female,no,None,watery,no,DSS,no,no,1.3,8,1,none,none,no
+6,Male,Yes,Type 1,watery,yes,PSS,yes,yes,0.51,13.4,0.91,marsh type 2,typical,yes
+10,Male,Yes,Type 1,fatty ,yes,Variant ,yes,yes,1.8,13,0.8,marsh type 3b,atypical,yes
+9,Female,Yes,Type 1,fatty ,yes,PSS,yes,yes,1.3,9,1.1,marsh type 1,latent,yes
+3,Male,Yes,Type 1,watery,yes,PSS,yes,no,1.1,7,0.6,marsh type 2,typical,yes
+11,Female,Yes,Type 1,watery,yes,PSS,yes,no,1.4,12,1.1,marsh type 3b,typical,yes
+15,Male,Yes,Type 1,inflammatory,yes,PSS,yes,no,0.34,10,0.6,marsh type 0,potential,yes
+7,Female,no,None,fatty ,yes,DSS,yes,yes,2.1,8.5,2.1,marsh type 3b,typical,yes
+12,Female,Yes,Type 1,inflammatory,yes,Variant ,yes,yes,1.9,11.1,1.1,marsh type 3a,atypical,yes
+7,Female,Yes,Type 2,watery,yes,PSS,no,no,0.51,13.4,0.91,marsh type 0,silent,yes
+8,Male,no,None,inflammatory,yes,PSS,no,no,1.7,12,1,marsh type 0,potential,yes
+9,Female,Yes,Type 2,watery,yes,Variant ,yes,yes,1.1,8,1.5,marsh type 1,potential,yes
+21,Male,Yes,Type 1,fatty ,yes,PSS,yes,yes,1.3,12,0.7,marsh type 3c,atypical,yes
+31,Male,Yes,Type 1,fatty ,yes,Variant ,yes,yes,2.6,14.2,2,marsh type 3b,atypical,yes
+11,Female,Yes,Type 1,inflammatory,yes,PSS,yes,yes,1,12,1.5,marsh type 1,latent,yes
+12,Female,Yes,Type 1,watery,yes,PSS,yes,yes,2,11,1,marsh type 3c,atypical,yes
+10,Female,Yes,None,fatty ,yes,Variant ,yes,no,1.6,8.7,1.2,marsh type 1,latent,yes
+9,Female,Yes,Type 1,watery,no,Variant ,yes,yes,1.2,12,2.1,marsh type 0,latent,yes
+13,Male,Yes,Type 1,inflammatory,yes,PSS,yes,no,0.96,6,0.86,marsh type 0,latent,yes
+10,Female,Yes,Type 1,fatty ,no,PSS,no,yes,1.1,9,2,marsh type 1,latent,yes
+13,Female,Yes,Type 1,fatty ,yes,Variant ,yes,yes,0.9,8,1,marsh type 0,latent,yes
+12,Male,no,None,watery,no,Variant ,yes,yes,0.6,12,1,none,none,no
+14,Female,no,None,inflammatory,yes,DSS,yes,yes,1.9,11,1.1,none,none,no
+18,Female,Yes,Type 1,inflammatory,no,PSS,yes,yes,1.2,9,2.3,marsh type 3b,atypical,yes
+21,Female,Yes,Type 1,fatty ,yes,Variant ,yes,no,1.1,8.7,1.3,marsh type 1,latent,yes
+14,Male,no,None,fatty ,yes,DSS,yes,no,9,12,1.7,none,none,no
+17,Male,Yes,Type 1,watery,yes,Variant ,yes,yes,1,11.3,1.1,marsh type 3b,silent,yes
+11,Female,Yes,Type 1,inflammatory,no,DSS,yes,no,0.9,9,1,marsh type 0,latent,yes
+15,Male,Yes,Type 1,inflammatory,yes,DSS,no,yes,0.9,10,1.2,marsh type 3c,typical,yes
+10,Female,Yes,Type 1,watery,yes,PSS,yes,yes,1.1,6.1,1.1,marsh type 3b,silent,yes
+11,Female,Yes,Type 1,fatty ,yes,PSS,yes,yes,2.1,6.9,1.2,marsh type 1,silent,yes
+12,Male,Yes,Type 1,inflammatory,yes,Variant ,yes,yes,2,9,1.1,marsh type 3b,typical,yes
+12,Male,Yes,Type 1,fatty ,yes,Variant ,yes,yes,0.97,9.1,1.77,marsh type 3a,atypical,yes
+7,Male,no,None,watery,no,Variant ,no,no,1,5,1.2,none,none,no
+9,Male,no,None,inflammatory,no,Variant ,no,no,2,5,1.8,none,none,no
+31,Female,Yes,Type 1,watery,yes,PSS,yes,yes,1,8,1.8,marsh type 1,silent,yes
+10,Male,Yes,Type 1,inflammatory,yes,PSS,yes,yes,2.1,8,1.1,marsh type 3b,silent,yes
+32,Female,Yes,Type 1,fatty ,yes,Variant ,yes,yes,1,12,0.9,marsh type 3c,atypical,yes
+35,Female,Yes,Type 1,inflammatory,yes,Variant ,yes,yes,2,12.3,0.98,marsh type 1,silent,yes
+29,Male,Yes,Type 1,watery,yes,PSS,yes,yes,1.4,12,1.1,marsh type 3b,typical,yes
+29,Female,Yes,Type 1,fatty ,yes,PSS,yes,yes,0.34,9,0.6,marsh type 0,potential,yes
+15,Male,Yes,Type 1,watery,yes,PSS,yes,no,0.34,10,0.6,marsh type 0,potential,yes
+7,Female,no,None,watery,yes,DSS,yes,yes,2.1,8.5,2.1,marsh type 3b,typical,yes
+12,Female,Yes,Type 1,fatty ,yes,Variant ,yes,yes,1.9,11.1,1.1,marsh type 3a,atypical,yes
+7,Female,Yes,Type 2,fatty ,yes,PSS,no,no,0.51,13.4,0.91,marsh type 0,silent,yes
+8,Male,no,None,watery,yes,PSS,no,no,1.7,12,1,marsh type 0,potential,yes
+9,Female,Yes,Type 2,fatty ,yes,Variant ,yes,yes,1.1,8,1.5,marsh type 1,potential,yes
+21,Male,Yes,Type 1,inflammatory,yes,PSS,yes,yes,1.3,12,0.7,marsh type 3c,atypical,yes
+31,Male,Yes,Type 1,inflammatory,yes,Variant ,yes,yes,2.6,14.2,2,marsh type 3b,atypical,yes
+11,Female,Yes,Type 1,fatty ,yes,PSS,yes,yes,1,12,1.5,marsh type 1,latent,yes
+12,Female,Yes,Type 1,fatty ,yes,PSS,yes,yes,2,11,1,marsh type 3c,atypical,yes
+10,Female,Yes,None,fatty ,yes,Variant ,yes,no,1.6,8.7,1.2,marsh type 1,latent,yes
+9,Female,Yes,Type 1,fatty ,no,Variant ,yes,yes,1.2,12,2.1,marsh type 0,latent,yes
+13,Male,Yes,Type 1,inflammatory,yes,PSS,yes,no,0.96,6,0.86,marsh type 0,latent,yes
+10,Female,Yes,Type 1,fatty ,no,PSS,no,yes,1.1,9,2,marsh type 1,latent,yes
+13,Female,Yes,Type 1,fatty ,yes,Variant ,yes,yes,0.9,8,1,marsh type 0,latent,yes
+12,Male,no,None,fatty ,no,Variant ,yes,yes,0.6,12,1,none,none,no
+14,Female,no,None,fatty ,yes,DSS,yes,yes,1.9,11,1.1,none,none,no
+18,Female,Yes,Type 1,inflammatory,no,PSS,yes,yes,1.2,9,2.3,marsh type 3b,atypical,yes
+21,Female,Yes,Type 1,watery,yes,Variant ,yes,no,1.1,8.7,1.3,marsh type 1,latent,yes
+14,Male,no,None,watery,yes,DSS,yes,no,9,12,1.7,none,none,no
+17,Male,Yes,Type 1,fatty ,yes,Variant ,yes,yes,1,11.3,1.1,marsh type 3b,silent,yes
+11,Female,Yes,Type 1,fatty ,no,DSS,yes,no,0.9,9,1,marsh type 0,latent,yes
+15,Male,Yes,Type 1,watery,yes,DSS,no,yes,0.9,10,1.2,marsh type 3c,typical,yes
+10,Female,Yes,Type 1,watery,yes,PSS,yes,yes,1.1,6.1,1.1,marsh type 3b,silent,yes
+11,Female,Yes,Type 1,fatty ,yes,PSS,yes,yes,2.1,6.9,1.2,marsh type 1,silent,yes
+12,Male,Yes,Type 1,inflammatory,yes,Variant ,yes,yes,2,9,1.1,marsh type 3b,typical,yes
+12,Male,Yes,Type 1,inflammatory,yes,Variant ,yes,yes,0.97,9.1,1.77,marsh type 3a,atypical,yes
+7,Male,no,None,inflammatory,no,Variant ,no,no,1,5,1.2,none,none,no
+9,Male,no,None,watery,no,Variant ,no,no,2,5,1.8,none,none,no
+31,Female,Yes,Type 1,fatty ,yes,PSS,yes,yes,1,8,1.8,marsh type 1,silent,yes
+10,Male,Yes,Type 1,fatty ,yes,PSS,yes,yes,2.1,8,1.1,marsh type 3b,silent,yes
+32,Female,Yes,Type 1,fatty ,yes,Variant ,yes,yes,1,12,0.9,marsh type 3c,atypical,yes
+35,Female,Yes,Type 1,watery,yes,Variant ,yes,yes,2,12.3,0.98,marsh type 1,silent,yes
+29,Male,Yes,Type 1,watery,yes,PSS,yes,yes,1.4,12,1.1,marsh type 3b,typical,yes
+29,Female,Yes,Type 1,inflammatory,yes,PSS,yes,yes,0.34,9,0.6,marsh type 0,potential,yes
+7,Male,no,None,inflammatory,yes,DSS,yes,yes,2.1,9.5,2.1,marsh type 3b,typical,yes
+11,Male,Yes,Type 1,fatty ,yes,Variant ,yes,yes,1.9,12.1,1.1,marsh type 3a,atypical,yes
+11,Male,Yes,Type 1,fatty ,no,Variant ,yes,yes,2.4,11,0.77,marsh type 3c,silent,yes
+9,Female,Yes,Type 1,inflammatory,yes,DSS,yes,yes,2.1,10,0.6,marsh type 1,potential,yes
+16,Male,Yes,Type 1,watery,yes,DSS,yes,yes,1.6,11,1.6,marsh type 2,typical,yes
+20,Female,Yes,Type 1,watery,no,Variant ,yes,yes,1.5,12,1.6,marsh type 3a,atypical,yes
+16,Male,Yes,Type 1,inflammatory,no,PSS,yes,yes,2.1,9,0.8,marsh type 2,typical,yes
+8,Male,Yes,Type 1,fatty ,yes,PSS,no,no,1,10.5,1.1,marsh type 0,silent,yes
+7,Female,Yes,Type 1,fatty ,yes,Variant ,yes,yes,1.1,9.5,1,marsh type 3b,silent,yes
+8,Male,Yes,Type 1,inflammatory,yes,Variant ,yes,yes,2.1,11.4,1,marsh type 3a,atypical,yes
+6,Female,Yes,Type 1,inflammatory,yes,PSS,yes,yes,0.8,12,0.98,marsh type 3c,silent,yes
+7,Female,Yes,Type 1,fatty ,yes,PSS,yes,yes,1.5,8,1.1,marsh type 1,potential,yes
+5,Male,Yes,Type 1,fatty ,yes,Variant ,yes,yes,0.42,11.5,1,marsh type 3c,atypical,yes
+8,Female,Yes,Type 1,inflammatory,yes,Variant ,yes,yes,0.56,11,1,marsh type 2,typical,yes
+8,Male,no,None,inflammatory,no,DSS,no,no,1.5,7,1.2,none,none,no
+7,Male,Yes,Type 1,fatty ,yes,PSS,no,no,0.51,13.4,0.91,marsh type 0,silent,yes
+8,Female,Yes,Type 1,watery,yes,PSS,no,no,1.7,12,1,marsh type 3b,atypical,yes
+9,Male,Yes,Type 1,watery,yes,Variant ,yes,yes,1.1,8,1.5,marsh type 1,potential,yes
+21,Female,Yes,Type 1,inflammatory,yes,PSS,yes,yes,1.3,12,0.7,marsh type 3c,atypical,yes
+25,Male,Yes,Type 2,fatty ,yes,PSS,yes,yes,1.1,8.1,1.8,marsh type 3c,atypical,yes
+31,Male,Yes,Type 2,fatty ,yes,PSS,yes,yes,0.6,12,0.8,marsh type 1,silent,yes
+28,Male,Yes,Type 2,inflammatory,yes,Variant ,yes,yes,1,10.5,2,marsh type 3c,atypical,yes
+26,Female,Yes,Type 2,watery,yes,Variant ,yes,yes,2,9,1,marsh type 2,typical,yes
+8,Male,Yes,Type 1,watery,yes,PSS,yes,yes,1.9,9,0.6,marsh type 3a,atypical,yes
+19,Male,Yes,Type 1,inflammatory,yes,PSS,yes,yes,1,12,2,marsh type 2,typical,yes
+28,Female,Yes,Type 1,watery,yes,Variant ,yes,no,1,11,1,marsh type 3b,atypical,yes
+23,Female,Yes,Type 1,watery,yes,PSS,yes,yes,1,7,0.9,marsh type 1,silent,yes
+9,Female,Yes,Type 1,watery,yes,PSS,yes,no,0.9,10.5,0.8,marsh type 3a,silent,yes
+8,Female,Yes,Type 1,inflammatory,yes,Variant ,yes,yes,0.8,9.5,1.2,marsh type 2,typical,yes
+9,Male,Yes,Type 1,inflammatory,yes,Variant ,yes,yes,1.6,11.4,0.91,marsh type 3a,atypical,yes
+7,Male,Yes,Type 1,inflammatory,yes,PSS,yes,yes,0.92,12,1,marsh type 0,potential,yes
+8,Male,Yes,Type 1,fatty ,yes,PSS,yes,yes,1.66,8,2,marsh type 3b,atypical,yes
+6,Female,Yes,Type 1,watery,yes,Variant ,yes,yes,1,11.5,2,marsh type 3a,silent,yes
+6,Male,Yes,Type 1,inflammatory,yes,Variant ,yes,yes,1,11,1.3,marsh type 2,typical,yes
+10,Male,Yes,Type 1,inflammatory,no,DSS,yes,no,2.3,7,2.1,marsh type 3b,atypical,yes
+3,Male,Yes,Type 1,inflammatory,yes,Variant ,yes,yes,1,9,1.4,marsh type 1,potential,yes
+7,Male,no,None,watery,no,Variant ,no,no,1,9.4,1.6,none,none,no
+9,Female,no,None,fatty ,no,DSS,no,no,1.2,9,1,none,none,no
+10,Female,no,None,fatty ,no,DSS,no,no,1.3,8,1,none,none,no
+6,Male,Yes,Type 1,inflammatory,yes,PSS,yes,yes,0.51,13.4,0.91,marsh type 2,typical,yes
+10,Male,Yes,Type 1,inflammatory,yes,Variant ,yes,yes,1.8,13,0.8,marsh type 3b,atypical,yes
+9,Female,Yes,Type 1,watery,yes,PSS,yes,yes,1.3,9,1.1,marsh type 1,latent,yes
+3,Male,Yes,Type 1,watery,yes,PSS,yes,no,1.1,7,0.6,marsh type 2,typical,yes
+10,Female,no,None,fatty ,no,DSS,no,no,1.3,8,1,none,none,no
+6,Male,Yes,Type 1,fatty ,yes,PSS,yes,yes,0.51,13.4,0.91,marsh type 2,typical,yes
+10,Male,Yes,Type 1,fatty ,yes,Variant ,yes,yes,1.8,13,0.8,marsh type 3b,atypical,yes
+9,Female,Yes,Type 1,inflammatory,yes,PSS,yes,yes,1.3,9,1.1,marsh type 1,latent,yes
+3,Male,Yes,Type 1,fatty ,yes,PSS,yes,no,1.1,7,0.6,marsh type 2,typical,yes
+11,Female,Yes,Type 1,fatty ,yes,PSS,yes,no,1.4,12,1.1,marsh type 3b,typical,yes
+15,Male,Yes,Type 1,inflammatory,yes,PSS,yes,no,0.34,10,0.6,marsh type 0,potential,yes
+7,Female,no,None,inflammatory,yes,DSS,yes,yes,2.1,8.5,2.1,marsh type 3b,typical,yes
+12,Female,Yes,Type 1,watery,yes,Variant ,yes,yes,1.9,11.1,1.1,marsh type 3a,atypical,yes
+7,Female,Yes,Type 2,fatty ,yes,PSS,no,no,0.51,13.4,0.91,marsh type 0,silent,yes
+8,Male,no,None,fatty ,yes,PSS,no,no,1.7,12,1,marsh type 0,potential,yes
+9,Female,Yes,Type 2,fatty ,yes,Variant ,yes,yes,1.1,8,1.5,marsh type 1,potential,yes
+21,Male,Yes,Type 1,watery,yes,PSS,yes,yes,1.3,12,0.7,marsh type 3c,atypical,yes
+31,Male,Yes,Type 1,fatty ,yes,Variant ,yes,yes,2.6,14.2,2,marsh type 3b,atypical,yes
+11,Female,Yes,Type 1,fatty ,yes,PSS,yes,yes,1,12,1.5,marsh type 1,latent,yes
+12,Female,Yes,Type 1,watery,yes,PSS,yes,yes,2,11,1,marsh type 3c,atypical,yes
+10,Female,Yes,None,inflammatory,yes,Variant ,yes,no,1.6,8.7,1.2,marsh type 1,latent,yes
+9,Female,Yes,Type 1,fatty ,no,Variant ,yes,yes,1.2,12,2.1,marsh type 0,latent,yes
+13,Male,Yes,Type 1,watery,yes,PSS,yes,no,0.96,6,0.86,marsh type 0,latent,yes
+10,Female,Yes,Type 1,fatty ,no,PSS,no,yes,1.1,9,2,marsh type 1,latent,yes
+13,Female,Yes,Type 1,fatty ,yes,Variant ,yes,yes,0.9,8,1,marsh type 0,latent,yes
+12,Male,no,None,watery,no,Variant ,yes,yes,0.6,12,1,none,none,no
+35,Female,Yes,Type 1,fatty ,yes,Variant ,yes,yes,2,12.3,0.98,marsh type 1,silent,yes
+29,Male,Yes,Type 1,watery,yes,PSS,yes,yes,1.4,12,1.1,marsh type 3b,typical,yes
+29,Female,Yes,Type 1,watery,yes,PSS,yes,yes,0.34,9,0.6,marsh type 0,potential,yes
+7,Male,Yes,Type 1,fatty ,yes,PSS,yes,yes,0.92,12,1,marsh type 0,potential,yes
+8,Male,Yes,Type 1,fatty ,yes,PSS,yes,yes,1.66,8,2,marsh type 3b,atypical,yes
+6,Female,Yes,Type 1,fatty ,yes,Variant ,yes,yes,1,11.5,2,marsh type 3a,silent,yes
+6,Male,Yes,Type 1,inflammatory,yes,Variant ,yes,yes,1,11,1.3,marsh type 2,typical,yes
+10,Male,Yes,Type 1,inflammatory,no,DSS,yes,no,2.3,7,2.1,marsh type 3b,atypical,yes
+3,Male,Yes,Type 1,inflammatory,yes,Variant ,yes,yes,1,9,1.4,marsh type 1,potential,yes
+7,Male,no,None,watery,no,Variant ,no,no,1,9.4,1.6,none,none,no
+9,Female,no,None,fatty ,no,DSS,no,no,1.2,9,1,none,none,no
+10,Female,no,None,inflammatory,no,DSS,no,no,1.3,8,1,none,none,no
+6,Male,Yes,Type 1,watery,yes,PSS,yes,yes,0.51,13.4,0.91,marsh type 2,typical,yes
+10,Male,Yes,Type 1,watery,yes,Variant ,yes,yes,1.8,13,0.8,marsh type 3b,atypical,yes
+9,Female,Yes,Type 1,watery,yes,PSS,yes,yes,1.3,9,1.1,marsh type 1,latent,yes
+3,Male,Yes,Type 1,fatty ,yes,PSS,yes,no,1.1,7,0.6,marsh type 2,typical,yes
+11,Female,Yes,Type 1,fatty ,yes,PSS,yes,no,1.4,12,1.1,marsh type 3b,typical,yes
+15,Male,Yes,Type 1,fatty ,yes,PSS,yes,no,0.34,10,0.6,marsh type 0,potential,yes
+7,Female,no,None,inflammatory,yes,DSS,yes,yes,2.1,8.5,2.1,marsh type 3b,typical,yes
+12,Female,Yes,Type 1,inflammatory,yes,Variant ,yes,yes,1.9,11.1,1.1,marsh type 3a,atypical,yes
+12,Female,Yes,Type 1,watery,yes,PSS,yes,yes,2,11,1,marsh type 3c,atypical,yes
+10,Female,Yes,None,fatty ,yes,Variant ,yes,no,1.6,8.7,1.2,marsh type 1,latent,yes
+9,Female,Yes,Type 1,inflammatory,no,Variant ,yes,yes,1.2,12,2.1,marsh type 0,latent,yes
+13,Male,Yes,Type 1,inflammatory,yes,PSS,yes,no,0.96,6,0.86,marsh type 0,latent,yes
+10,Female,Yes,Type 1,fatty ,no,PSS,no,yes,1.1,9,2,marsh type 1,latent,yes
+13,Female,Yes,Type 1,watery,yes,Variant ,yes,yes,0.9,8,1,marsh type 0,latent,yes
+12,Male,no,None,fatty ,no,Variant ,yes,yes,0.6,12,1,none,none,no
+14,Female,no,None,watery,yes,DSS,yes,yes,1.9,11,1.1,none,none,no
+18,Female,Yes,Type 1,fatty ,no,PSS,yes,yes,1.2,9,2.3,marsh type 3b,atypical,yes
+21,Female,Yes,Type 1,inflammatory,yes,Variant ,yes,no,1.1,8.7,1.3,marsh type 1,latent,yes
+14,Male,no,None,watery,yes,DSS,yes,no,9,12,1.7,none,none,no
+17,Male,Yes,Type 1,fatty ,yes,Variant ,yes,yes,1,11.3,1.1,marsh type 3b,silent,yes
+10,Female,Yes,Type 1,fatty ,yes,Variant ,yes,yes,0.8,9.5,1.2,marsh type 2,typical,yes
+13,Male,Yes,Type 1,watery,yes,Variant ,yes,yes,1.6,11.4,0.91,marsh type 3a,atypical,yes
+15,Male,Yes,Type 1,fatty ,yes,PSS,yes,yes,0.92,12,1,marsh type 0,potential,yes
+13,Male,Yes,Type 1,watery,yes,PSS,yes,yes,1.66,8,2,marsh type 3b,atypical,yes
+12,Female,Yes,Type 1,fatty ,yes,Variant ,yes,yes,1,11.5,2,marsh type 3a,silent,yes
+12,Male,Yes,Type 1,watery,yes,Variant ,yes,yes,1,11,1.3,marsh type 2,typical,yes
+10,Male,Yes,Type 1,inflammatory,no,DSS,yes,no,2.3,7,2.1,marsh type 3b,atypical,yes
+3,Male,Yes,Type 1,inflammatory,yes,Variant ,yes,yes,1,9,1.4,marsh type 1,potential,yes
+7,Male,no,None,fatty ,no,Variant ,no,no,1,9.4,1.6,none,none,no
+9,Female,no,None,watery,no,DSS,no,no,1.2,9,1,none,none,no
+10,Female,no,None,fatty ,no,DSS,no,no,1.3,8,1,none,none,no
+6,Male,Yes,Type 1,fatty ,yes,PSS,yes,yes,0.51,13.4,0.91,marsh type 2,typical,yes
+10,Male,Yes,Type 1,watery,yes,Variant ,yes,yes,1.8,13,0.8,marsh type 3b,atypical,yes
+9,Female,Yes,Type 1,inflammatory,yes,PSS,yes,yes,1.3,9,1.1,marsh type 1,latent,yes
+3,Male,Yes,Type 1,inflammatory,yes,PSS,yes,no,1.1,7,0.6,marsh type 2,typical,yes
+11,Female,Yes,Type 1,fatty ,yes,PSS,yes,no,1.4,12,1.1,marsh type 3b,typical,yes
+15,Male,Yes,Type 1,inflammatory,yes,PSS,yes,no,0.34,10,0.6,marsh type 0,potential,yes
+7,Female,no,None,fatty ,yes,DSS,yes,yes,2.1,8.5,2.1,marsh type 3b,typical,yes
+12,Female,Yes,Type 1,fatty ,yes,Variant ,yes,yes,1.9,11.1,1.1,marsh type 3a,atypical,yes
+7,Female,Yes,Type 2,watery,yes,PSS,no,no,0.51,13.4,0.91,marsh type 0,silent,yes
+8,Male,no,None,watery,yes,PSS,no,no,1.7,12,1,marsh type 0,potential,yes
+9,Female,Yes,Type 2,inflammatory,yes,Variant ,yes,yes,1.1,8,1.5,marsh type 1,potential,yes
+21,Male,Yes,Type 1,inflammatory,yes,PSS,yes,yes,1.3,12,0.7,marsh type 3c,atypical,yes
+31,Male,Yes,Type 1,fatty ,yes,Variant ,yes,yes,2.6,14.2,2,marsh type 3b,atypical,yes
+11,Female,Yes,Type 1,fatty ,yes,PSS,yes,yes,1,12,1.5,marsh type 1,latent,yes
+12,Female,Yes,Type 1,inflammatory,yes,PSS,yes,yes,2,11,1,marsh type 3c,atypical,yes
+10,Female,Yes,None,fatty ,yes,Variant ,yes,no,1.6,8.7,1.2,marsh type 1,latent,yes
+9,Female,Yes,Type 1,fatty ,no,Variant ,yes,yes,1.2,12,2.1,marsh type 0,latent,yes
+13,Male,Yes,Type 1,inflammatory,yes,PSS,yes,no,0.96,6,0.86,marsh type 0,latent,yes
+10,Female,Yes,Type 1,inflammatory,no,PSS,no,yes,1.1,9,2,marsh type 1,latent,yes
+13,Female,Yes,Type 1,fatty ,yes,Variant ,yes,yes,0.9,8,1,marsh type 0,latent,yes
+12,Male,no,None,watery,no,Variant ,yes,yes,0.6,12,1,none,none,no
+14,Female,no,None,fatty ,yes,DSS,yes,yes,1.9,11,1.1,none,none,no
+18,Female,Yes,Type 1,inflammatory,no,PSS,yes,yes,1.2,9,2.3,marsh type 3b,atypical,yes
+21,Female,Yes,Type 1,inflammatory,yes,Variant ,yes,no,1.1,8.7,1.3,marsh type 1,latent,yes
+14,Male,no,None,watery,yes,DSS,yes,no,9,12,1.7,none,none,no
+31,Female,Yes,Type 1,watery,yes,PSS,yes,yes,1,8,1.8,marsh type 1,silent,yes
+11,Female,Yes,Type 1,fatty ,yes,PSS,yes,no,0.9,10.5,0.8,marsh type 3a,silent,yes
+12,Female,Yes,Type 1,fatty ,yes,Variant ,yes,yes,0.8,9.5,1.2,marsh type 2,typical,yes
+10,Male,Yes,Type 1,inflammatory,yes,Variant ,yes,yes,1.6,11.4,0.91,marsh type 3a,atypical,yes
+9,Male,Yes,Type 1,inflammatory,yes,PSS,yes,yes,0.92,12,1,marsh type 0,potential,yes
+9,Male,Yes,Type 1,watery,yes,PSS,yes,yes,1.66,8,2,marsh type 3b,atypical,yes
+8,Female,Yes,Type 1,fatty ,yes,Variant ,yes,yes,1,11.5,2,marsh type 3a,silent,yes
+12,Male,Yes,Type 1,fatty ,yes,Variant ,yes,yes,1,11,1.3,marsh type 2,typical,yes
+12,Male,Yes,Type 1,inflammatory,no,DSS,yes,no,2.3,7,2.1,marsh type 3b,atypical,yes
+3,Male,Yes,Type 1,inflammatory,yes,Variant ,yes,yes,1,9,1.4,marsh type 1,potential,yes
+7,Male,no,None,fatty ,no,Variant ,no,no,1,9.4,1.6,none,none,no
+13,Female,no,None,fatty ,no,DSS,no,no,1.2,9,1,none,none,no
+10,Female,no,None,fatty ,no,DSS,no,no,1.3,8,1,none,none,no
+8,Male,Yes,Type 1,watery,yes,PSS,yes,yes,0.51,13.4,0.91,marsh type 2,typical,yes
+10,Male,Yes,Type 1,inflammatory,yes,Variant ,yes,yes,1.8,13,0.8,marsh type 3b,atypical,yes
+9,Female,Yes,Type 1,inflammatory,yes,PSS,yes,yes,1.3,9,1.1,marsh type 1,latent,yes
+3,Male,Yes,Type 1,watery,yes,PSS,yes,no,1.1,7,0.6,marsh type 2,typical,yes
+11,Female,Yes,Type 1,fatty ,yes,PSS,yes,no,1.4,12,1.1,marsh type 3b,typical,yes
+15,Male,Yes,Type 1,fatty ,yes,PSS,yes,no,0.34,10,0.6,marsh type 0,potential,yes
+7,Female,no,None,fatty ,yes,DSS,yes,yes,2.1,8.5,2.1,marsh type 3b,typical,yes
+12,Female,Yes,Type 1,watery,yes,Variant ,yes,yes,1.9,11.1,1.1,marsh type 3a,atypical,yes
+7,Female,Yes,Type 2,fatty ,yes,PSS,no,no,0.51,13.4,0.91,marsh type 0,silent,yes
+8,Male,no,None,fatty ,yes,PSS,no,no,1.7,12,1,marsh type 0,potential,yes
+9,Female,Yes,Type 2,watery,yes,Variant ,yes,yes,1.1,8,1.5,marsh type 1,potential,yes
+21,Male,Yes,Type 1,inflammatory,yes,PSS,yes,yes,1.3,12,0.7,marsh type 3c,atypical,yes
+31,Male,Yes,Type 1,fatty ,yes,Variant ,yes,yes,2.6,14.2,2,marsh type 3b,atypical,yes
+11,Female,Yes,Type 1,watery,yes,PSS,yes,yes,1,12,1.5,marsh type 1,latent,yes
+12,Female,Yes,Type 1,fatty ,yes,PSS,yes,yes,2,11,1,marsh type 3c,atypical,yes
+10,Female,Yes,None,fatty ,yes,Variant ,yes,no,1.6,8.7,1.2,marsh type 1,latent,yes
+9,Female,Yes,Type 1,watery,no,Variant ,yes,yes,1.2,12,2.1,marsh type 0,latent,yes
+13,Male,Yes,Type 1,fatty ,yes,PSS,yes,no,0.96,6,0.86,marsh type 0,latent,yes
+10,Female,Yes,Type 1,watery,no,PSS,no,yes,1.1,9,2,marsh type 1,latent,yes
+13,Female,Yes,Type 1,watery,yes,Variant ,yes,yes,0.9,8,1,marsh type 0,latent,yes
+12,Male,no,None,fatty ,no,Variant ,yes,yes,0.6,12,1,none,none,no
+14,Female,no,None,fatty ,yes,DSS,yes,yes,1.9,11,1.1,none,none,no
+18,Female,Yes,Type 1,fatty ,no,PSS,yes,yes,1.2,9,2.3,marsh type 3b,atypical,yes
+21,Female,Yes,Type 1,inflammatory,yes,Variant ,yes,no,1.1,8.7,1.3,marsh type 1,latent,yes
+14,Male,no,None,inflammatory,yes,DSS,yes,no,9,12,1.7,none,none,no
+17,Male,Yes,Type 1,inflammatory,yes,Variant ,yes,yes,1,11.3,1.1,marsh type 3b,silent,yes
+11,Female,Yes,Type 1,watery,no,DSS,yes,no,0.9,9,1,marsh type 0,latent,yes
+15,Male,Yes,Type 1,fatty ,yes,DSS,no,yes,0.9,10,1.2,marsh type 3c,typical,yes
+10,Female,Yes,Type 1,inflammatory,yes,PSS,yes,yes,1.1,6.1,1.1,marsh type 3b,silent,yes
+11,Female,Yes,Type 1,watery,yes,PSS,yes,yes,2.1,6.9,1.2,marsh type 1,silent,yes
+12,Male,Yes,Type 1,watery,yes,Variant ,yes,yes,2,9,1.1,marsh type 3b,typical,yes
+12,Male,Yes,Type 1,watery,yes,Variant ,yes,yes,0.97,9.1,1.77,marsh type 3a,atypical,yes
+7,Male,no,None,fatty ,no,Variant ,no,no,1,5,1.2,none,none,no
+9,Male,no,None,fatty ,no,Variant ,no,no,2,5,1.8,none,none,no
+31,Female,Yes,Type 1,fatty ,yes,PSS,yes,yes,1,8,1.8,marsh type 1,silent,yes
+10,Male,Yes,Type 1,inflammatory,yes,PSS,yes,yes,2.1,8,1.1,marsh type 3b,silent,yes
+32,Female,Yes,Type 1,inflammatory,yes,Variant ,yes,yes,1,12,0.9,marsh type 3c,atypical,yes
+35,Female,Yes,Type 1,watery,yes,Variant ,yes,yes,2,12.3,0.98,marsh type 1,silent,yes
+29,Male,Yes,Type 1,fatty ,yes,PSS,yes,yes,1.4,12,1.1,marsh type 3b,typical,yes
+29,Female,Yes,Type 1,inflammatory,yes,PSS,yes,yes,0.34,9,0.6,marsh type 0,potential,yes
+15,Male,Yes,Type 1,inflammatory,yes,PSS,yes,no,0.34,10,0.6,marsh type 0,potential,yes
+7,Female,no,None,fatty ,yes,DSS,yes,yes,2.1,8.5,2.1,marsh type 3b,typical,yes
+12,Female,Yes,Type 1,watery,yes,Variant ,yes,yes,1.9,11.1,1.1,marsh type 3a,atypical,yes
+7,Female,Yes,Type 2,fatty ,yes,PSS,no,no,0.51,13.4,0.91,marsh type 0,silent,yes
+8,Male,no,None,watery,yes,PSS,no,no,1.7,12,1,marsh type 0,potential,yes
+9,Female,Yes,Type 2,fatty ,yes,Variant ,yes,yes,1.1,8,1.5,marsh type 1,potential,yes
+21,Male,Yes,Type 1,inflammatory,yes,PSS,yes,yes,1.3,12,0.7,marsh type 3c,atypical,yes
+31,Male,Yes,Type 1,watery,yes,Variant ,yes,yes,2.6,14.2,2,marsh type 3b,atypical,yes
+11,Female,Yes,Type 1,fatty ,yes,PSS,yes,yes,1,12,1.5,marsh type 1,latent,yes
+12,Female,Yes,Type 1,fatty ,yes,PSS,yes,yes,2,11,1,marsh type 3c,atypical,yes
+10,Female,Yes,None,watery,yes,Variant ,yes,no,1.6,8.7,1.2,marsh type 1,latent,yes
+9,Female,Yes,Type 1,fatty ,no,Variant ,yes,yes,1.2,12,2.1,marsh type 0,latent,yes
+13,Male,Yes,Type 1,watery,yes,PSS,yes,no,0.96,6,0.86,marsh type 0,latent,yes
+10,Female,Yes,Type 1,fatty ,no,PSS,no,yes,1.1,9,2,marsh type 1,latent,yes
+13,Female,Yes,Type 1,watery,yes,Variant ,yes,yes,0.9,8,1,marsh type 0,latent,yes
+12,Male,no,None,inflammatory,no,Variant ,yes,yes,0.6,12,1,none,none,no
+14,Female,no,None,inflammatory,yes,DSS,yes,yes,1.9,11,1.1,none,none,no
+22,Female,Yes,Type 1,fatty ,no,PSS,yes,yes,1.2,9,2.3,marsh type 3b,atypical,yes
+24,Female,Yes,Type 1,watery,yes,Variant ,yes,no,1.1,8.7,1.3,marsh type 1,latent,yes
+19,Male,no,None,fatty ,yes,DSS,yes,no,9,12,1.7,none,none,no
+20,Male,Yes,Type 1,fatty ,yes,Variant ,yes,yes,1,11.3,1.1,marsh type 3b,silent,yes
+11,Female,Yes,Type 1,watery,no,DSS,yes,no,0.9,9,1,marsh type 0,latent,yes
+15,Male,Yes,Type 1,inflammatory,yes,DSS,no,yes,0.9,10,1.2,marsh type 3c,typical,yes
+10,Female,Yes,Type 1,inflammatory,yes,PSS,yes,yes,1.1,6.1,1.1,marsh type 3b,silent,yes
+11,Female,Yes,Type 1,fatty ,yes,PSS,yes,yes,2.1,6.9,1.2,marsh type 1,silent,yes
+12,Male,Yes,Type 1,inflammatory,yes,Variant ,yes,yes,2,9,1.1,marsh type 3b,typical,yes
+12,Male,Yes,Type 1,fatty ,yes,Variant ,yes,yes,0.97,9.1,1.77,marsh type 3a,atypical,yes
+7,Male,no,None,fatty ,no,Variant ,no,no,1,5,1.2,none,none,no
+9,Male,no,None,watery,no,Variant ,no,no,2,5,1.8,none,none,no
+31,Female,Yes,Type 1,watery,yes,PSS,yes,yes,1,8,1.8,marsh type 1,silent,yes
+10,Male,Yes,Type 1,inflammatory,yes,PSS,yes,yes,2.1,8,1.1,marsh type 3b,silent,yes
+32,Female,Yes,Type 1,inflammatory,yes,Variant ,yes,yes,1,12,0.9,marsh type 3c,atypical,yes
+35,Female,Yes,Type 1,fatty ,yes,Variant ,yes,yes,2,12.3,0.98,marsh type 1,silent,yes
+29,Male,Yes,Type 1,fatty ,yes,PSS,yes,yes,1.4,12,1.1,marsh type 3b,typical,yes
+29,Female,Yes,Type 1,inflammatory,yes,PSS,yes,yes,0.34,9,0.6,marsh type 0,potential,yes
+7,Male,no,None,fatty ,yes,DSS,yes,yes,2.1,9.5,2.1,marsh type 3b,typical,yes
+11,Male,Yes,Type 1,fatty ,yes,Variant ,yes,yes,1.9,12.1,1.1,marsh type 3a,atypical,yes
+11,Male,Yes,Type 1,inflammatory,no,Variant ,yes,yes,2.4,11,0.77,marsh type 3c,silent,yes
+9,Female,Yes,Type 1,inflammatory,yes,DSS,yes,yes,2.1,10,0.6,marsh type 1,potential,yes
+16,Male,Yes,Type 1,fatty ,yes,DSS,yes,yes,1.6,11,1.6,marsh type 2,typical,yes
+20,Female,Yes,Type 1,watery,no,Variant ,yes,yes,1.5,12,1.6,marsh type 3a,atypical,yes
+16,Male,Yes,Type 1,fatty ,no,PSS,yes,yes,2.1,9,0.8,marsh type 2,typical,yes
+28,Male,Yes,Type 1,inflammatory,yes,PSS,no,no,1,10.5,1.1,marsh type 0,silent,yes
+31,Female,Yes,Type 1,inflammatory,yes,Variant ,yes,yes,1.1,9.5,1,marsh type 3b,silent,yes
+18,Male,Yes,Type 1,watery,yes,Variant ,yes,yes,2.1,11.4,1,marsh type 3a,atypical,yes
+24,Female,Yes,Type 1,watery,yes,PSS,yes,yes,0.8,12,0.98,marsh type 3c,silent,yes
+21,Female,Yes,Type 1,fatty ,yes,PSS,yes,yes,1.5,8,1.1,marsh type 1,potential,yes
+20,Male,Yes,Type 1,fatty ,yes,Variant ,yes,yes,0.42,11.5,1,marsh type 3c,atypical,yes
+19,Female,Yes,Type 1,inflammatory,yes,Variant ,yes,yes,0.56,11,1,marsh type 2,typical,yes
+8,Male,no,None,inflammatory,no,DSS,no,no,1.5,7,1.2,none,none,no
+7,Male,Yes,Type 1,watery,yes,PSS,no,no,0.51,13.4,0.91,marsh type 0,silent,yes
+8,Female,Yes,Type 1,fatty ,yes,PSS,no,no,1.7,12,1,marsh type 3b,atypical,yes
+9,Male,Yes,Type 1,fatty ,yes,Variant ,yes,yes,1.1,8,1.5,marsh type 1,potential,yes
+21,Female,Yes,Type 1,inflammatory,yes,PSS,yes,yes,1.3,12,0.7,marsh type 3c,atypical,yes
+25,Male,Yes,Type 2,inflammatory,yes,PSS,yes,yes,1.1,8.1,1.8,marsh type 3c,atypical,yes
+31,Male,Yes,Type 2,fatty ,yes,PSS,yes,yes,0.6,12,0.8,marsh type 1,silent,yes
+28,Male,Yes,Type 2,fatty ,yes,Variant ,yes,yes,1,10.5,2,marsh type 3c,atypical,yes
+26,Female,Yes,Type 2,fatty ,yes,Variant ,yes,yes,2,9,1,marsh type 2,typical,yes
+8,Male,Yes,Type 1,watery,yes,PSS,yes,yes,1.9,9,0.6,marsh type 3a,atypical,yes
+19,Male,Yes,Type 1,inflammatory,yes,PSS,yes,yes,1,12,2,marsh type 2,typical,yes
+30,Female,Yes,Type 1,fatty ,yes,Variant ,yes,no,1,11,1,marsh type 3b,atypical,yes
+32,Male,no,None,inflammatory,no,Variant ,yes,yes,0.6,12,1,none,none,no
+25,Female,no,None,inflammatory,yes,DSS,yes,yes,1.9,11,1.1,none,none,no
+26,Female,Yes,Type 1,watery,no,PSS,yes,yes,1.2,9,2.3,marsh type 3b,atypical,yes
+33,Female,Yes,Type 1,watery,yes,Variant ,yes,no,1.1,8.7,1.3,marsh type 1,latent,yes
+23,Male,no,None,inflammatory,yes,DSS,yes,no,9,12,1.7,none,none,no
+21,Male,Yes,Type 1,fatty ,yes,Variant ,yes,yes,1,11.3,1.1,marsh type 3b,silent,yes
+33,Female,Yes,Type 1,inflammatory,no,DSS,yes,no,0.9,9,1,marsh type 0,latent,yes
+25,Male,Yes,Type 1,inflammatory,yes,DSS,no,yes,0.9,10,1.2,marsh type 3c,typical,yes
+10,Female,Yes,Type 1,watery,yes,PSS,yes,yes,1.1,6.1,1.1,marsh type 3b,silent,yes
+11,Female,Yes,Type 1,watery,yes,PSS,yes,yes,2.1,6.9,1.2,marsh type 1,silent,yes
+12,Male,Yes,Type 1,inflammatory,yes,Variant ,yes,yes,2,9,1.1,marsh type 3b,typical,yes
+12,Male,Yes,Type 1,inflammatory,yes,Variant ,yes,yes,0.97,9.1,1.77,marsh type 3a,atypical,yes
+7,Male,no,None,fatty ,no,Variant ,no,no,1,5,1.2,none,none,no
+9,Male,no,None,fatty ,no,Variant ,no,no,2,5,1.8,none,none,no
+31,Female,Yes,Type 2,inflammatory,yes,PSS,yes,yes,1,8,1.8,marsh type 1,silent,yes
+10,Male,Yes,Type 2,inflammatory,yes,PSS,yes,yes,2.1,8,1.1,marsh type 3b,silent,yes
+32,Female,Yes,Type 2,inflammatory,yes,Variant ,yes,yes,1,12,0.9,marsh type 3c,atypical,yes
+35,Female,Yes,Type 2,fatty ,yes,Variant ,yes,yes,2,12.3,0.98,marsh type 1,silent,yes
+29,Male,Yes,Type 2,fatty ,yes,PSS,yes,yes,1.4,12,1.1,marsh type 3b,typical,yes
+29,Female,Yes,Type 2,watery,yes,PSS,yes,yes,0.34,9,0.6,marsh type 0,potential,yes
+7,Male,no,None,watery,yes,DSS,yes,yes,2.1,9.5,2.1,marsh type 3b,typical,yes
+11,Male,Yes,Type 1,inflammatory,yes,Variant ,yes,yes,1.9,12.1,1.1,marsh type 3a,atypical,yes
+11,Male,Yes,Type 1,fatty ,no,Variant ,yes,yes,2.4,11,0.77,marsh type 3c,silent,yes
+9,Female,Yes,Type 1,fatty ,yes,DSS,yes,yes,2.1,10,0.6,marsh type 1,potential,yes
+16,Male,Yes,Type 1,inflammatory,yes,DSS,yes,yes,1.6,11,1.6,marsh type 2,typical,yes
+8,Male,Yes,Type 1,inflammatory,yes,PSS,no,no,1,10.5,1.1,marsh type 0,silent,yes
+7,Female,Yes,Type 1,watery,yes,Variant ,yes,yes,1.1,9.5,1,marsh type 3b,silent,yes
+8,Male,Yes,Type 1,watery,yes,Variant ,yes,yes,2.1,11.4,1,marsh type 3a,atypical,yes
+6,Female,Yes,Type 1,inflammatory,yes,PSS,yes,yes,0.8,12,0.98,marsh type 3c,silent,yes
+8,Male,Yes,Type 1,fatty ,yes,PSS,yes,yes,1.9,9,0.6,marsh type 3a,atypical,yes
+19,Male,Yes,Type 1,inflammatory,yes,PSS,yes,yes,1,12,2,marsh type 2,typical,yes
+28,Female,Yes,Type 1,fatty ,yes,Variant ,yes,no,1,11,1,marsh type 3b,atypical,yes
+23,Female,Yes,Type 1,watery,yes,PSS,yes,yes,1,7,0.9,marsh type 1,silent,yes
+9,Female,Yes,Type 1,fatty ,yes,PSS,yes,no,0.9,10.5,0.8,marsh type 3a,silent,yes
+8,Female,Yes,Type 1,inflammatory,yes,Variant ,yes,yes,0.8,9.5,1.2,marsh type 2,typical,no
+9,Male,Yes,Type 1,inflammatory,yes,Variant ,yes,yes,1.6,11.4,0.91,marsh type 3a,atypical,yes
+7,Male,Yes,Type 1,fatty ,yes,PSS,yes,yes,0.92,12,1,none,none,no
+8,Male,Yes,Type 1,fatty ,yes,PSS,yes,yes,1.66,8,2,marsh type 3b,atypical,yes
+6,Female,Yes,Type 1,inflammatory,yes,Variant ,yes,yes,1,11.5,2,marsh type 3a,silent,yes
+6,Male,Yes,Type 1,fatty ,yes,Variant ,yes,yes,1,11,1.3,none,none,no
+10,Male,Yes,Type 1,fatty ,no,DSS,yes,no,2.3,7,2.1,marsh type 3b,atypical,yes
+3,Male,Yes,Type 1,inflammatory,yes,Variant ,yes,yes,1,9,1.4,marsh type 1,potential,yes
+7,Male,no,None,inflammatory,no,Variant ,no,no,1,9.4,1.6,none,none,no
+9,Female,no,None,fatty ,no,DSS,no,no,1.2,9,1,none,none,no
+10,Female,no,None,watery,no,DSS,no,no,1.3,8,1,none,none,no
+6,Male,Yes,Type 1,watery,yes,PSS,yes,yes,0.51,13.4,0.91,marsh type 2,typical,yes
+10,Male,Yes,Type 1,watery,yes,Variant ,yes,yes,1.8,13,0.8,marsh type 3b,atypical,yes
+9,Female,Yes,Type 1,fatty ,yes,PSS,yes,yes,1.3,9,1.1,marsh type 1,latent,no
+3,Male,Yes,Type 1,fatty ,yes,PSS,yes,no,1.1,7,0.6,marsh type 2,typical,yes
+11,Female,Yes,Type 1,inflammatory,yes,PSS,yes,no,1.4,12,1.1,none,none,no
+15,Male,Yes,Type 1,watery,yes,PSS,yes,no,0.34,10,0.6,marsh type 0,potential,yes
+7,Female,no,None,watery,yes,DSS,yes,yes,2.1,8.5,2.1,none,none,no
+12,Female,Yes,Type 1,inflammatory,yes,Variant ,yes,yes,1.9,11.1,1.1,none,none,no
+14,Female,no,None,watery,yes,DSS,yes,yes,1.9,11,1.1,none,none,no
+18,Female,Yes,Type 1,inflammatory,no,PSS,yes,yes,1.2,9,2.3,marsh type 3b,atypical,yes
+21,Female,Yes,Type 1,inflammatory,yes,Variant ,yes,no,1.1,8.7,1.3,marsh type 1,latent,yes
+14,Male,no,None,watery,yes,DSS,yes,no,9,12,1.7,none,none,no
+17,Male,Yes,Type 1,watery,yes,Variant ,yes,yes,1,11.3,1.1,none,none,no
+11,Female,Yes,Type 1,fatty ,no,DSS,yes,no,0.9,9,1,marsh type 0,latent,yes
+15,Male,Yes,Type 1,fatty ,yes,DSS,no,yes,0.9,10,1.2,marsh type 3c,typical,yes
+10,Female,Yes,Type 1,watery,yes,PSS,yes,yes,1.1,6.1,1.1,marsh type 3b,silent,yes
+11,Female,Yes,Type 1,watery,yes,PSS,yes,yes,2.1,6.9,1.2,marsh type 1,silent,yes
+12,Male,Yes,Type 1,fatty ,yes,Variant ,yes,yes,2,9,1.1,marsh type 3b,typical,yes
+12,Male,Yes,Type 1,watery,yes,Variant ,yes,yes,0.97,9.1,1.77,marsh type 3a,atypical,yes
+7,Male,no,None,fatty ,no,Variant ,no,no,1,5,1.2,none,none,no
+9,Male,no,None,fatty ,no,Variant ,no,no,2,5,1.8,none,none,no
+31,Female,Yes,Type 1,watery,yes,PSS,yes,yes,1,8,1.8,marsh type 1,silent,yes
+10,Male,Yes,Type 1,watery,yes,PSS,yes,yes,2.1,8,1.1,marsh type 3b,silent,yes
+32,Female,Yes,Type 1,fatty ,yes,Variant ,yes,yes,1,12,0.9,marsh type 3c,atypical,yes
+35,Female,Yes,Type 1,inflammatory,yes,Variant ,yes,yes,2,12.3,0.98,marsh type 1,silent,yes
+29,Male,Yes,Type 1,inflammatory,yes,PSS,yes,yes,1.4,12,1.1,marsh type 3b,typical,yes
+29,Female,Yes,Type 1,fatty ,yes,PSS,yes,yes,0.34,9,0.6,marsh type 0,potential,yes
+7,Male,no,None,fatty ,yes,DSS,yes,yes,2.1,9.5,2.1,marsh type 3b,typical,yes
+11,Male,Yes,Type 1,fatty ,yes,Variant ,yes,yes,1.9,12.1,1.1,marsh type 3a,atypical,yes
+11,Male,Yes,Type 1,fatty ,no,Variant ,yes,yes,2.4,11,0.77,marsh type 3c,silent,yes
+9,Female,Yes,Type 1,inflammatory,yes,DSS,yes,yes,2.1,10,0.6,marsh type 1,potential,yes
+16,Male,Yes,Type 1,fatty ,yes,DSS,yes,yes,1.6,11,1.6,marsh type 2,typical,yes
+20,Female,Yes,Type 1,inflammatory,no,Variant ,yes,yes,1.5,12,1.6,marsh type 3a,atypical,yes
+16,Male,Yes,Type 1,inflammatory,no,PSS,yes,yes,2.1,9,0.8,marsh type 2,typical,yes
+8,Male,Yes,Type 1,fatty ,yes,PSS,no,no,1,10.5,1.1,marsh type 0,silent,yes
+7,Female,Yes,Type 1,watery,yes,Variant ,yes,yes,1.1,9.5,1,none,none,no
+8,Male,Yes,Type 1,inflammatory,yes,Variant ,yes,yes,2.1,11.4,1,marsh type 3a,atypical,yes
+6,Female,Yes,Type 1,fatty ,yes,PSS,yes,yes,0.8,12,0.98,marsh type 3c,silent,yes
+7,Female,Yes,Type 1,inflammatory,yes,PSS,yes,yes,1.5,8,1.1,marsh type 1,potential,yes
+5,Male,Yes,Type 1,inflammatory,yes,Variant ,yes,yes,0.42,11.5,1,none,none,no
+8,Female,Yes,Type 1,fatty ,yes,Variant ,yes,yes,0.56,11,1,marsh type 2,typical,yes
+8,Male,no,None,watery,no,DSS,no,no,1.5,7,1.2,none,none,no
+7,Male,Yes,Type 1,inflammatory,yes,PSS,no,no,0.51,13.4,0.91,marsh type 0,silent,yes
+8,Female,Yes,Type 1,inflammatory,yes,PSS,no,no,1.7,12,1,marsh type 3b,atypical,yes
+9,Male,Yes,Type 1,watery,yes,Variant ,yes,yes,1.1,8,1.5,marsh type 1,potential,yes
+21,Female,Yes,Type 1,inflammatory,yes,PSS,yes,yes,1.3,12,0.7,none,none,no
+25,Male,Yes,Type 2,inflammatory,yes,PSS,yes,yes,1.1,8.1,1.8,marsh type 3c,atypical,yes
+31,Male,Yes,Type 2,fatty ,yes,PSS,yes,yes,0.6,12,0.8,marsh type 1,silent,yes
+28,Male,Yes,Type 2,fatty ,yes,Variant ,yes,yes,1,10.5,2,marsh type 3c,atypical,yes
+26,Female,Yes,Type 2,inflammatory,yes,Variant ,yes,yes,2,9,1,none,none,no
+9,Female,Yes,Type 1,fatty ,yes,PSS,yes,yes,1.1,9.5,1,marsh type 3b,atypical,yes
+8,Male,Yes,Type 1,fatty ,yes,PSS,yes,yes,2.1,11.4,1,none,none,no
+7,Female,Yes,Type 1,inflammatory,yes,DSS,no,no,0.8,11,0.98,marsh type 3b,atypical,yes
+7,Female,Yes,Type 1,fatty ,yes,DSS,no,no,1.5,9,1.1,marsh type 2,typical,yes
+5,Male,no,None,watery,yes,PSS,yes,no,1,9,1.4,none,none,no
+8,Female,no,None,watery,yes,Variant ,yes,yes,1.2,13.1,1.8,none,none,no
+6,Male,Yes,Type 1,fatty ,yes,Variant ,yes,yes,0.42,12,1,marsh type 3a,atypical,yes
+8,Female,Yes,Type 1,fatty ,yes,Variant ,yes,yes,0.56,12,1,marsh type 1,silent,yes
+18,Male,Yes,Type 1,watery,yes,Variant ,yes,yes,2.1,12.3,0.98,none,none,no
+19,Male,Yes,Type 1,inflammatory,yes,PSS,yes,no,1.4,12,1,marsh type 0,silent,yes
+8,Male,Yes,Type 1,inflammatory,yes,PSS,yes,yes,0.34,10,0.6,none,none,no
+9,Male,Yes,None,watery,yes,DSS,yes,yes,1.7,9.5,1,marsh type 3b,silent,yes
+16,Male,Yes,Type 1,inflammatory,yes,Variant ,yes,yes,2,14,1,marsh type 3a,silent,yes
+10,Male,Yes,Type 1,fatty ,yes,PSS,yes,no,2.1,12,0.77,none,none,no
+8,Male,Yes,Type 1,watery,yes,PSS,yes,yes,1.9,9,0.6,marsh type 3a,atypical,yes
+19,Male,Yes,Type 1,inflammatory,yes,PSS,yes,yes,1,12,2,marsh type 2,typical,yes
+28,Female,Yes,Type 1,inflammatory,yes,Variant ,yes,no,1,11,1,none,none,no
+23,Female,Yes,Type 1,watery,yes,PSS,yes,yes,1,7,0.9,marsh type 1,silent,yes
+9,Female,Yes,Type 1,fatty ,yes,PSS,yes,no,0.9,10.5,0.8,none,none,no
+8,Female,Yes,Type 1,inflammatory,yes,Variant ,yes,yes,0.8,9.5,1.2,marsh type 2,typical,yes
+9,Male,Yes,Type 1,fatty ,yes,Variant ,yes,yes,1.6,11.4,0.91,none,none,no
+7,Male,Yes,Type 1,watery,yes,PSS,yes,yes,0.92,12,1,marsh type 0,potential,yes
+8,Male,Yes,Type 1,inflammatory,yes,PSS,yes,yes,1.66,8,2,none,none,no
+6,Female,Yes,Type 1,fatty ,yes,Variant ,yes,yes,1,11.5,2,marsh type 3a,silent,yes
+6,Male,Yes,Type 1,watery,yes,Variant ,yes,yes,1,11,1.3,none,none,no
+10,Male,Yes,Type 1,fatty ,no,DSS,yes,no,2.3,7,2.1,marsh type 3b,atypical,yes
+3,Male,Yes,Type 1,inflammatory,yes,Variant ,yes,yes,1,9,1.4,none,none,no
+7,Male,no,None,fatty ,no,Variant ,no,no,1,9.4,1.6,none,none,no
+9,Female,no,None,watery,no,DSS,no,no,1.2,9,1,none,none,no
+10,Female,no,None,inflammatory,no,DSS,no,no,1.3,8,1,none,none,no
+6,Male,Yes,Type 1,fatty ,yes,PSS,yes,yes,0.51,13.4,0.91,marsh type 2,typical,yes
+10,Male,Yes,Type 1,watery,yes,Variant ,yes,yes,1.8,13,0.8,marsh type 3b,atypical,yes
+9,Female,Yes,Type 1,watery,yes,PSS,yes,yes,1.3,9,1.1,marsh type 1,latent,yes
+3,Male,Yes,Type 1,inflammatory,yes,PSS,yes,no,1.1,7,0.6,marsh type 2,typical,yes
+11,Female,Yes,Type 1,fatty ,yes,PSS,yes,no,1.4,12,1.1,marsh type 3b,typical,yes
+15,Male,Yes,Type 1,watery,yes,PSS,yes,no,0.34,10,0.6,marsh type 0,potential,yes
+7,Female,no,None,watery,yes,DSS,yes,yes,2.1,8.5,2.1,marsh type 3b,typical,yes
+12,Female,Yes,Type 1,fatty ,yes,Variant ,yes,yes,1.9,11.1,1.1,marsh type 3a,atypical,yes
+7,Female,Yes,Type 2,fatty ,yes,PSS,no,no,0.51,13.4,0.91,marsh type 0,silent,yes
+8,Male,no,None,watery,yes,PSS,no,no,1.7,12,1,marsh type 0,potential,yes
+9,Female,Yes,Type 2,fatty ,yes,Variant ,yes,yes,1.1,8,1.5,marsh type 1,potential,yes
+21,Male,Yes,Type 1,fatty ,yes,PSS,yes,yes,1.3,12,0.7,marsh type 3c,atypical,yes
+31,Male,Yes,Type 1,watery,yes,Variant ,yes,yes,2.6,14.2,2,marsh type 3b,atypical,yes
+11,Female,Yes,Type 1,fatty ,yes,PSS,yes,yes,1,12,1.5,marsh type 1,latent,yes
+12,Female,Yes,Type 1,fatty ,yes,PSS,yes,yes,2,11,1,marsh type 3c,atypical,yes
+10,Female,Yes,None,inflammatory,yes,Variant ,yes,no,1.6,8.7,1.2,marsh type 1,latent,yes
+9,Female,Yes,Type 1,fatty ,no,Variant ,yes,yes,1.2,12,2.1,marsh type 0,latent,yes
+13,Male,Yes,Type 1,watery,yes,PSS,yes,no,0.96,6,0.86,marsh type 0,latent,yes
+10,Female,Yes,Type 1,fatty ,no,PSS,no,yes,1.1,9,2,marsh type 1,latent,yes
+13,Female,Yes,Type 1,watery,yes,Variant ,yes,yes,0.9,8,1,marsh type 0,latent,yes
+12,Male,no,None,fatty ,no,Variant ,yes,yes,0.6,12,1,none,none,no
+14,Female,no,None,inflammatory,yes,DSS,yes,yes,1.9,11,1.1,none,none,no
+18,Female,Yes,Type 1,fatty ,no,PSS,yes,yes,1.2,9,2.3,marsh type 3b,atypical,yes
+21,Female,Yes,Type 1,watery,yes,Variant ,yes,no,1.1,8.7,1.3,marsh type 1,latent,yes
+14,Male,no,None,fatty ,yes,DSS,yes,no,9,12,1.7,none,none,no
+17,Male,Yes,Type 1,fatty ,yes,Variant ,yes,yes,1,11.3,1.1,marsh type 3b,silent,yes
+11,Female,Yes,Type 1,fatty ,no,DSS,yes,no,0.9,9,1,marsh type 0,latent,yes
+15,Male,Yes,Type 1,inflammatory,yes,DSS,no,yes,0.9,10,1.2,marsh type 3c,typical,yes
+10,Female,Yes,Type 1,fatty ,yes,PSS,yes,yes,1.1,6.1,1.1,marsh type 3b,silent,yes
+11,Female,Yes,Type 1,watery,yes,PSS,yes,yes,2.1,6.9,1.2,marsh type 1,silent,yes
+12,Male,Yes,Type 1,watery,yes,Variant ,yes,yes,2,9,1.1,marsh type 3b,typical,yes
+12,Male,Yes,Type 1,fatty ,yes,Variant ,yes,yes,0.97,9.1,1.77,marsh type 3a,atypical,yes
+7,Male,no,None,fatty ,no,Variant ,no,no,1,5,1.2,none,none,no
+9,Male,no,None,watery,no,Variant ,no,no,2,5,1.8,none,none,no
+31,Female,Yes,Type 1,fatty ,yes,PSS,yes,yes,1,8,1.8,marsh type 1,silent,yes
+10,Male,Yes,Type 1,fatty ,yes,PSS,yes,yes,2.1,8,1.1,marsh type 3b,silent,yes
+32,Female,Yes,Type 1,watery,yes,Variant ,yes,yes,1,12,0.9,marsh type 3c,atypical,yes
+35,Female,Yes,Type 1,fatty ,yes,Variant ,yes,yes,2,12.3,0.98,marsh type 1,silent,yes
+29,Male,Yes,Type 1,fatty ,yes,PSS,yes,yes,1.4,12,1.1,marsh type 3b,typical,yes
+29,Female,Yes,Type 1,watery,yes,PSS,yes,yes,0.34,9,0.6,marsh type 0,potential,yes
+7,Male,no,None,watery,yes,DSS,yes,yes,2.1,9.5,2.1,marsh type 3b,typical,yes
+11,Male,Yes,Type 1,watery,yes,Variant ,yes,yes,1.9,12.1,1.1,marsh type 3a,atypical,yes
+11,Male,Yes,Type 1,fatty ,no,Variant ,yes,yes,2.4,11,0.77,marsh type 3c,silent,yes
+9,Female,Yes,Type 1,fatty ,yes,DSS,yes,yes,2.1,10,0.6,marsh type 1,potential,yes
+16,Male,Yes,Type 1,fatty ,yes,DSS,yes,yes,1.6,11,1.6,marsh type 2,typical,yes
+20,Female,Yes,Type 1,watery,no,Variant ,yes,yes,1.5,12,1.6,marsh type 3a,atypical,yes
+16,Male,Yes,Type 1,fatty ,no,PSS,yes,yes,2.1,9,0.8,marsh type 2,typical,yes
+8,Male,Yes,Type 1,watery,yes,PSS,no,no,1,10.5,1.1,marsh type 0,silent,yes
+7,Female,Yes,Type 1,watery,yes,Variant ,yes,yes,1.1,9.5,1,marsh type 3b,silent,yes
+8,Male,Yes,Type 1,fatty ,yes,Variant ,yes,yes,2.1,11.4,1,marsh type 3a,atypical,yes
+6,Female,Yes,Type 1,inflammatory,yes,PSS,yes,yes,0.8,12,0.98,marsh type 3c,silent,yes
+7,Female,Yes,Type 1,inflammatory,yes,PSS,yes,yes,1.5,8,1.1,marsh type 1,potential,yes
+5,Male,Yes,Type 1,watery,yes,Variant ,yes,yes,0.42,11.5,1,marsh type 3c,atypical,yes
+8,Female,Yes,Type 1,fatty ,yes,Variant ,yes,yes,0.56,11,1,marsh type 2,typical,yes
+8,Male,no,None,inflammatory,no,DSS,no,no,1.5,7,1.2,none,none,no
+7,Male,Yes,Type 1,inflammatory,yes,PSS,no,no,0.51,13.4,0.91,marsh type 0,silent,yes
+8,Female,Yes,Type 1,fatty ,yes,PSS,no,no,1.7,12,1,marsh type 3b,atypical,yes
+9,Male,Yes,Type 1,fatty ,yes,Variant ,yes,yes,1.1,8,1.5,marsh type 1,potential,yes
+21,Female,Yes,Type 1,inflammatory,yes,PSS,yes,yes,1.3,12,0.7,marsh type 3c,atypical,yes
+25,Male,Yes,Type 2,inflammatory,yes,PSS,yes,yes,1.1,8.1,1.8,marsh type 3c,atypical,yes
+31,Male,Yes,Type 2,inflammatory,yes,PSS,yes,yes,0.6,12,0.8,marsh type 1,silent,yes
+28,Male,Yes,Type 2,watery,yes,Variant ,yes,yes,1,10.5,2,marsh type 3c,atypical,yes
+26,Female,Yes,Type 2,fatty ,yes,Variant ,yes,yes,2,9,1,marsh type 2,typical,yes
+8,Male,Yes,Type 1,fatty ,yes,PSS,yes,yes,1.9,9,0.6,marsh type 3a,atypical,yes
+19,Male,Yes,Type 1,watery,yes,PSS,yes,yes,1,12,2,marsh type 2,typical,yes
+28,Female,Yes,Type 1,inflammatory,yes,Variant ,yes,no,1,11,1,marsh type 3b,atypical,yes
+23,Female,Yes,Type 1,watery,yes,PSS,yes,yes,1,7,0.9,marsh type 1,silent,yes
+9,Female,Yes,Type 1,fatty ,yes,PSS,yes,no,0.9,10.5,0.8,marsh type 3a,silent,yes
+8,Female,Yes,Type 1,fatty ,yes,Variant ,yes,yes,0.8,9.5,1.2,marsh type 2,typical,yes
+9,Male,Yes,Type 1,inflammatory,yes,Variant ,yes,yes,1.6,11.4,0.91,marsh type 3a,atypical,yes
+7,Male,Yes,Type 1,watery,yes,PSS,yes,yes,0.92,12,1,marsh type 0,potential,yes
+8,Male,Yes,Type 1,watery,yes,PSS,yes,yes,1.66,8,2,marsh type 3b,atypical,yes
+6,Female,Yes,Type 1,fatty ,yes,Variant ,yes,yes,1,11.5,2,marsh type 3a,silent,yes
+6,Male,Yes,Type 1,fatty ,yes,Variant ,yes,yes,1,11,1.3,marsh type 2,typical,yes
+10,Male,Yes,Type 1,inflammatory,no,DSS,yes,no,2.3,7,2.1,marsh type 3b,atypical,yes
+3,Male,Yes,Type 1,inflammatory,yes,Variant ,yes,yes,1,9,1.4,marsh type 1,potential,yes
+7,Male,Yes,Type 1,watery,no,Variant ,no,no,1,9.4,1.6,none,none,no
+9,Female,Yes,Type 2,watery,no,DSS,no,no,1.2,9,1,none,none,no
+10,Female,no,None,inflammatory,no,DSS,no,no,1.3,8,1,none,none,no
+6,Male,Yes,Type 1,fatty ,yes,PSS,yes,yes,0.51,13.4,0.91,marsh type 2,typical,yes
+10,Male,Yes,Type 1,watery,yes,Variant ,yes,yes,1.8,13,0.8,marsh type 3b,atypical,yes
+9,Female,Yes,Type 1,watery,yes,PSS,yes,yes,1.3,9,1.1,marsh type 1,latent,yes
+3,Male,Yes,Type 1,fatty ,yes,PSS,yes,no,1.1,7,0.6,marsh type 2,typical,yes
+10,Female,no,None,inflammatory,no,DSS,no,no,1.3,8,1,none,none,no
+6,Male,Yes,Type 1,watery,yes,PSS,yes,yes,0.51,13.4,0.91,marsh type 2,typical,yes
+10,Female,Yes,Type 1,watery,yes,PSS,yes,yes,1.1,6.1,1.1,marsh type 3b,silent,yes
+11,Female,Yes,Type 1,inflammatory,yes,PSS,yes,yes,2.1,6.9,1.2,marsh type 1,silent,yes
+12,Male,Yes,Type 1,watery,yes,Variant ,yes,yes,2,9,1.1,marsh type 3b,typical,yes
+12,Male,Yes,Type 1,inflammatory,yes,Variant ,yes,yes,0.97,9.1,1.77,marsh type 3a,atypical,yes
+7,Male,no,None,fatty ,no,Variant ,no,no,1,5,1.2,none,none,no
+9,Male,no,None,fatty ,no,Variant ,no,no,2,5,1.8,none,none,no
+31,Female,Yes,Type 1,watery,yes,PSS,yes,yes,1,8,1.8,marsh type 1,silent,yes
+10,Male,Yes,Type 1,fatty ,yes,PSS,yes,yes,2.1,8,1.1,marsh type 3b,silent,yes
+32,Female,Yes,Type 1,fatty ,yes,Variant ,yes,yes,1,12,0.9,marsh type 3c,atypical,yes
+35,Female,Yes,Type 1,watery,yes,Variant ,yes,yes,2,12.3,0.98,marsh type 1,silent,yes
+29,Male,Yes,Type 1,fatty ,yes,PSS,yes,yes,1.4,12,1.1,marsh type 3b,typical,yes
+29,Female,Yes,Type 1,fatty ,yes,PSS,yes,yes,0.34,9,0.6,marsh type 0,potential,yes
+7,Male,no,None,inflammatory,yes,DSS,yes,yes,2.1,9.5,2.1,marsh type 3b,typical,yes
+11,Male,Yes,Type 1,fatty ,yes,Variant ,yes,yes,1.9,12.1,1.1,marsh type 3a,atypical,yes
+11,Male,Yes,Type 1,watery,no,Variant ,yes,yes,2.4,11,0.77,marsh type 3c,silent,yes
+9,Female,Yes,Type 1,fatty ,yes,DSS,yes,yes,2.1,10,0.6,marsh type 1,potential,yes
+16,Male,Yes,Type 1,fatty ,yes,DSS,yes,yes,1.6,11,1.6,marsh type 2,typical,yes
+20,Female,Yes,Type 1,watery,no,Variant ,yes,yes,1.5,12,1.6,marsh type 3a,atypical,yes
+16,Male,Yes,Type 1,watery,no,PSS,yes,yes,2.1,9,0.8,marsh type 2,typical,yes
+8,Male,Yes,Type 1,watery,yes,PSS,no,no,1,10.5,1.1,marsh type 0,silent,yes
+7,Female,Yes,Type 1,watery,yes,Variant ,yes,yes,1.1,9.5,1,marsh type 3b,silent,yes
+8,Male,Yes,Type 1,watery,yes,Variant ,yes,yes,2.1,11.4,1,marsh type 3a,atypical,yes
+6,Female,Yes,Type 1,watery,yes,PSS,yes,yes,0.8,12,0.98,marsh type 3c,silent,yes
+7,Female,Yes,Type 1,watery,yes,PSS,yes,yes,1.5,8,1.1,marsh type 1,potential,yes
+5,Male,Yes,Type 1,watery,yes,Variant ,yes,yes,0.42,11.5,1,marsh type 3c,atypical,yes
+8,Female,Yes,Type 1,inflammatory,yes,Variant ,yes,yes,0.56,11,1,marsh type 2,typical,yes
+8,Male,no,None,inflammatory,no,DSS,no,no,1.5,7,1.2,none,none,no
+7,Male,Yes,Type 1,inflammatory,yes,PSS,no,no,0.51,13.4,0.91,marsh type 0,silent,yes
+8,Female,Yes,Type 1,watery,yes,PSS,no,no,1.7,12,1,marsh type 3b,atypical,yes
+9,Male,Yes,Type 1,inflammatory,yes,Variant ,yes,yes,1.1,8,1.5,marsh type 1,potential,yes
+21,Female,Yes,Type 1,inflammatory,yes,PSS,yes,yes,1.3,12,0.7,marsh type 3c,atypical,yes
+25,Male,Yes,Type 2,watery,yes,PSS,yes,yes,1.1,8.1,1.8,marsh type 3c,atypical,yes
+31,Male,Yes,Type 2,fatty ,yes,PSS,yes,yes,0.6,12,0.8,marsh type 1,silent,yes
+28,Male,Yes,Type 2,fatty ,yes,Variant ,yes,yes,1,10.5,2,marsh type 3c,atypical,yes
+26,Female,Yes,Type 2,fatty ,yes,Variant ,yes,yes,2,9,1,marsh type 2,typical,yes
+8,Male,Yes,Type 1,watery,yes,PSS,yes,yes,1.9,9,0.6,marsh type 3a,atypical,yes
+19,Male,Yes,Type 1,inflammatory,yes,PSS,yes,yes,1,12,2,marsh type 2,typical,yes
+28,Female,Yes,Type 1,watery,yes,Variant ,yes,no,1,11,1,marsh type 3b,atypical,yes
+23,Female,Yes,Type 1,watery,yes,PSS,yes,yes,1,7,0.9,marsh type 1,silent,yes
+9,Female,Yes,Type 1,inflammatory,yes,PSS,yes,no,0.9,10.5,0.8,marsh type 3a,silent,yes
+8,Female,Yes,Type 1,inflammatory,yes,Variant ,yes,yes,0.8,9.5,1.2,marsh type 2,typical,yes
+9,Male,Yes,Type 1,watery,yes,Variant ,yes,yes,1.6,11.4,0.91,marsh type 3a,atypical,yes
+7,Male,Yes,Type 1,watery,yes,PSS,yes,yes,0.92,12,1,marsh type 0,potential,yes
+8,Male,Yes,Type 1,inflammatory,yes,PSS,yes,yes,1.66,8,2,marsh type 3b,atypical,yes
+6,Female,Yes,Type 1,watery,yes,Variant ,yes,yes,1,11.5,2,marsh type 3a,silent,yes
+6,Male,Yes,Type 1,watery,yes,Variant ,yes,yes,1,11,1.3,marsh type 2,typical,yes
+10,Male,Yes,Type 1,inflammatory,no,DSS,yes,no,2.3,7,2.1,marsh type 3b,atypical,yes
+3,Male,Yes,Type 1,inflammatory,yes,Variant ,yes,yes,1,9,1.4,marsh type 1,potential,yes
+7,Male,no,None,watery,no,Variant ,no,no,1,9.4,1.6,none,none,no
+9,Female,no,None,watery,no,DSS,no,no,1.2,9,1,none,none,no
+10,Female,no,None,inflammatory,no,DSS,no,no,1.3,8,1,none,none,no
+6,Male,Yes,Type 1,fatty ,yes,PSS,yes,yes,0.51,13.4,0.91,marsh type 2,typical,yes
+10,Male,Yes,Type 1,inflammatory,yes,Variant ,yes,yes,1.8,13,0.8,marsh type 3b,atypical,yes
+9,Female,Yes,Type 1,fatty ,yes,PSS,yes,yes,1.3,9,1.1,marsh type 1,latent,yes
+3,Male,Yes,Type 1,watery,yes,PSS,yes,no,1.1,7,0.6,marsh type 2,typical,yes
+10,Female,no,None,watery,no,DSS,no,no,1.3,8,1,none,none,no
+6,Male,Yes,Type 1,fatty ,yes,PSS,yes,yes,0.51,13.4,0.91,marsh type 2,typical,yes
+10,Male,Yes,Type 1,inflammatory,yes,Variant ,yes,yes,1.8,13,0.8,marsh type 3b,atypical,yes
+9,Female,Yes,Type 1,inflammatory,yes,PSS,yes,yes,1.3,9,1.1,marsh type 1,latent,yes
+3,Male,Yes,Type 1,fatty ,yes,PSS,yes,no,1.1,7,0.6,marsh type 2,typical,yes
+11,Female,Yes,Type 1,watery,yes,PSS,yes,no,1.4,12,1.1,marsh type 3b,typical,yes
+15,Male,Yes,Type 1,fatty ,yes,PSS,yes,no,0.34,10,0.6,marsh type 0,potential,yes
+7,Female,no,None,inflammatory,yes,DSS,yes,yes,2.1,8.5,2.1,marsh type 3b,typical,yes
+12,Female,Yes,Type 1,inflammatory,yes,Variant ,yes,yes,1.9,11.1,1.1,marsh type 3a,atypical,yes
+7,Female,Yes,Type 2,fatty ,yes,PSS,no,no,0.51,13.4,0.91,marsh type 0,silent,yes
+8,Male,no,None,fatty ,yes,PSS,no,no,1.7,12,1,marsh type 0,potential,yes
+9,Female,Yes,Type 2,inflammatory,yes,Variant ,yes,yes,1.1,8,1.5,marsh type 1,potential,yes
+21,Male,Yes,Type 1,inflammatory,yes,PSS,yes,yes,1.3,12,0.7,marsh type 3c,atypical,yes
+31,Male,Yes,Type 1,inflammatory,yes,Variant ,yes,yes,2.6,14.2,2,marsh type 3b,atypical,yes
+11,Female,Yes,Type 1,watery,yes,PSS,yes,yes,1,12,1.5,marsh type 1,latent,yes
+12,Female,Yes,Type 1,fatty ,yes,PSS,yes,yes,2,11,1,marsh type 3c,atypical,yes
+10,Female,Yes,None,fatty ,yes,Variant ,yes,no,1.6,8.7,1.2,marsh type 1,latent,yes
+9,Female,Yes,Type 1,watery,no,Variant ,yes,yes,1.2,12,2.1,marsh type 0,latent,yes
+13,Male,Yes,Type 1,inflammatory,yes,PSS,yes,no,0.96,6,0.86,marsh type 0,latent,yes
+10,Female,Yes,Type 1,inflammatory,no,PSS,no,yes,1.1,9,2,marsh type 1,latent,yes
+13,Female,Yes,Type 1,inflammatory,yes,Variant ,yes,yes,0.9,8,1,marsh type 0,latent,yes
+12,Male,no,None,watery,no,Variant ,yes,yes,0.6,12,1,none,none,no
+35,Female,Yes,Type 1,watery,yes,Variant ,yes,yes,2,12.3,0.98,marsh type 1,silent,yes
+29,Male,Yes,Type 1,inflammatory,yes,PSS,yes,yes,1.4,12,1.1,marsh type 3b,typical,yes
+29,Female,Yes,Type 1,inflammatory,yes,PSS,yes,yes,0.34,9,0.6,marsh type 0,potential,yes
+7,Male,Yes,Type 1,watery,yes,PSS,yes,yes,0.92,12,1,marsh type 0,potential,yes
+8,Male,Yes,Type 1,watery,yes,PSS,yes,yes,1.66,8,2,marsh type 3b,atypical,yes
+6,Female,Yes,Type 1,fatty ,yes,Variant ,yes,yes,1,11.5,2,marsh type 3a,silent,yes
+6,Male,Yes,Type 1,fatty ,yes,Variant ,yes,yes,1,11,1.3,marsh type 2,typical,yes
+10,Male,Yes,Type 1,inflammatory,no,DSS,yes,no,2.3,7,2.1,marsh type 3b,atypical,yes
+3,Male,Yes,Type 1,inflammatory,yes,Variant ,yes,yes,1,9,1.4,marsh type 1,potential,yes
+7,Male,no,None,watery,no,Variant ,no,no,1,9.4,1.6,none,none,no
+9,Female,no,None,watery,no,DSS,no,no,1.2,9,1,none,none,no
+10,Female,no,None,inflammatory,no,DSS,no,no,1.3,8,1,none,none,no
+6,Male,Yes,Type 1,fatty ,yes,PSS,yes,yes,0.51,13.4,0.91,marsh type 2,typical,yes
+10,Male,Yes,Type 1,inflammatory,yes,Variant ,yes,yes,1.8,13,0.8,marsh type 3b,atypical,yes
+9,Female,Yes,Type 1,watery,yes,PSS,yes,yes,1.3,9,1.1,marsh type 1,latent,yes
+3,Male,Yes,Type 1,inflammatory,yes,PSS,yes,no,1.1,7,0.6,marsh type 2,typical,yes
+11,Female,Yes,Type 1,inflammatory,yes,PSS,yes,no,1.4,12,1.1,marsh type 3b,typical,yes
+15,Male,Yes,Type 1,watery,yes,PSS,yes,no,0.34,10,0.6,marsh type 0,potential,yes
+7,Female,no,None,inflammatory,yes,DSS,yes,yes,2.1,8.5,2.1,marsh type 3b,typical,yes
+12,Female,Yes,Type 1,watery,yes,Variant ,yes,yes,1.9,11.1,1.1,marsh type 3a,atypical,yes
+12,Female,Yes,Type 1,inflammatory,yes,PSS,yes,yes,2,11,1,marsh type 3c,atypical,yes
+10,Female,Yes,None,inflammatory,yes,Variant ,yes,no,1.6,8.7,1.2,marsh type 1,latent,yes
+9,Female,Yes,Type 1,inflammatory,no,Variant ,yes,yes,1.2,12,2.1,marsh type 0,latent,yes
+13,Male,Yes,Type 1,watery,yes,PSS,yes,no,0.96,6,0.86,marsh type 0,latent,yes
+10,Female,Yes,Type 1,watery,no,PSS,no,yes,1.1,9,2,marsh type 1,latent,yes
+13,Female,Yes,Type 1,fatty ,yes,Variant ,yes,yes,0.9,8,1,marsh type 0,latent,yes
+12,Male,no,None,inflammatory,no,Variant ,yes,yes,0.6,12,1,none,none,no
+14,Female,no,None,inflammatory,yes,DSS,yes,yes,1.9,11,1.1,none,none,no
+18,Female,Yes,Type 1,watery,no,PSS,yes,yes,1.2,9,2.3,marsh type 3b,atypical,yes
+21,Female,Yes,Type 1,inflammatory,yes,Variant ,yes,no,1.1,8.7,1.3,marsh type 1,latent,yes
+14,Male,no,None,fatty ,yes,DSS,yes,no,9,12,1.7,none,none,no
+17,Male,Yes,Type 1,inflammatory,yes,Variant ,yes,yes,1,11.3,1.1,marsh type 3b,silent,yes
+10,Female,Yes,Type 1,inflammatory,yes,Variant ,yes,yes,0.8,9.5,1.2,marsh type 2,typical,yes
+13,Male,Yes,Type 1,fatty ,yes,Variant ,yes,yes,1.6,11.4,0.91,marsh type 3a,atypical,yes
+15,Male,Yes,Type 1,fatty ,yes,PSS,yes,yes,0.92,12,1,marsh type 0,potential,yes
+13,Male,Yes,Type 1,fatty ,yes,PSS,yes,yes,1.66,8,2,marsh type 3b,atypical,yes
+12,Female,Yes,Type 1,inflammatory,yes,Variant ,yes,yes,1,11.5,2,marsh type 3a,silent,yes
+12,Male,Yes,Type 1,fatty ,yes,Variant ,yes,yes,1,11,1.3,marsh type 2,typical,yes
+10,Male,Yes,Type 1,watery,no,DSS,yes,no,2.3,7,2.1,marsh type 3b,atypical,yes
+3,Male,Yes,Type 1,inflammatory,yes,Variant ,yes,yes,1,9,1.4,marsh type 1,potential,yes
+7,Male,no,None,fatty ,no,Variant ,no,no,1,9.4,1.6,none,none,no
+9,Female,no,None,watery,no,DSS,no,no,1.2,9,1,none,none,no
+10,Female,no,None,watery,no,DSS,no,no,1.3,8,1,none,none,no
+6,Male,Yes,Type 1,inflammatory,yes,PSS,yes,yes,0.51,13.4,0.91,marsh type 2,typical,yes
+10,Male,Yes,Type 1,fatty ,yes,Variant ,yes,yes,1.8,13,0.8,marsh type 3b,atypical,yes
+9,Female,Yes,Type 1,fatty ,yes,PSS,yes,yes,1.3,9,1.1,marsh type 1,latent,yes
+3,Male,Yes,Type 1,watery,yes,PSS,yes,no,1.1,7,0.6,marsh type 2,typical,yes
+11,Female,Yes,Type 1,watery,yes,PSS,yes,no,1.4,12,1.1,marsh type 3b,typical,yes
+15,Male,Yes,Type 1,watery,yes,PSS,yes,no,0.34,10,0.6,marsh type 0,potential,yes
+7,Female,no,None,fatty ,yes,DSS,yes,yes,2.1,8.5,2.1,marsh type 3b,typical,yes
+12,Female,Yes,Type 1,watery,yes,Variant ,yes,yes,1.9,11.1,1.1,marsh type 3a,atypical,yes
+7,Female,Yes,Type 2,inflammatory,yes,PSS,no,no,0.51,13.4,0.91,marsh type 0,silent,yes
+8,Male,no,None,watery,yes,PSS,no,no,1.7,12,1,marsh type 0,potential,yes
+9,Female,Yes,Type 2,inflammatory,yes,Variant ,yes,yes,1.1,8,1.5,marsh type 1,potential,yes
+21,Male,Yes,Type 1,watery,yes,PSS,yes,yes,1.3,12,0.7,marsh type 3c,atypical,yes
+31,Male,Yes,Type 1,inflammatory,yes,Variant ,yes,yes,2.6,14.2,2,marsh type 3b,atypical,yes
+11,Female,Yes,Type 1,fatty ,yes,PSS,yes,yes,1,12,1.5,marsh type 1,latent,yes
+12,Female,Yes,Type 1,inflammatory,yes,PSS,yes,yes,2,11,1,marsh type 3c,atypical,yes
+10,Female,Yes,None,watery,yes,Variant ,yes,no,1.6,8.7,1.2,marsh type 1,latent,yes
+9,Female,Yes,Type 1,fatty ,no,Variant ,yes,yes,1.2,12,2.1,marsh type 0,latent,yes
+13,Male,Yes,Type 1,fatty ,yes,PSS,yes,no,0.96,6,0.86,marsh type 0,latent,yes
+10,Female,Yes,Type 1,watery,no,PSS,no,yes,1.1,9,2,marsh type 1,latent,yes
+13,Female,Yes,Type 1,inflammatory,yes,Variant ,yes,yes,0.9,8,1,marsh type 0,latent,yes
+12,Male,no,None,inflammatory,no,Variant ,yes,yes,0.6,12,1,none,none,no
+14,Female,no,None,watery,yes,DSS,yes,yes,1.9,11,1.1,none,none,no
+18,Female,Yes,Type 1,inflammatory,no,PSS,yes,yes,1.2,9,2.3,marsh type 3b,atypical,yes
+21,Female,Yes,Type 1,watery,yes,Variant ,yes,no,1.1,8.7,1.3,marsh type 1,latent,yes
+14,Male,no,None,watery,yes,DSS,yes,no,9,12,1.7,none,none,no
+31,Female,Yes,Type 1,fatty ,yes,PSS,yes,yes,1,8,1.8,marsh type 1,silent,yes
+11,Female,Yes,Type 1,watery,yes,PSS,yes,no,0.9,10.5,0.8,marsh type 3a,silent,yes
+12,Female,Yes,Type 1,watery,yes,Variant ,yes,yes,0.8,9.5,1.2,marsh type 2,typical,yes
+10,Male,Yes,Type 1,fatty ,yes,Variant ,yes,yes,1.6,11.4,0.91,marsh type 3a,atypical,yes
+9,Male,Yes,Type 1,inflammatory,yes,PSS,yes,yes,0.92,12,1,marsh type 0,potential,yes
+9,Male,Yes,Type 1,inflammatory,yes,PSS,yes,yes,1.66,8,2,marsh type 3b,atypical,yes
+8,Female,Yes,Type 1,fatty ,yes,Variant ,yes,yes,1,11.5,2,marsh type 3a,silent,yes
+12,Male,Yes,Type 1,watery,yes,Variant ,yes,yes,1,11,1.3,marsh type 2,typical,yes
+12,Male,Yes,Type 1,inflammatory,no,DSS,yes,no,2.3,7,2.1,marsh type 3b,atypical,yes
+3,Male,Yes,Type 1,inflammatory,yes,Variant ,yes,yes,1,9,1.4,marsh type 1,potential,yes
+7,Male,no,None,fatty ,no,Variant ,no,no,1,9.4,1.6,none,none,no
+13,Female,no,None,fatty ,no,DSS,no,no,1.2,9,1,none,none,no
+10,Female,no,None,watery,no,DSS,no,no,1.3,8,1,none,none,no
+8,Male,Yes,Type 1,inflammatory,yes,PSS,yes,yes,0.51,13.4,0.91,marsh type 2,typical,yes
+10,Male,Yes,Type 1,watery,yes,Variant ,yes,yes,1.8,13,0.8,marsh type 3b,atypical,yes
+9,Female,Yes,Type 1,inflammatory,yes,PSS,yes,yes,1.3,9,1.1,marsh type 1,latent,yes
+3,Male,Yes,Type 1,watery,yes,PSS,yes,no,1.1,7,0.6,marsh type 2,typical,yes
+11,Female,Yes,Type 1,inflammatory,yes,PSS,yes,no,1.4,12,1.1,marsh type 3b,typical,yes
+15,Male,Yes,Type 1,inflammatory,yes,PSS,yes,no,0.34,10,0.6,marsh type 0,potential,yes
+7,Female,no,None,watery,yes,DSS,yes,yes,2.1,8.5,2.1,marsh type 3b,typical,yes
+12,Female,Yes,Type 1,inflammatory,yes,Variant ,yes,yes,1.9,11.1,1.1,marsh type 3a,atypical,yes
+7,Female,Yes,Type 2,inflammatory,yes,PSS,no,no,0.51,13.4,0.91,marsh type 0,silent,yes
+8,Male,no,None,watery,yes,PSS,no,no,1.7,12,1,marsh type 0,potential,yes
+9,Female,Yes,Type 2,watery,yes,Variant ,yes,yes,1.1,8,1.5,marsh type 1,potential,yes
+21,Male,Yes,Type 1,fatty ,yes,PSS,yes,yes,1.3,12,0.7,marsh type 3c,atypical,yes
+31,Male,Yes,Type 1,watery,yes,Variant ,yes,yes,2.6,14.2,2,marsh type 3b,atypical,yes
+11,Female,Yes,Type 1,watery,yes,PSS,yes,yes,1,12,1.5,marsh type 1,latent,yes
+12,Female,Yes,Type 1,inflammatory,yes,PSS,yes,yes,2,11,1,marsh type 3c,atypical,yes
+10,Female,Yes,None,inflammatory,yes,Variant ,yes,no,1.6,8.7,1.2,marsh type 1,latent,yes
+9,Female,Yes,Type 1,inflammatory,no,Variant ,yes,yes,1.2,12,2.1,marsh type 0,latent,yes
+13,Male,Yes,Type 1,watery,yes,PSS,yes,no,0.96,6,0.86,marsh type 0,latent,yes
+10,Female,Yes,Type 1,watery,no,PSS,no,yes,1.1,9,2,marsh type 1,latent,yes
+13,Female,Yes,Type 1,inflammatory,yes,Variant ,yes,yes,0.9,8,1,marsh type 0,latent,yes
+12,Male,no,None,watery,no,Variant ,yes,yes,0.6,12,1,none,none,no
+14,Female,no,None,watery,yes,DSS,yes,yes,1.9,11,1.1,none,none,no
+18,Female,Yes,Type 1,inflammatory,no,PSS,yes,yes,1.2,9,2.3,marsh type 3b,atypical,yes
+21,Female,Yes,Type 1,inflammatory,yes,Variant ,yes,no,1.1,8.7,1.3,marsh type 1,latent,yes
+14,Male,no,None,inflammatory,yes,DSS,yes,no,9,12,1.7,none,none,no
+17,Male,Yes,Type 1,fatty ,yes,Variant ,yes,yes,1,11.3,1.1,marsh type 3b,silent,yes
+11,Female,Yes,Type 1,fatty ,no,DSS,yes,no,0.9,9,1,marsh type 0,latent,yes
+15,Male,Yes,Type 1,fatty ,yes,DSS,no,yes,0.9,10,1.2,marsh type 3c,typical,yes
+10,Female,Yes,Type 1,fatty ,yes,PSS,yes,yes,1.1,6.1,1.1,marsh type 3b,silent,yes
+11,Female,Yes,Type 1,inflammatory,yes,PSS,yes,yes,2.1,6.9,1.2,marsh type 1,silent,yes
+12,Male,Yes,Type 1,watery,yes,Variant ,yes,yes,2,9,1.1,marsh type 3b,typical,yes
+12,Male,Yes,Type 1,watery,yes,Variant ,yes,yes,0.97,9.1,1.77,marsh type 3a,atypical,yes
+7,Male,no,None,fatty ,no,Variant ,no,no,1,5,1.2,none,none,no
+9,Male,no,None,inflammatory,no,Variant ,no,no,2,5,1.8,none,none,no
+31,Female,Yes,Type 1,watery,yes,PSS,yes,yes,1,8,1.8,marsh type 1,silent,yes
+10,Male,Yes,Type 1,watery,yes,PSS,yes,yes,2.1,8,1.1,marsh type 3b,silent,yes
+32,Female,Yes,Type 1,fatty ,yes,Variant ,yes,yes,1,12,0.9,marsh type 3c,atypical,yes
+35,Female,Yes,Type 1,watery,yes,Variant ,yes,yes,2,12.3,0.98,marsh type 1,silent,yes
+29,Male,Yes,Type 1,watery,yes,PSS,yes,yes,1.4,12,1.1,marsh type 3b,typical,yes
+29,Female,Yes,Type 1,inflammatory,yes,PSS,yes,yes,0.34,9,0.6,marsh type 0,potential,yes
+15,Male,Yes,Type 1,fatty ,yes,PSS,yes,no,0.34,10,0.6,marsh type 0,potential,yes
+7,Female,no,None,watery,yes,DSS,yes,yes,2.1,8.5,2.1,marsh type 3b,typical,yes
+12,Female,Yes,Type 1,inflammatory,yes,Variant ,yes,yes,1.9,11.1,1.1,marsh type 3a,atypical,yes
+7,Female,Yes,Type 2,inflammatory,yes,PSS,no,no,0.51,13.4,0.91,marsh type 0,silent,yes
+8,Male,no,None,fatty ,yes,PSS,no,no,1.7,12,1,marsh type 0,potential,yes
+9,Female,Yes,Type 2,fatty ,yes,Variant ,yes,yes,1.1,8,1.5,marsh type 1,potential,yes
+21,Male,Yes,Type 1,inflammatory,yes,PSS,yes,yes,1.3,12,0.7,marsh type 3c,atypical,yes
+31,Male,Yes,Type 1,inflammatory,yes,Variant ,yes,yes,2.6,14.2,2,marsh type 3b,atypical,yes
+11,Female,Yes,Type 1,watery,yes,PSS,yes,yes,1,12,1.5,marsh type 1,latent,yes
+12,Female,Yes,Type 1,fatty ,yes,PSS,yes,yes,2,11,1,marsh type 3c,atypical,yes
+10,Female,Yes,None,fatty ,yes,Variant ,yes,no,1.6,8.7,1.2,marsh type 1,latent,yes
+9,Female,Yes,Type 1,watery,no,Variant ,yes,yes,1.2,12,2.1,marsh type 0,latent,yes
+13,Male,Yes,Type 1,watery,yes,PSS,yes,no,0.96,6,0.86,marsh type 0,latent,yes
+10,Female,Yes,Type 1,fatty ,no,PSS,no,yes,1.1,9,2,marsh type 1,latent,yes
+13,Female,Yes,Type 1,fatty ,yes,Variant ,yes,yes,0.9,8,1,marsh type 0,latent,yes
+12,Male,no,None,watery,no,Variant ,yes,yes,0.6,12,1,none,none,no
+14,Female,no,None,watery,yes,DSS,yes,yes,1.9,11,1.1,none,none,no
+22,Female,Yes,Type 1,watery,no,PSS,yes,yes,1.2,9,2.3,marsh type 3b,atypical,yes
+24,Female,Yes,Type 1,inflammatory,yes,Variant ,yes,no,1.1,8.7,1.3,marsh type 1,latent,yes
+19,Male,no,None,watery,yes,DSS,yes,no,9,12,1.7,none,none,no
+20,Male,Yes,Type 1,fatty ,yes,PSS,no,no,1,11.3,1.1,marsh type 3b,silent,yes
+11,Female,Yes,Type 1,fatty ,no,PSS,no,no,0.9,9,1,marsh type 0,latent,yes
+15,Male,Yes,Type 1,inflammatory,yes,Variant ,yes,yes,0.9,10,1.2,marsh type 3c,typical,yes
+10,Female,Yes,Type 1,watery,yes,PSS,no,no,1.1,6.1,1.1,marsh type 3b,silent,yes
+11,Female,Yes,Type 1,watery,yes,PSS,no,no,2.1,6.9,1.2,marsh type 1,silent,yes
+10,Male,Yes,Type 1,fatty ,yes,Variant ,yes,yes,2.1,12,0.77,marsh type 1,silent,yes
+8,Male,Yes,Type 1,fatty ,yes,Variant ,yes,yes,1.9,9,0.6,marsh type 3a,atypical,yes
+19,Male,Yes,Type 1,watery,yes,PSS,yes,yes,1,12,2,marsh type 2,typical,yes
+28,Female,Yes,Type 1,inflammatory,yes,PSS,yes,yes,1,11,1,marsh type 3b,atypical,yes
+23,Female,Yes,Type 1,watery,yes,Variant ,yes,yes,1,7,0.9,marsh type 1,silent,yes
+9,Female,Yes,Type 1,watery,yes,Variant ,yes,yes,0.9,10.5,0.8,marsh type 3a,silent,yes
+8,Female,Yes,Type 1,inflammatory,yes,DSS,no,no,0.8,9.5,1.2,marsh type 2,typical,no
+9,Male,Yes,Type 1,inflammatory,yes,PSS,no,no,1.6,11.4,0.91,marsh type 3a,atypical,yes
+7,Male,Yes,Type 1,watery,yes,PSS,no,no,0.92,12,1,none,none,no
+8,Male,Yes,Type 1,watery,yes,Variant ,yes,yes,1.66,8,2,marsh type 3b,atypical,yes
+6,Female,Yes,Type 1,inflammatory,yes,PSS,no,no,1,11.5,2,marsh type 3a,silent,yes
+6,Male,Yes,Type 1,watery,yes,PSS,no,no,1,11,1.3,none,none,no
+10,Male,Yes,Type 1,watery,no,Variant ,yes,yes,2.3,7,2.1,marsh type 3b,atypical,yes
+3,Male,Yes,Type 1,inflammatory,yes,Variant ,yes,yes,1,9,1.4,marsh type 1,potential,yes
+7,Male,no,None,inflammatory,no,PSS,yes,yes,1,9.4,1.6,none,none,no
+9,Female,no,None,watery,no,PSS,yes,no,1.2,9,1,none,none,no
+10,Female,no,None,watery,no,Variant ,yes,yes,1.3,8,1,none,none,no
+6,Male,Yes,Type 1,inflammatory,yes,Variant ,yes,no,0.51,13.4,0.91,marsh type 2,typical,yes
+10,Male,Yes,Type 1,fatty ,yes,DSS,no,no,1.8,13,0.8,marsh type 3b,atypical,yes
+9,Female,Yes,Type 1,inflammatory,yes,PSS,no,no,1.3,9,1.1,marsh type 1,latent,no
+3,Male,Yes,Type 1,fatty ,yes,PSS,no,no,1.1,7,0.6,marsh type 2,typical,yes
+11,Female,Yes,Type 1,watery,yes,Variant ,yes,yes,1.4,12,1.1,none,none,no
+15,Male,Yes,Type 1,watery,yes,PSS,no,no,0.34,10,0.6,marsh type 0,potential,yes
+7,Female,no,None,fatty ,yes,PSS,no,no,2.1,8.5,2.1,none,none,no
+12,Female,Yes,Type 1,inflammatory,yes,PSS,yes,yes,1.9,11.1,1.1,none,none,no
+14,Female,no,None,fatty ,yes,Variant ,yes,no,1.9,11,1.1,none,none,no
+18,Female,Yes,Type 1,watery,no,PSS,yes,yes,1.2,9,2.3,marsh type 3b,atypical,yes
+21,Female,Yes,Type 1,inflammatory,yes,Variant ,yes,no,1.1,8.7,1.3,marsh type 1,latent,yes
+14,Male,no,None,watery,yes,PSS,yes,yes,9,12,1.7,none,none,no
+17,Male,Yes,Type 1,fatty ,yes,Variant ,yes,yes,1,11.3,1.1,none,none,no
+11,Female,Yes,Type 1,fatty ,no,DSS,no,no,0.9,9,1,marsh type 0,latent,yes
+15,Male,Yes,Type 1,inflammatory,yes,Variant ,no,no,0.9,10,1.2,marsh type 3c,typical,yes
+10,Female,Yes,Type 1,watery,yes,PSS,no,no,1.1,6.1,1.1,marsh type 3b,silent,yes
+11,Female,Yes,Type 1,watery,yes,PSS,yes,yes,2.1,6.9,1.2,marsh type 1,silent,yes
+12,Male,Yes,Type 1,fatty ,yes,PSS,no,no,2,9,1.1,marsh type 3b,typical,yes
+12,Male,Yes,Type 1,fatty ,yes,Variant ,no,no,0.97,9.1,1.77,marsh type 3a,atypical,yes
+7,Male,no,None,inflammatory,no,Variant ,yes,yes,1,5,1.2,none,none,no
+9,Male,no,None,inflammatory,no,Variant ,yes,yes,2,5,1.8,none,none,no
+31,Female,Yes,Type 1,watery,yes,PSS,yes,yes,1,8,1.8,marsh type 1,silent,yes
+10,Male,Yes,Type 1,watery,yes,PSS,yes,yes,2.1,8,1.1,marsh type 3b,silent,yes
+32,Female,Yes,Type 1,inflammatory,yes,Variant ,yes,yes,1,12,0.9,marsh type 3c,atypical,yes
+35,Female,Yes,Type 1,fatty ,yes,PSS,yes,yes,2,12.3,0.98,marsh type 1,silent,yes
+29,Male,Yes,Type 1,watery,yes,Variant ,yes,yes,1.4,12,1.1,marsh type 3b,typical,yes
+29,Female,Yes,Type 1,watery,yes,PSS,yes,no,0.34,9,0.6,marsh type 0,potential,yes
+7,Male,no,None,fatty ,yes,PSS,yes,no,2.1,9.5,2.1,marsh type 3b,typical,yes
+11,Male,Yes,Type 1,inflammatory,yes,PSS,no,no,1.9,12.1,1.1,marsh type 3a,atypical,yes
+11,Male,Yes,Type 1,watery,no,Variant ,yes,yes,2.4,11,0.77,marsh type 3c,silent,yes
+9,Female,Yes,Type 1,watery,yes,PSS,yes,yes,2.1,10,0.6,marsh type 1,potential,yes
+16,Male,Yes,Type 1,inflammatory,yes,PSS,yes,yes,1.6,11,1.6,marsh type 2,typical,yes
+20,Female,Yes,Type 1,watery,no,Variant ,yes,no,1.5,12,1.6,marsh type 3a,atypical,yes
+16,Male,Yes,Type 1,inflammatory,no,Variant ,yes,yes,2.1,9,0.8,marsh type 2,typical,yes
+8,Male,Yes,Type 1,fatty ,yes,PSS,yes,no,1,10.5,1.1,marsh type 0,silent,yes
+7,Female,Yes,Type 1,fatty ,yes,PSS,no,yes,1.1,9.5,1,none,none,no
+8,Male,Yes,Type 1,watery,yes,Variant ,yes,yes,2.1,11.4,1,marsh type 3a,atypical,yes
+6,Female,Yes,Type 1,fatty ,yes,Variant ,yes,yes,0.8,12,0.98,marsh type 3c,silent,yes
+7,Female,Yes,Type 1,fatty ,yes,DSS,yes,yes,1.5,8,1.1,marsh type 1,potential,yes
+5,Male,Yes,Type 1,watery,yes,PSS,yes,yes,0.42,11.5,1,none,none,no
+8,Female,Yes,Type 1,fatty ,yes,Variant ,yes,no,0.56,11,1,marsh type 2,typical,yes
+8,Male,no,None,fatty ,no,DSS,yes,no,1.5,7,1.2,none,none,no
+7,Male,Yes,Type 1,inflammatory,yes,Variant ,yes,yes,0.51,13.4,0.91,marsh type 0,silent,yes
+8,Female,Yes,Type 1,fatty ,yes,DSS,yes,no,1.7,12,1,marsh type 3b,atypical,yes
+9,Male,Yes,Type 1,watery,yes,DSS,no,yes,1.1,8,1.5,marsh type 1,potential,yes
+21,Female,Yes,Type 1,fatty ,yes,PSS,yes,yes,1.3,12,0.7,none,none,no
+25,Male,Yes,Type 2,fatty ,yes,PSS,yes,yes,1.1,8.1,1.8,marsh type 3c,atypical,yes
+31,Male,Yes,Type 2,watery,yes,Variant ,yes,yes,0.6,12,0.8,marsh type 1,silent,yes
+28,Male,Yes,Type 2,watery,yes,Variant ,yes,yes,1,10.5,2,marsh type 3c,atypical,yes
+26,Female,Yes,Type 2,watery,yes,Variant ,no,no,2,9,1,none,none,no
+9,Female,Yes,Type 1,watery,yes,Variant ,no,no,1.1,9.5,1,marsh type 3b,atypical,yes
+8,Male,Yes,Type 1,watery,yes,PSS,yes,yes,2.1,11.4,1,none,none,no
+7,Female,Yes,Type 1,watery,yes,PSS,yes,yes,0.8,11,0.98,marsh type 3b,atypical,yes
+7,Female,Yes,Type 1,watery,yes,Variant ,yes,yes,1.5,9,1.1,marsh type 2,typical,yes
+5,Male,no,None,watery,yes,Variant ,yes,yes,1,9,1.4,none,none,no
+8,Female,no,None,inflammatory,yes,PSS,yes,yes,1.2,13.1,1.8,none,none,no
+6,Male,Yes,Type 1,inflammatory,yes,PSS,yes,yes,0.42,12,1,marsh type 3a,atypical,yes
+10,Female,no,None,watery,no,DSS,yes,yes,1.3,8,1,none,none,no
+6,Male,Yes,Type 1,inflammatory,yes,Variant ,yes,yes,0.51,13.4,0.91,marsh type 2,typical,yes
+10,Male,Yes,Type 1,fatty ,yes,Variant ,yes,yes,1.8,13,0.8,marsh type 3b,atypical,yes
+9,Female,Yes,Type 1,inflammatory,yes,DSS,yes,yes,1.3,9,1.1,marsh type 1,latent,yes
+3,Male,Yes,Type 1,fatty ,yes,DSS,yes,yes,1.1,7,0.6,marsh type 2,typical,yes
+11,Female,Yes,Type 1,watery,yes,Variant ,yes,yes,1.4,12,1.1,marsh type 3b,typical,yes
+15,Male,Yes,Type 1,watery,yes,PSS,yes,yes,0.34,10,0.6,marsh type 0,potential,yes
+7,Female,no,None,fatty ,yes,PSS,no,no,2.1,8.5,2.1,marsh type 3b,typical,yes
+12,Female,Yes,Type 1,inflammatory,yes,Variant ,yes,yes,1.9,11.1,1.1,marsh type 3a,atypical,yes
+7,Female,Yes,Type 2,inflammatory,yes,Variant ,yes,yes,0.51,13.4,0.91,marsh type 0,silent,yes
+8,Male,no,None,fatty ,yes,PSS,yes,yes,1.7,12,1,marsh type 0,potential,yes
+9,Female,Yes,Type 2,watery,yes,PSS,yes,yes,1.1,8,1.5,marsh type 1,potential,yes
+21,Male,Yes,Type 1,fatty ,yes,Variant ,yes,yes,1.3,12,0.7,marsh type 3c,atypical,yes
+31,Male,Yes,Type 1,inflammatory,yes,Variant ,yes,yes,2.6,14.2,2,marsh type 3b,atypical,yes
+11,Female,Yes,Type 1,inflammatory,yes,DSS,no,no,1,12,1.5,marsh type 1,latent,yes
+12,Female,Yes,Type 1,fatty ,yes,PSS,no,no,2,11,1,marsh type 3c,atypical,yes
+10,Female,Yes,None,fatty ,yes,PSS,no,no,1.6,8.7,1.2,marsh type 1,latent,yes
+9,Female,Yes,Type 1,inflammatory,no,Variant ,yes,yes,1.2,12,2.1,marsh type 0,latent,yes
+13,Male,Yes,Type 1,inflammatory,yes,PSS,yes,yes,0.96,6,0.86,marsh type 0,latent,yes
+10,Female,Yes,Type 1,inflammatory,no,PSS,yes,yes,1.1,9,2,marsh type 1,latent,yes
+13,Female,Yes,Type 1,watery,yes,PSS,yes,yes,0.9,8,1,marsh type 0,latent,yes
+12,Male,no,None,fatty ,no,PSS,no,yes,0.6,12,1,none,none,no
+14,Female,no,None,fatty ,yes,Variant ,yes,yes,1.9,11,1.1,none,none,no
+18,Female,Yes,Type 1,watery,yes,PSS,no,yes,1.2,9,2.3,marsh type 3b,atypical,yes
+21,Female,Yes,Type 1,inflammatory,yes,PSS,no,no,1.1,8.7,1.3,marsh type 1,latent,yes
+14,Male,no,None,watery,yes,Variant ,yes,no,9,12,1.7,none,none,no
+31,Female,Yes,Type 1,watery,yes,Variant ,yes,yes,1,8,1.8,marsh type 1,silent,yes
+11,Female,Yes,Type 1,watery,yes,PSS,yes,no,0.9,10.5,0.8,marsh type 3a,silent,yes
+12,Female,Yes,Type 1,inflammatory,yes,PSS,yes,yes,0.8,9.5,1.2,marsh type 2,typical,yes
+10,Male,Yes,Type 1,inflammatory,yes,Variant ,yes,yes,1.6,11.4,0.91,marsh type 3a,atypical,yes
+9,Male,Yes,Type 1,watery,yes,Variant ,yes,yes,0.92,12,1,marsh type 0,potential,yes
+9,Male,Yes,Type 1,watery,yes,DSS,no,yes,1.66,8,2,marsh type 3b,atypical,yes
+8,Female,Yes,Type 1,inflammatory,yes,PSS,no,yes,1,11.5,2,marsh type 3a,silent,yes
+12,Male,Yes,Type 1,watery,yes,PSS,no,yes,1,11,1.3,marsh type 2,typical,yes
+12,Male,Yes,Type 1,watery,yes,Variant ,yes,no,2.3,7,2.1,marsh type 3b,atypical,yes
+3,Male,Yes,Type 1,inflammatory,yes,PSS,no,yes,1,9,1.4,marsh type 1,potential,yes
+7,Male,no,None,inflammatory,yes,PSS,no,no,1,9.4,1.6,none,none,no
+13,Female,no,None,watery,no,Variant ,yes,no,1.2,9,1,none,none,no
+10,Female,no,None,watery,yes,Variant ,yes,no,1.3,8,1,none,none,no
+8,Male,Yes,Type 1,inflammatory,no,PSS,yes,yes,0.51,13.4,0.91,marsh type 2,typical,yes
+10,Male,Yes,Type 1,fatty ,no,PSS,yes,yes,1.8,13,0.8,marsh type 3b,atypical,yes
+9,Female,Yes,Type 1,inflammatory,no,Variant ,yes,yes,1.3,9,1.1,marsh type 1,latent,yes
+3,Male,Yes,Type 1,fatty ,yes,Variant ,yes,no,1.1,7,0.6,marsh type 2,typical,yes
+11,Female,Yes,Type 1,watery,yes,DSS,no,no,1.4,12,1.1,marsh type 3b,typical,yes
+15,Male,Yes,Type 1,watery,yes,PSS,no,no,0.34,10,0.6,marsh type 0,potential,yes
+7,Female,no,None,fatty ,yes,PSS,no,yes,2.1,8.5,2.1,marsh type 3b,typical,yes
+12,Female,Yes,Type 1,inflammatory,yes,Variant ,yes,yes,1.9,11.1,1.1,marsh type 3a,atypical,yes
+7,Female,Yes,Type 2,inflammatory,yes,PSS,no,no,0.51,13.4,0.91,marsh type 0,silent,yes
+8,Male,no,None,fatty ,yes,PSS,no,no,1.7,12,1,marsh type 0,potential,yes
+9,Female,Yes,Type 2,watery,yes,PSS,yes,yes,1.1,8,1.5,marsh type 1,potential,yes
+21,Male,Yes,Type 1,fatty ,yes,Variant ,yes,yes,1.3,12,0.7,marsh type 3c,atypical,yes
+31,Male,Yes,Type 1,inflammatory,no,PSS,yes,yes,2.6,14.2,2,marsh type 3b,atypical,yes
+11,Female,Yes,Type 1,inflammatory,yes,Variant ,yes,yes,1,12,1.5,marsh type 1,latent,yes
+12,Female,Yes,Type 1,fatty ,yes,PSS,yes,yes,2,11,1,marsh type 3c,atypical,yes
+10,Female,Yes,None,fatty ,yes,Variant ,yes,no,1.6,8.7,1.2,marsh type 1,latent,yes
+9,Female,Yes,Type 1,inflammatory,no,DSS,no,yes,1.2,12,2.1,marsh type 0,latent,yes
+13,Male,Yes,Type 1,inflammatory,yes,Variant ,no,no,0.96,6,0.86,marsh type 0,latent,yes
+10,Female,Yes,Type 1,inflammatory,yes,PSS,no,yes,1.1,9,2,marsh type 1,latent,yes
+13,Female,Yes,Type 1,watery,yes,PSS,yes,yes,0.9,8,1,marsh type 0,latent,yes
+12,Male,no,None,fatty ,yes,PSS,no,yes,0.6,12,1,none,none,no
+14,Female,no,None,fatty ,yes,Variant ,no,yes,1.9,11,1.1,none,none,no
+18,Female,Yes,Type 1,watery,no,Variant ,yes,yes,1.2,9,2.3,marsh type 3b,atypical,yes
+21,Female,Yes,Type 1,inflammatory,no,Variant ,yes,no,1.1,8.7,1.3,marsh type 1,latent,yes
+14,Male,no,None,watery,yes,PSS,yes,no,9,12,1.7,none,none,no
+17,Male,Yes,Type 1,fatty ,yes,PSS,yes,yes,1,11.3,1.1,marsh type 3b,silent,yes
+11,Female,Yes,Type 1,fatty ,yes,Variant ,yes,no,0.9,9,1,marsh type 0,latent,yes
+15,Male,Yes,Type 1,inflammatory,yes,PSS,yes,yes,0.9,10,1.2,marsh type 3c,typical,yes
+10,Female,Yes,Type 1,watery,yes,Variant ,yes,yes,1.1,6.1,1.1,marsh type 3b,silent,yes
+11,Female,Yes,Type 1,watery,yes,PSS,yes,yes,2.1,6.9,1.2,marsh type 1,silent,yes
+12,Male,Yes,Type 1,fatty ,yes,PSS,yes,yes,2,9,1.1,marsh type 3b,typical,yes
+12,Male,Yes,Type 1,fatty ,yes,PSS,no,yes,0.97,9.1,1.77,marsh type 3a,atypical,yes
+7,Male,no,None,inflammatory,no,Variant ,yes,no,1,5,1.2,none,none,no
+9,Male,no,None,inflammatory,yes,PSS,yes,no,2,5,1.8,none,none,no
+31,Female,Yes,Type 1,watery,yes,PSS,yes,yes,1,8,1.8,marsh type 1,silent,yes
+10,Male,Yes,Type 1,watery,no,Variant ,yes,yes,2.1,8,1.1,marsh type 3b,silent,yes
+32,Female,Yes,Type 1,inflammatory,no,Variant ,yes,yes,1,12,0.9,marsh type 3c,atypical,yes
+35,Female,Yes,Type 1,fatty ,yes,PSS,yes,yes,2,12.3,0.98,marsh type 1,silent,yes
+29,Male,Yes,Type 1,watery,yes,PSS,no,yes,1.4,12,1.1,marsh type 3b,typical,yes
+29,Female,Yes,Type 1,watery,yes,Variant ,yes,yes,0.34,9,0.6,marsh type 0,potential,yes
+15,Male,Yes,Type 1,watery,yes,Variant ,yes,no,0.34,10,0.6,marsh type 0,potential,yes
+7,Female,no,None,fatty ,yes,DSS,yes,yes,2.1,8.5,2.1,marsh type 3b,typical,yes
+12,Female,Yes,Type 1,inflammatory,yes,PSS,yes,yes,1.9,11.1,1.1,marsh type 3a,atypical,yes
+7,Female,Yes,Type 2,inflammatory,yes,Variant ,yes,no,0.51,13.4,0.91,marsh type 0,silent,yes
+8,Male,no,None,fatty ,no,DSS,yes,no,1.7,12,1,marsh type 0,potential,yes
+9,Female,Yes,Type 2,watery,yes,Variant ,yes,yes,1.1,8,1.5,marsh type 1,potential,yes
+21,Male,Yes,Type 1,fatty ,yes,DSS,yes,yes,1.3,12,0.7,marsh type 3c,atypical,yes
+31,Male,Yes,Type 1,inflammatory,yes,DSS,no,yes,2.6,14.2,2,marsh type 3b,atypical,yes
+11,Female,Yes,Type 1,inflammatory,yes,PSS,yes,yes,1,12,1.5,marsh type 1,latent,yes
+12,Female,Yes,Type 1,fatty ,yes,PSS,yes,yes,2,11,1,marsh type 3c,atypical,yes
+10,Female,Yes,None,fatty ,yes,Variant ,yes,no,1.6,8.7,1.2,marsh type 1,latent,yes
+9,Female,Yes,Type 1,inflammatory,yes,Variant ,yes,yes,1.2,12,2.1,marsh type 0,latent,yes
+13,Male,Yes,Type 1,inflammatory,yes,Variant ,no,no,0.96,6,0.86,marsh type 0,latent,yes
+10,Female,Yes,Type 1,inflammatory,yes,Variant ,no,yes,1.1,9,2,marsh type 1,latent,yes
+13,Female,Yes,Type 1,watery,yes,PSS,yes,yes,0.9,8,1,marsh type 0,latent,yes
+12,Male,no,None,fatty ,yes,PSS,yes,yes,0.6,12,1,none,none,no
+14,Female,no,None,fatty ,yes,Variant ,yes,yes,1.9,11,1.1,none,none,no
+22,Female,Yes,Type 1,watery,yes,Variant ,yes,yes,1.2,9,2.3,marsh type 3b,atypical,yes
+24,Female,Yes,Type 1,inflammatory,yes,PSS,yes,no,1.1,8.7,1.3,marsh type 1,latent,yes
+19,Male,no,None,watery,yes,PSS,yes,no,9,12,1.7,none,none,no
+20,Male,Yes,Type 1,fatty ,no,DSS,yes,yes,1,11.3,1.1,marsh type 3b,silent,yes
+11,Female,Yes,Type 1,fatty ,yes,Variant ,yes,no,0.9,9,1,marsh type 0,latent,yes
+15,Male,Yes,Type 1,inflammatory,yes,Variant ,yes,yes,0.9,10,1.2,marsh type 3c,typical,yes
+10,Female,Yes,Type 1,watery,yes,DSS,yes,yes,1.1,6.1,1.1,marsh type 3b,silent,yes
+11,Female,Yes,Type 1,watery,yes,DSS,yes,yes,2.1,6.9,1.2,marsh type 1,silent,yes
+10,Male,Yes,Type 1,fatty ,yes,Variant ,yes,no,2.1,12,0.77,marsh type 1,silent,yes
+8,Male,Yes,Type 1,fatty ,yes,PSS,yes,yes,1.9,9,0.6,marsh type 3a,atypical,yes
+19,Male,Yes,Type 1,watery,yes,PSS,no,yes,1,12,2,marsh type 2,typical,yes
+28,Female,Yes,Type 1,inflammatory,yes,Variant ,yes,no,1,11,1,marsh type 3b,atypical,yes
+23,Female,Yes,Type 1,watery,yes,Variant ,yes,yes,1,7,0.9,marsh type 1,silent,yes
+9,Female,Yes,Type 1,watery,yes,PSS,yes,no,0.9,10.5,0.8,marsh type 3a,silent,yes
+8,Female,Yes,Type 1,inflammatory,yes,PSS,yes,yes,0.8,9.5,1.2,marsh type 2,typical,no
+9,Male,Yes,Type 1,inflammatory,yes,Variant ,yes,yes,1.6,11.4,0.91,marsh type 3a,atypical,yes
+7,Male,Yes,Type 1,watery,yes,Variant ,yes,yes,0.92,12,1,none,none,no
+8,Male,Yes,Type 1,watery,yes,DSS,no,yes,1.66,8,2,marsh type 3b,atypical,yes
+6,Female,Yes,Type 1,inflammatory,yes,PSS,no,yes,1,11.5,2,marsh type 3a,silent,yes
+6,Male,Yes,Type 1,watery,yes,PSS,no,yes,1,11,1.3,none,none,no
+10,Male,Yes,Type 1,watery,no,Variant ,yes,no,2.3,7,2.1,marsh type 3b,atypical,yes
+3,Male,Yes,Type 1,inflammatory,yes,PSS,yes,yes,1,9,1.4,marsh type 1,potential,yes
+7,Male,no,None,inflammatory,no,PSS,yes,no,1,9.4,1.6,none,none,no
+9,Female,no,None,watery,yes,PSS,yes,no,1.2,9,1,none,none,no
+10,Female,no,None,watery,no,DSS,no,no,1.3,8,1,none,none,no
+6,Male,Yes,Type 1,inflammatory,yes,PSS,yes,yes,0.51,13.4,0.91,marsh type 2,typical,yes
+10,Male,Yes,Type 1,fatty ,yes,Variant ,yes,yes,1.8,13,0.8,marsh type 3b,atypical,yes
+9,Female,Yes,Type 1,inflammatory,yes,PSS,yes,yes,1.3,9,1.1,marsh type 1,latent,no
+3,Male,Yes,Type 1,fatty ,yes,PSS,yes,no,1.1,7,0.6,marsh type 2,typical,yes
+11,Female,Yes,Type 1,watery,yes,PSS,yes,no,1.4,12,1.1,none,none,no
+15,Male,Yes,Type 1,watery,yes,PSS,yes,no,0.34,10,0.6,marsh type 0,potential,yes
+7,Female,no,None,fatty ,yes,DSS,yes,yes,2.1,8.5,2.1,none,none,no
+12,Female,Yes,Type 1,inflammatory,yes,Variant ,yes,yes,1.9,11.1,1.1,none,none,no
