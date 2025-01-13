@@ -1,6 +1,5 @@
 close all; clear; clc;
 
-
 %% data 
 
 A=[2.650 8.95
@@ -115,8 +114,6 @@ suppA = supp(supp <= nA);
 suppB = supp(supp > nA);
 
 % Compute the errors xi
-
-
 for i=1:l
     if (la(i) > C-0.001 & la(i)< C+0.001) 
         xi(i)= 1 - y(i)*(T(i,:)*wD +bD);

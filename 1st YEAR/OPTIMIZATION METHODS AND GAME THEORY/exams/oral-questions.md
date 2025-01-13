@@ -20,8 +20,8 @@ Student 1 (from quasi sufficient to 21):
 > (What are the complementarity conditions? Which is the relation between Psi(i) and lambda(i) in the complementarity conditions?)
 >
 >2. Give the definition of coercivity and explain why the given function is not coercive. 
->
 >* The function was: f(x1, x2) = (x1)^2
+
 >3. Give the definition of Nash equilibrium
 >4. Give the definition of Best Response set.
 ---
@@ -171,7 +171,7 @@ Oral questions of today oral:
 
 
 >Frangioni:
->1.  What you know about optimal stepsize for gradient method? Does it converge? How fast?
+>1. What you know about optimal stepsize for gradient method? Does it converge? How fast?
 >2. Can you define what is super linear convergence rate and what it means ?
 >3. Can you write down the primal model of the support vector machine ? 
 >4. What can you tell me about Quasi-Newton methods ? 
