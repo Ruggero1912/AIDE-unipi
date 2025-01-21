@@ -1,178 +1,84 @@
 ### Optimization Methods oral questions
+#
+# The questions written below are just a list of questions that were asked to students during the oral exams, it is recommended to use it 
+# only as a help and not to learn exclusively the questions inside the file, for possible answers or corrections contact one of the maintainers.
+# 
+# Professor Mastroeni usually increases the written grade by 3/4 points if the oral questions are correct.
 
+# Convex and coercive
+    - Give the definition of coercivity and explain why the given function is not coercive. --> f(x1, x2) = (x1)^2
+    - When a problem is said convex?
+        (!) when his hessian matrix is positive definite
+    - Existence of global minimum in an uncostrain problem
+    
+# Unconstrain Problem 
+    - In the case of unconstrained problem, what implies the Hessian positive semidefinite?
+        (!) the problem is convex and x* is global optimum if and only if gradient(f(x*)) = 0
+    - When you apply an iterative algorithm to a non-convex function what do you expect to find?
+        (!) a stationary point
+    - Gradient method
+        (?) - What you know about optimal stepsize for this method? Does it converge? How fast?
+    - Inexact gradient method
+        (?) - Differences with gradient method
+    - Conjugate gradient method
+        (?) - What you know about optimal stepsize for this method? Does it converge? How fast?
+    - Can you define what is super linear convergence rate (for example quadratic convergence) and what it means ?
+    - Newton method
+        (?) - What you know about optimal stepsize for this method? Does it converge? How fast?
 
-#### Questions 1st call January 2024 (program AA 23-24)
+# Classification Problem
+    - Small introduction about the support vector machine and meaning of separation margin
+    - When writing a model (e.g. SV Classifier with slack variables), you have to explain what every symbol corresponds to
+    - What infos do i get from the vector lambda of the dual problem in classification with slack variable ?
+        (?) - What are the complementarity conditions? Which is the relation between Psi(i) and lambda(i) in the complementarity conditions?
+        (?) - What happens when lambda(i) is equal to 0, when it is equal to C or it is between 0 and C?
+    - Prove that if a point is misclassified, then lambda(i) must be equal to C
+    - Why if for a given point for which lambda(i) is equal to C and  Psi(i) is 0.5 you have that it could be correctly classsified?
+        (!) because when Psi(i) is lower than 1, it could happen that a point is by the right side of the hyperplane, but inside the epsilon-tube.
+    
+# Regression Problem
+    - Small introduction of regression problem
+    - Dual form of linear e-sv regression model with slack variable
+    - Dual form of nonlinear e-sv regression model with slack variable
+        (?) - What is kernel function
 
-##### DAY 1
+# Clustering Problem
+    - Small introduction of a clustering problem
+    - Demonstration of k-median as a technique to solve the clustering problem
 
-(Matroeni only)
+# Costrained Method
+    - How do you get to write a dual problem?
+        (?) - When Strong Duality holds?
+            (!) strong duality holds when v(P) = v(D) and D admit an optimal solution, sufficient condition for that are that (P) is convex, admit x* as
+                global optimum and ACQ holds in x*
+        (?) - What are the necessary conditions for Karush-Kuhn-Tucker theorem and when they become sufficient for optimality?
+            (!) a global optimum x* must be solution of KKT system as necessary condition, and became sufficient when (P) is convex
+    - Which are the necessary conditions for optimality in the case of a constrained problem?
+        (!) the optimum must be solution of KKT system
+    - Write the formula of the Lagrangian, its gradient, the Lagrangian relaxation.
+    - In the case of constrained optimization algorithm what do you expect to find? For example in the case of the penalty method?
+    - How to use Penality Method if a problem has equality constrain
+        (!) transform each equality constrain into two inequality constrains for example for x = 2 i can write { x <= 2; -x <= -2 }
+        (?) - Which method we should adopt to solve the obtained unconstrained problem?
+            (!) if i used penality method and the final objective function is C1 i can use gradient method or conjugate method,
+                if the final objective function is quadratic is prefered to use the conjugate method
+    - Solve a constrained problem with inexact penalty method.
+    - Differences between penality method and inexact penality method
 
----
-Student 1 (from quasi sufficient to 21):
+# Multiobjective problem
+    - Definition of Ideal Minimum, Pareto Minimum, Weak Pareto Minimum
+    - Dimostrate that if a set of pareto minimum contains some points, ideal minimum can be exists 
+    - Scalarization method
+        (?) - How to find set of Pareto Minimum and Weak Pareto Minimum if (P) is convex? And if (P) is linear?
+    - Goal method
 
->0. questions about errors of the written part
->1. What infos do i get from the vector lambda of the dual problem? (talking about the exercise 2 of the written test: SV Classification with slack variables)
->
->* What happens when lambda(i) is equal to 0, when it is equal to C or it is between 0 and C?
->
->* Why if I take all the points with lambda(i) equal to C it is not granted that they are all misclassified, but only a subset of them?
->
-> (What are the complementarity conditions? Which is the relation between Psi(i) and lambda(i) in the complementarity conditions?)
->
->2. Give the definition of coercivity and explain why the given function is not coercive. 
->* The function was: f(x1, x2) = (x1)^2
-
->3. Give the definition of Nash equilibrium
->4. Give the definition of Best Response set.
----
-Student 2 (from 22 to 26):
-
->0. Errors of the written part:
-> * When writing a model (e.g. SV Classifier with slack variables), you have to explain what every symbol corresponds to (in the example: what is l)
-> * When writing back the results, you had to write the lambda vector obtained from the dual problem resolution in Matlab
-> * When reporting the support vectors and misclassified points, you had to say which points where equal to C and which where > 0.
-> 1. Same question as Student 1 question 1
-> 2. Same question as Student 1 question 2
-> 3. Talk about complementarity conditions of SV Classifier with slack variables.
-> * Prove that if a point is misclassified, then lambda(i) must be equal to C
-> * Why if for a given point for which lambda(i) is equal to C and  Psi(i) is 0.5 you have that it could be correctly classsified?
->   * Because when Psi(i) is lower than 1, it could happen that a point is by the right side of the hyperplane, but inside the epsilon-tube.
-> 4. Considering exercise 3, note that Matlab is effective when the scalarized problem is strongly convex, in fact it is sufficient to exploit Matlab to find the solutions, since every scalarized problem has one unique optimal solution which can be found by Matlab.
-> 5. Give the definition of Nash equilibrium and give an introduction to non-cooperative game theory in case of zero sum games.
-> * explain what is a strategy, what is a cost function, what does it mean zero-sum game.
-
----
-
-Student 3 (from 22 to 26):
-
->0. errors of the written test.
->1. When you apply an iterative algorithm to a non-convex function what do you expect to find?
-> * (a stationary point)
->2. In the case of **constrained** optimization algorithm instead what do you expect to find? For example in the case of the penalty method?
-> * ~~(a point that belongs to the feasible region (not sure))~~
->3. Which are the necessary conditions for optimality in the case of a constrained problem?
->4. In the case of unconstrained problem, what implies the Hessian positive semidefinite?
->5. Write the primal problem of linear SVM Classifier with soft margin.
->6. Talk me about the theorem that you want
-
----
-
-Student 4 (from 23 to 28):
-
->0. Questions about the errors made in the written part.
->1. How do you get to write a dual problem?
-> * When Strong Duality holds?
-> * What are the necessary conditions for Karush-Kuhn-Tucker theorem and when they become sufficient for optimality?
->2. When a problem is said convex?
->3. Why the function (same as Student 1 question 2) is not coercive?
->4. -- missing some questions  --
-
----
-
-##### DAY 2
-
-(Both Mastroeni and Frangioni)
-
---- 
-
-Student 1:
-
->Mastroeni: 
->
-> Mainly talks about the errors done in the written part.
-
->Frangioni: 
->1. talk about della kernel function in general, 
->2. apply that to the exercise on binary classification
->3. how do you transform that problem in an unconstrained problem? 
-> * (bisogna usare la penalty function e trasformare i vincoli di uguaglianza in vincoli di disuguaglianza) 
->4. Which method we should adopt to solve the obtained unconstrained problem?
->
-> * (gradient method o conjugate gradient method perché la funzione ottenuta con il penalty method appartiene alla classe C1)
-
---- 
-
-Student 2:
-
->Mastroeni:
->
->Questions about the errors made in the written part + questions about the theoretical part relative to the exercises of the written test.
-
-
->Frangioni:
->
-> Solve a constrained problem with inexact penalty method.
-
-> Tendenzialmente, se si fa un buon orale, tendono ad aumentare il voto dello scritto di 3-5 punti.
-
----
-
----
----
-
-
-#### Questions 4th call September 2023 (program AA 22-23)
-
-Both Mastroeni and Frangioni, previous program.
-
-Student 1:
-
->Mastroeni:
->
->correction of the errors I made in written exam. 
-
->Frangioni:
->
-> 1. asked me some theory about the Lagrangian Dual since I did some mistakes in implementing it in the written exam, in particular he asked me to write the formula of the Lagrangian, its gradient, the Lagrangian relaxation, 
-> and he asked me to demonstrate that solving the Lagrangian relaxation works even if the Hessian is not positive definite but needs some particular constraints. 
-
->The oral part with Frangioni can take long, but hopefully he guided me in the demonstration since I had no idea how to prove it (he did not demonstrate that thing during lessons).
-
----
-
-Student 2:
-
->Mastroeni: 
->
->0. correction of errors made in written exam; 
->1. zero sum game, what does it means w.r.t. matrix game, what if w.r.t. bimatrix game, systems to find mixed strategy on matrix game, their properties; 
->2. ideal minimum.
-
->Frangioni: 
->
->1. Lagrangian Dual solutions and counter part (primal) properties, properties of lagrangian relaxation, Dual in special case (convexity), 
->2. demonstration of k-median as a technique to solve the clustering problem. 
-
->Oral: up to 1 hour.
-
---- 
-
-Student 3:
-
->Mastroeni:
->
-> asked about exam errors
-
->Frangioni:
->
-> asked about the optional question on the exam:
-> 1. Explain how the Lagrangian heuristic works in the Lagrangian dual method. 
->2. MILP formulation and if I can mathematically prove that using the L1 norm leads to finding the optimal centroid.
-
----
----
-
-#### Questions 2nd call June 2023 (program AA 22-23)
-
-
-Oral questions of today oral: 
-
->Mastroeni asks about the errors of the written exam
-
-
->Frangioni:
->1. What you know about optimal stepsize for gradient method? Does it converge? How fast?
->2. Can you define what is super linear convergence rate and what it means ?
->3. Can you write down the primal model of the support vector machine ? 
->4. What can you tell me about Quasi-Newton methods ? 
->* How Hk is choosen?
+# Game theory
+    - Introduction to non-cooperative game theory in case of zero sum games.
+        (!) Explain what is a strategy, what is a cost function, what does it mean zero-sum game.
+    - Definition of matrix game and bimatrix game 
+    - Give the definition of Nash equilibrium
+        (!) (x*, y*) is a nash equilibrium for a non-cooperative game for 2 player if and only if f1(x*, y*) = min f1(x, y*) and f2(x*, y*) = min f2(x*, y)
+    - Give the definition of Best Response set.
+        (!) B1: Y -> X and B2: X -> Y as B1(y) = { optimal solution x of min xC1y } and B2(x) = { optimal solution y of min xC2y } 
+            then (x*, y*) is nash equilibrium if and only if x* = B1(y*) and y* = B2(x*)
+    - Duality in the game theory (strong duality)
