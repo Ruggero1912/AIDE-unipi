@@ -21,6 +21,7 @@
     - Inexact gradient method
         (?) - Differences with gradient method
     - Conjugate gradient method
+        (?) - Hypothesis on the use of this method
         (?) - What you know about optimal stepsize for this method? Does it converge? How fast?
     - Can you define what is super linear convergence rate (for example quadratic convergence) and what it means ?
     - Newton method
@@ -47,6 +48,7 @@
     - Demonstration of k-median as a technique to solve the clustering problem
 
 # Costrained Method
+    - What does it means "ACQ valid in x*" ?
     - How do you get to write a dual problem?
         (?) - When Strong Duality holds?
             (!) strong duality holds when v(P) = v(D) and D admit an optimal solution, sufficient condition for that are that (P) is convex, admit x* as
@@ -67,7 +69,8 @@
 
 # Multiobjective problem
     - Definition of Ideal Minimum, Pareto Minimum, Weak Pareto Minimum
-    - Dimostrate that if a set of pareto minimum contains some points, ideal minimum can be exists 
+    - The three theorems of the existence of the pareto minimum
+    - Dimostrate with example that if a set of pareto minimum contains some points, ideal minimum can be exists 
     - Scalarization method
         (?) - How to find set of Pareto Minimum and Weak Pareto Minimum if (P) is convex? And if (P) is linear?
     - Goal method
