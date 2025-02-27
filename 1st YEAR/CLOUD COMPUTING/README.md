@@ -1,30 +1,4 @@
 # Cloud Computing
-
-Professors: Carlo Vallati, Nicola Tonellotto (lab)
-
-CFU: 9
-
-Code: 876II
-
-[UniPi page](https://esami.unipi.it/esami2/programma.php?pg=ects&c=48212)
-
-[Registro delle lezioni](https://unimap.unipi.it/registri/dettregistriNEW.php?re=3325519::::&ri=013155)
-
-### Exam structure
-
-In order to make the oral exam, you have to implement and present a project work made in group (group members: 3).
-
-The specifications for the project work are given by the professors during the course.
-
-STEPS:
-
-1. **Project presentation**
-2. **Oral exam**
-
-### Official material links
-
-- [prof. Tonellotto GitHub repo for the cloud course](https://github.com/tonellotto/cloud-computing)
-
 ### Students' projects
 
 This is a list of the public projects made by some students in the past. For some of them only the documentation is available, for some others the code too:
