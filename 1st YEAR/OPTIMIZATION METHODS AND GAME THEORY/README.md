@@ -53,4 +53,9 @@ Here you can find a collection of public notes written by the students:
 >
 >author: Francesco Grillea
 
+- [Optimization Methods and Game Theory Notes](https://ivanbrillo.github.io/Courses/course_pages/OMGT.html): 
+>made in the academic year 2025, in english
+>
+>author: Ivan Brillo
+
 #### Share your notes via pull req, opening issue or DM a mantainer
