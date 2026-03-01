@@ -43,4 +43,10 @@ You can find a collection of oral questions in the directory [ORAL QUESTIONS](or
 
 Here you can find a collection of public notes written by the students:
 
+- [Computational Intelligence and Deep Learning Notes](https://ivanbrillo.github.io/Courses/course_pages/Deep_Learning.html)
+>Accademic Year 2025-2026
+>
+>Written by Ivan Brillo
+
+
 #### Share your notes via pull req, opening issue or DM a mantainer
