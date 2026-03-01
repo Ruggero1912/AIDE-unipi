@@ -50,6 +50,12 @@ This is a list of the public projects made by some students in the past. For som
 >
 >both doc and code
 
+### Students' notes
+
+- [Distributed Systems and Middleware Technologies Notes & Project](https://ivanbrillo.github.io/Courses/course_pages/Distributed_System.html)
+>Authors: Ivan Brillo
+>
+>Accademic Year 2025/2026
 
 ### Oral questions
 
