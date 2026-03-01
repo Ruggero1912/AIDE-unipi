@@ -70,3 +70,8 @@ Here you can find a collection of public notes written by the students:
 >
 >author: Anna Fabbri
 
+
+- [Business and Project Management Notes & Project](https://ivanbrillo.github.io/Courses/course_pages/Project_Management.html): 
+>made in the academic year 2025, in english,
+>author: Ivan Brillo
+
