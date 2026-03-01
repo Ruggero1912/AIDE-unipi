@@ -107,6 +107,12 @@ Here you can find a collection of public notes written by the students:
 >**author**: Lorenzo Massagli<br>
 >Resumes the lessons held by prof. Tonellotto
 
+
+- [Multimedia and Information Retrival Notes and Projects](https://ivanbrillo.github.io/Courses/course_pages/IR_CV_and_LM.html):
+>made in the **academic year 2025-2026**<br>
+>**language**: english<br>
+>**author**: Ivan Brillo<br>
+
 ---
 ---
 
