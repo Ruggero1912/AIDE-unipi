@@ -81,6 +81,14 @@ This is a list of the public projects made by some students in the past. For som
 >
 >code, presentation, readme that explains how to deploy
 
+
+### Students' notes
+
+- [Internet of Things Notes & Project](https://ivanbrillo.github.io/Courses/course_pages/IoT.html)
+>Authors: Ivan Brillo
+>
+>Accademic Year 2024/2025
+
 ### Oral questions
 
 You can find a collection of oral questions in the file [oral-quesions.md](oral-questions.md) and in the directory [ORAL QUESTIONS](ORAL-QUESTIONS), some of them may be in italian.
