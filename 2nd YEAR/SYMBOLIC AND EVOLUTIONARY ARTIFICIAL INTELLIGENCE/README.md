@@ -44,4 +44,9 @@ Here you can find a collection of public notes written by the students:
 >
 >author: Lorenzo Massagli
 
+- [Symbolic and Evolutionary Artificial Intelligence Notes and Project](https://ivanbrillo.github.io/Courses/course_pages/MOEA_and_RL.html): 
+>Written in Italian
+>
+>author: Ivan Brillo
+
 #### Share your notes via pull req, opening issue or DM a mantainer
