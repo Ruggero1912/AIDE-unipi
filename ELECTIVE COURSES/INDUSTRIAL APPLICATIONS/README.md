@@ -24,6 +24,11 @@ Here you can find a collection of public notes written by the students:
 >**author**: Lorenzo Massagli<br>
 >Resumes the lessons
 
+- [Industrial Application Notes and Project](https://ivanbrillo.github.io/Courses/course_pages/Industrial_Applications.html):
+>made in the **academic year 2025/2026**<br>
+>**language**: english<br>
+>**author**: Ivan Brillo<br>
+
 ### Students' projects
 
 This is a list of the public projects made by some students in the past. For some of them only the documentation is available, for some others the code too:
