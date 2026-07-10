@@ -177,6 +177,7 @@ This is a list of the public projects made by some students in the past. For som
 >
 > Report, Presentation, Code, Notebook, Link to the dataset
 
+
 #### **Add your project!** 
 if you want to share your project make a pull req or DM
 
@@ -189,5 +190,11 @@ You can find a collection of oral questions in the directory [ORAL QUESTIONS](or
 ### Students' notes
 
 Here you can find a collection of public notes written by the students:
+
+- [Data Mining and Machine Learning Notes & Project](https://ivanbrillo.github.io/Courses/course_pages/ML.html)
+> Accademic year: 2025
+> 
+> Made by Ivan Brillo
+
 
 #### Share your notes via pull req, opening issue or DM a mantainer

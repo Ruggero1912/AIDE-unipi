@@ -80,4 +80,10 @@ Here you can find a collection of public notes written by the students:
 >**authors**: Tommaso Amarante, Edoardo Morucci<br>
 >Resumes all the lessons held by prof. Vallati
 
+- [Cloud Computing Notes and Project](https://ivanbrillo.github.io/Courses/course_pages/Cloud_Computing.html):
+>made in the **academic year 2025**<br>
+>**language**: english<br>
+>**author**: Ivan Brillo<br>
+>Resumes all the lessons held by prof. Vallati and Puliafito
+
 #### Share your notes via pull req, opening issue or DM a mantainer

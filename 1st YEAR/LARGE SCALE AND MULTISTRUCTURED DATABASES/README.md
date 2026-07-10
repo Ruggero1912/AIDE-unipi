@@ -124,3 +124,6 @@ Here you can find a collection of public notes written by the students:
 >author: Anna Fabbri
 
 - [LargeScaleRecap](LargeScaleRecap_20-21_Valerio-Giannini.pdf): made in the academic year 20-21, 58 pages, in english, author: Valerio Giannini
+
+- [Large Scale and Multistructured Databases Notes & Project](https://ivanbrillo.github.io/Courses/course_pages/Large_scale_database.html): made in the academic year 2025, in english, author: Ivan Brillo
+

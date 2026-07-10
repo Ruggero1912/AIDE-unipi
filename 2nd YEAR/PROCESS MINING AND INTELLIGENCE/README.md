@@ -41,6 +41,12 @@ You can find a collection of oral questions in the directory [ORAL QUESTIONS](or
 
 ### Students' notes
 
+- [Process Mining and Intelligence Notes & Project](https://ivanbrillo.github.io/Courses/course_pages/Process_Mining_and_Intelligence.html)
+>Authors: Ivan Brillo
+>
+>Accademic Year 2025/2026
+
+
 Here you can find a collection of public notes written by the students:
 
 #### Share your notes via pull req, opening issue or DM a mantainer
