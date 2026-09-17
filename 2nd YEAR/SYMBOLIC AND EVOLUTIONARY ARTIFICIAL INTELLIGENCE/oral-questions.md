@@ -1,18 +1,54 @@
-#### SEAI Questions
+## ############ Evolutionary Multi Objective Optimization (EMOO) ############ 
+## Genetic Algorithms
+# Family 1
+> pseudocodice paes(1+1), 
+> come posso fare a fare in modo che la griglia venga costruita solo inizialmente e non subisca aggiornamenti, ha senso costruire una griglia con celle di dimensione differente l'una dall' altra?
+> usiamo la distanza euclidea di paes per la griglia di archivio (archivial grid) ?
 
-Di seguito sono riportate alcune domande raccolte nel tempo da studenti degli anni precedenti:
+# Family 2
+> Sms-emoa
+> Abbiamo discusso su sms-emoa e di casi limite sull'ipervolume, poi mi ha chiesto quali sono i meta target e quale di questi è filosoficamente più associato alla scelta dell'algoritmo
 
-1) Differenza nsga-ii e nsga-iii
-2) Cosa dovrebbe fare intel per introdurre i posit nel suo processore?
-3) Reinforcement Learning, modello dell'environment
-4) Table lookup, model based RL
-5) Perché non va bene risolvere un problema multi obiettivo come uno single objective?
+## MOEAs Performance Comparison
+> metodi di confronto tra fronti di pareto 
+    > hypervolume 
+    > generational distance
+    > IGD
 
-- moea/d
-- differenze fra i vari algoritmi di model based rl
-- megiddo embedding a cosa serve e perché
-- coco chiede moead, nsga the second, differenze con il third, quegli algoritmi li. metriche (gd, igd, volume, delta..). clustering si puo usare dentro alg genetici?(clustering come tecnica di nitching (nicchie) dove cluster sono le nicchie, come clustering va bene il k medoids in cui i centoridi che vengono fuori sono individui stessi).
-- fiaschi reinf learning no formule, sapere che la poliza prende in ingresso uno stato etc.. policy gradient method, actor critic.  
-- Con me all'orale sono stati abbastanza tranquilli. Co ciccioni mi ha chiesto la pareto-dominance, quali algoritmi la usano, differenze tra NSGA-II e NSGA-III
-- Fiaschi mi ha chiesto le differenze tra rappresentazione simbolica e numerica , vantaggi e svantaggi dell'una e dell'altra
-- E poi mi ha in generale che approssimazioni servono per implementare effettivamente nella macchina il framework non-archimedean che abbiamo visto noi
+## Many Objective Optimization
+> NSGA-III
+    > I reference point sono dinamici?
+
+## Mixed Pareto Lexicographic Problems
+> Pure Lexicographic NSGA-II
+> Come adattare PAES alle soluzione dei problemi Priority Levels (ne discuti insieme a lui, non c’è una soluzione precisa basta parlargli)
+
+
+## ############ Non Archimedian Artificial Intelligence (NAAI) ############ 
+> Parlami di alpha theory e ban
+> Definizione di BAN e fare un esempio, cosa è la parte standard di un numero algoritmico (sta domanda non so da dove la ha tirata fuori perché non mi pareva ci fosse nelle slide questa cosa)
+
+
+
+## ############ Reinforcement Learning (RL) ############ 
+## Markov Chains
+> markov chain 
+> disegna delle catene con alcune proprietà specifiche
+
+## Multi Armed Bandits
+> Multi armed bandits
+
+## Markov Decision Processes 
+> MDP
+
+## Model Free Reinforcement Learning
+> SARSA converge su infiniti stati coppia action value? (do sarsa converged on infinite state action value pairs?)
+> Q-learning converged on finite state action value pairs?
+
+## Deep Reinforcement Learning
+> Si potrebbe implementare dqn per sarsa?
+> Come implementeresti deep-sarsa
+
+## Policy Gradient Methods
+> reinforce vs actor-critic
+> Descrivere Actor/Critic, cosa è l'advantage e quali sono le differenze con Reinforce
